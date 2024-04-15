@@ -1,0 +1,114 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+achou:/home/mopuser/workspace/loadLibrary.csv
+Modifying surefire to add Java-MOP...
+=====Version:: 2.17
+=====Version:: [default-test]
+[INFO] 
+[INFO] -----------------------< com.soulgalore:crawler >-----------------------
+[INFO] Building Crawler 1.5.14
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- enforcer:1.0:enforce (enforce-maven) @ crawler ---
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ crawler ---
+[INFO] Copying 1 resource from src/main/resources to target/classes
+[INFO] 
+[INFO] --- compiler:2.5.1:compile (default-compile) @ crawler ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ crawler ---
+[INFO] Copying 7 resources from src/test/resources to target/test-classes
+[INFO] 
+[INFO] --- compiler:2.5.1:testCompile (default-testCompile) @ crawler ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- surefire:2.17:test (default-test) @ crawler ---
+[INFO] Surefire report directory: /home/mopuser/workspace/crawler/target/surefire-reports
+[INFO] parallel='classes', perCoreThreadCount=true, threadCount=5, useUnlimitedThreads=false, threadCountSuites=0, threadCountClasses=0, threadCountMethods=0, parallelOptimized=true
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.soulgalore.crawler.RegressionTest5
+Tests run: 501, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.022 sec - in com.soulgalore.crawler.RegressionTest5
+Running com.soulgalore.crawler.RegressionTest19
+Tests run: 500, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.424 sec - in com.soulgalore.crawler.RegressionTest19
+Running com.soulgalore.crawler.RegressionTest26
+Tests run: 234, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.442 sec - in com.soulgalore.crawler.RegressionTest26
+Running com.soulgalore.crawler.RegressionTest24
+Tests run: 500, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.424 sec - in com.soulgalore.crawler.RegressionTest24
+Running com.soulgalore.crawler.RegressionTest20
+Tests run: 500, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.428 sec - in com.soulgalore.crawler.RegressionTest20
+Running com.soulgalore.crawler.RegressionTest9
+Tests run: 500, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.463 sec - in com.soulgalore.crawler.RegressionTest9
+Running com.soulgalore.crawler.RegressionTest15
+Tests run: 501, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.339 sec - in com.soulgalore.crawler.RegressionTest15
+Running com.soulgalore.crawler.RegressionTest10
+Tests run: 501, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.373 sec - in com.soulgalore.crawler.RegressionTest10
+Running com.soulgalore.crawler.RegressionTest8
+Tests run: 500, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.264 sec - in com.soulgalore.crawler.RegressionTest8
+Running com.soulgalore.crawler.RegressionTest0
+Tests run: 500, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.424 sec - in com.soulgalore.crawler.RegressionTest0
+Running com.soulgalore.crawler.RegressionTest13
+Tests run: 501, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.229 sec - in com.soulgalore.crawler.RegressionTest13
+Running com.soulgalore.crawler.RegressionTest6
+Tests run: 501, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.561 sec - in com.soulgalore.crawler.RegressionTest6
+Running com.soulgalore.crawler.RegressionTest12
+Tests run: 500, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.434 sec - in com.soulgalore.crawler.RegressionTest12
+Running com.soulgalore.crawler.RegressionTest22
+Tests run: 501, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.007 sec - in com.soulgalore.crawler.RegressionTest22
+Running com.soulgalore.crawler.RegressionTest11
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.841 sec - in com.soulgalore.crawler.RegressionTest11
+Running com.soulgalore.crawler.WhenAPageURLIsCreated
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.107 sec - in com.soulgalore.crawler.WhenAPageURLIsCreated
+Running com.soulgalore.crawler.RegressionTest14
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.05 sec - in com.soulgalore.crawler.RegressionTest14
+Running com.soulgalore.crawler.WhenACrawlerResultIsCreated
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.831 sec - in com.soulgalore.crawler.WhenACrawlerResultIsCreated
+Running com.soulgalore.crawler.run.WhenCrawlToPlainTxtRun
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.073 sec - in com.soulgalore.crawler.run.WhenCrawlToPlainTxtRun
+Running com.soulgalore.crawler.RegressionTest2
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.343 sec - in com.soulgalore.crawler.RegressionTest2
+Running com.soulgalore.crawler.RegressionTest1
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.513 sec - in com.soulgalore.crawler.RegressionTest1
+Running com.soulgalore.crawler.RegressionTest4
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.708 sec - in com.soulgalore.crawler.RegressionTest4
+Running com.soulgalore.crawler.RegressionTest3
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.818 sec - in com.soulgalore.crawler.RegressionTest3
+Running com.soulgalore.crawler.RegressionTest18
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.551 sec - in com.soulgalore.crawler.RegressionTest18
+Running com.soulgalore.crawler.RegressionTest17
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.003 sec - in com.soulgalore.crawler.RegressionTest17
+Running com.soulgalore.crawler.RegressionTest16
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.35 sec - in com.soulgalore.crawler.RegressionTest16
+Running com.soulgalore.crawler.RegressionTest7
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.484 sec - in com.soulgalore.crawler.RegressionTest7
+Running com.soulgalore.crawler.util.WhenAnAuthObjectIsCreated
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.773 sec - in com.soulgalore.crawler.util.WhenAnAuthObjectIsCreated
+Running com.soulgalore.crawler.RegressionTest21
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.765 sec - in com.soulgalore.crawler.RegressionTest21
+Running com.soulgalore.crawler.core.impl.WhenAhrefsIsParsedFromResponse
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.453 sec - in com.soulgalore.crawler.core.impl.WhenAhrefsIsParsedFromResponse
+Running com.soulgalore.crawler.RegressionTest25
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.278 sec - in com.soulgalore.crawler.RegressionTest25
+Running com.soulgalore.crawler.RegressionTest23
+Tests run: 1000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.097 sec - in com.soulgalore.crawler.RegressionTest23
+Running com.soulgalore.crawler.util.WhenAHeaderIsParsed
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.128 sec - in com.soulgalore.crawler.util.WhenAHeaderIsParsed
+Running com.soulgalore.crawler.core.impl.WhenACrawlIsDone
+[CrawlerURL url:http://soulislove.com/mypath/crawler2.html, CrawlerURL url:http://soulislove.com/crawler4.html, CrawlerURL url:http://soulislove.com/mypath/crawler3.html]Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.97 sec - in com.soulgalore.crawler.core.impl.WhenACrawlIsDone
+Running com.soulgalore.crawler.WhenAStatusCodeIsChecked
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.358 sec - in com.soulgalore.crawler.WhenAStatusCodeIsChecked
+
+Results :
+
+Tests run: 19769, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  06:05 min
+[INFO] Finished at: 2024-03-22T17:04:10Z
+[INFO] ------------------------------------------------------------------------

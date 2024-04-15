@@ -1,0 +1,99 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+achou:/home/mopuser/workspace/loadLibrary.csv
+Modifying surefire to add Java-MOP...
+=====Version:: 3.2.2
+=====Version:: [default-test]
+[INFO] 
+[INFO] --------------------------< org.jsoup:jsoup >---------------------------
+[INFO] Building jsoup 1.7.3-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:2.4:resources (default-resources) @ jsoup ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] 
+[INFO] --- compiler:2.0.2:compile (default-compile) @ jsoup ---
+[INFO] Compiling 4 source files to /home/mopuser/workspace/jsoup-learning/target/classes
+[INFO] 
+[INFO] --- bundle:2.1.0:manifest (bundle-manifest) @ jsoup ---
+[WARNING] Warning in manifest for org.jsoup:jsoup:jar:1.7.3-SNAPSHOT : Superfluous export-package instructions: [us.codecraft.learning, org, us.codecraft, us]
+[INFO] 
+[INFO] --- resources:2.4:testResources (default-testResources) @ jsoup ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 14 resources
+[INFO] 
+[INFO] --- compiler:2.0.2:testCompile (default-testCompile) @ jsoup ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- surefire:3.2.2:test (default-test) @ jsoup ---
+[INFO] Surefire report directory: /home/mopuser/workspace/jsoup-learning/target/surefire-reports
+[INFO] Using auto detected provider org.apache.maven.surefire.junit4.JUnit4Provider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running org.jsoup.parser.AttributeParseTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.44 s -- in org.jsoup.parser.AttributeParseTest
+[INFO] Running org.jsoup.parser.TagTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s -- in org.jsoup.parser.TagTest
+[INFO] Running org.jsoup.parser.XmlTreeBuilderTest
+[WARNING] Tests run: 9, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.142 s -- in org.jsoup.parser.XmlTreeBuilderTest
+[INFO] Running org.jsoup.parser.HtmlParserTest
+[INFO] Tests run: 87, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.366 s -- in org.jsoup.parser.HtmlParserTest
+[INFO] Running org.jsoup.parser.RegressionTest
+[INFO] Tests run: 2193, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.020 s -- in org.jsoup.parser.RegressionTest
+[INFO] Running org.jsoup.parser.CharacterReaderTest
+[INFO] Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s -- in org.jsoup.parser.CharacterReaderTest
+[INFO] Running org.jsoup.parser.TokenQueueTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s -- in org.jsoup.parser.TokenQueueTest
+[INFO] Running org.jsoup.select.ElementsTest
+[INFO] Tests run: 28, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.114 s -- in org.jsoup.select.ElementsTest
+[INFO] Running org.jsoup.select.QueryParserTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s -- in org.jsoup.select.QueryParserTest
+[INFO] Running org.jsoup.select.CssTest
+[INFO] Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.951 s -- in org.jsoup.select.CssTest
+[INFO] Running org.jsoup.select.SelectorTest
+[INFO] Tests run: 48, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.126 s -- in org.jsoup.select.SelectorTest
+[INFO] Running org.jsoup.helper.DataUtilTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s -- in org.jsoup.helper.DataUtilTest
+[INFO] Running org.jsoup.helper.StringUtilTest
+[INFO] Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s -- in org.jsoup.helper.StringUtilTest
+[INFO] Running org.jsoup.helper.HttpConnectionTest
+[INFO] Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.792 s -- in org.jsoup.helper.HttpConnectionTest
+[INFO] Running org.jsoup.safety.CleanerTest
+[INFO] Tests run: 22, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.653 s -- in org.jsoup.safety.CleanerTest
+[INFO] Running org.jsoup.integration.ParseTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.422 s -- in org.jsoup.integration.ParseTest
+[INFO] Running org.jsoup.integration.UrlConnectTest
+[WARNING] Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0 s -- in org.jsoup.integration.UrlConnectTest
+[INFO] Running org.jsoup.nodes.TextNodeTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s -- in org.jsoup.nodes.TextNodeTest
+[INFO] Running org.jsoup.nodes.DocumentTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s -- in org.jsoup.nodes.DocumentTest
+[INFO] Running org.jsoup.nodes.FormElementTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s -- in org.jsoup.nodes.FormElementTest
+[INFO] Running org.jsoup.nodes.EntitiesTest
+[INFO] Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 s -- in org.jsoup.nodes.EntitiesTest
+[INFO] Running org.jsoup.nodes.AttributeTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s -- in org.jsoup.nodes.AttributeTest
+[INFO] Running org.jsoup.nodes.AttributesTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.183 s -- in org.jsoup.nodes.AttributesTest
+[INFO] Running org.jsoup.nodes.NodeTest
+[INFO] Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 s -- in org.jsoup.nodes.NodeTest
+[INFO] Running org.jsoup.nodes.ElementTest
+[INFO] Tests run: 57, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.065 s -- in org.jsoup.nodes.ElementTest
+[INFO] Running org.jsoup.nodes.DocumentTypeTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s -- in org.jsoup.nodes.DocumentTypeTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[WARNING] Tests run: 2591, Failures: 0, Errors: 0, Skipped: 2
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  02:42 min
+[INFO] Finished at: 2024-04-09T17:42:23Z
+[INFO] ------------------------------------------------------------------------

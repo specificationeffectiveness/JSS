@@ -1,0 +1,79 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.8.2 built on Thursday Aug 14, 2014 at 21:45:02 GMT
+---- Dump Properties ---
+Dump file: ajcore.20240408.011818.818.txt
+Dump reason: org.aspectj.bridge.AbortException
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+Message: abort trouble in: 
+org.asteriskjava.RegressionTest17 -- (OutOfMemoryError) GC overhead limit exceeded
+GC overhead limit exceeded
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+
+org.aspectj.bridge.AbortException: trouble in: 
+org.asteriskjava.RegressionTest17
+---- System Properties ---
+java.runtime.name=OpenJDK Runtime Environment
+sun.boot.library.path=/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64
+java.vm.version=25.392-b08
+java.vm.vendor=Private Build
+java.vendor.url=http://java.oracle.com/
+path.separator=:
+java.vm.name=OpenJDK 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.country=US
+sun.java.launcher=SUN_STANDARD
+sun.os.patch.level=unknown
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=/home/mopuser/workspace/asterisk-java
+java.runtime.version=1.8.0_392-8u392-ga-1~22.04-b08
+basedir=/home/mopuser/workspace/asterisk-java
+java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+java.endorsed.dirs=/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed
+os.arch=amd64
+surefire.real.class.path=/home/mopuser/workspace/asterisk-java/target/surefire/surefirebooter-20240408004635917_3.jar:/root/.m2/repository/siestamop-agent/siestamop-agent/1.0/siestamop-agent-1.0.jar
+java.io.tmpdir=/tmp
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+os.name=Linux
+sun.jnu.encoding=ANSI_X3.4-1968
+java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+surefire.test.class.path=/home/mopuser/workspace/asterisk-java/target/test-classes:/home/mopuser/workspace/asterisk-java/target/classes:/root/.m2/repository/com/google/guava/guava/32.1.3-jre/guava-32.1.3-jre.jar:/root/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/root/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/root/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/root/.m2/repository/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0.jar:/root/.m2/repository/com/google/errorprone/error_prone_annotations/2.21.1/error_prone_annotations-2.21.1.jar:/root/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/root/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-core/2.22.0/log4j-core-2.22.0.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-api/2.22.0/log4j-api-2.22.0.jar:/root/.m2/repository/org/reflections/reflections/0.10.2/reflections-0.10.2.jar:/root/.m2/repository/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/root/.m2/repository/org/assertj/assertj-core/3.24.2/assertj-core-3.24.2.jar:/root/.m2/repository/net/bytebuddy/byte-buddy/1.12.21/byte-buddy-1.12.21.jar:/root/.m2/repository/org/mockito/mockito-core/4.10.0/mockito-core-4.10.0.jar:/root/.m2/repository/net/bytebuddy/byte-buddy-agent/1.12.19/byte-buddy-agent-1.12.19.jar:/root/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/root/.m2/repository/ch/qos/logback/logback-classic/1.3.4/logback-classic-1.3.4.jar:/root/.m2/repository/ch/qos/logback/logback-core/1.3.4/logback-core-1.3.4.jar:/root/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar:/root/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+os.version=5.15.90.1-microsoft-standard-WSL2
+user.home=/root
+user.timezone=GMT
+java.awt.printerjob=sun.print.PSPrinterJob
+file.encoding=ANSI_X3.4-1968
+java.specification.version=1.8
+java.class.path=/home/mopuser/workspace/asterisk-java/target/test-classes:/home/mopuser/workspace/asterisk-java/target/classes:/root/.m2/repository/com/google/guava/guava/32.1.3-jre/guava-32.1.3-jre.jar:/root/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/root/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/root/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/root/.m2/repository/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0.jar:/root/.m2/repository/com/google/errorprone/error_prone_annotations/2.21.1/error_prone_annotations-2.21.1.jar:/root/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/root/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-core/2.22.0/log4j-core-2.22.0.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-api/2.22.0/log4j-api-2.22.0.jar:/root/.m2/repository/org/reflections/reflections/0.10.2/reflections-0.10.2.jar:/root/.m2/repository/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/root/.m2/repository/org/assertj/assertj-core/3.24.2/assertj-core-3.24.2.jar:/root/.m2/repository/net/bytebuddy/byte-buddy/1.12.21/byte-buddy-1.12.21.jar:/root/.m2/repository/org/mockito/mockito-core/4.10.0/mockito-core-4.10.0.jar:/root/.m2/repository/net/bytebuddy/byte-buddy-agent/1.12.19/byte-buddy-agent-1.12.19.jar:/root/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/root/.m2/repository/ch/qos/logback/logback-classic/1.3.4/logback-classic-1.3.4.jar:/root/.m2/repository/ch/qos/logback/logback-core/1.3.4/logback-core-1.3.4.jar:/root/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar:/root/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:
+user.name=root
+java.vm.specification.version=1.8
+sun.java.command=/home/mopuser/workspace/asterisk-java/target/surefire/surefirebooter-20240408004635917_3.jar /home/mopuser/workspace/asterisk-java/target/surefire 2024-04-08T00-46-35_764-jvmRun1 surefire-20240408004635917_1tmp surefire_0-20240408004635917_2tmp
+java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre
+sun.arch.data.model=64
+user.language=en
+java.specification.vendor=Oracle Corporation
+awt.toolkit=sun.awt.X11.XToolkit
+java.vm.info=mixed mode
+java.version=1.8.0_392
+java.ext.dirs=/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext
+sun.boot.class.path=/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes
+java.vendor=Private Build
+java.specification.maintenance.version=5
+localRepository=/root/.m2/repository
+file.separator=/
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+sun.io.unicode.encoding=UnicodeLittle
+sun.cpu.endian=little
+sun.cpu.isalist=
+---- Command Line ---
+Empty
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+Empty
