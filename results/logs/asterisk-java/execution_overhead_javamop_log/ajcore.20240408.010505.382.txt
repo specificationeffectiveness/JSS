@@ -1,0 +1,130 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.8.2 built on Thursday Aug 14, 2014 at 21:45:02 GMT
+---- Dump Properties ---
+Dump file: ajcore.20240408.010505.382.txt
+Dump reason: org.aspectj.bridge.AbortException
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+Message: abort trouble in: 
+org.asteriskjava.RegressionTest10 -- (OutOfMemoryError) Java heap space
+Java heap space
+java.lang.OutOfMemoryError: Java heap space
+
+org.aspectj.bridge.AbortException: trouble in: 
+org.asteriskjava.RegressionTest10
+	at org.aspectj.bridge.MessageWriter.handleMessage(MessageWriter.java:47)
+	at org.aspectj.weaver.tools.WeavingAdaptor$WeavingAdaptorMessageWriter.handleMessage(WeavingAdaptor.java:797)
+	at org.aspectj.weaver.tools.WeavingAdaptor$WeavingAdaptorMessageHolder.handleMessage(WeavingAdaptor.java:742)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1730)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveWithoutDump(BcelWeaver.java:1633)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveAndNotify(BcelWeaver.java:1398)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1184)
+	at org.aspectj.weaver.tools.WeavingAdaptor.getWovenBytes(WeavingAdaptor.java:527)
+	at org.aspectj.weaver.tools.WeavingAdaptor.weaveClass(WeavingAdaptor.java:363)
+	at org.aspectj.weaver.loadtime.Aj.preProcess(Aj.java:121)
+	at org.aspectj.weaver.loadtime.ClassPreProcessorAgentAdapter.transform(ClassPreProcessorAgentAdapter.java:54)
+	at sun.instrument.TransformerManager.transform(TransformerManager.java:188)
+	at sun.instrument.InstrumentationImpl.transform(InstrumentationImpl.java:428)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:473)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:74)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:369)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:363)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:362)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at sun.reflect.annotation.AnnotationParser.parseSig(AnnotationParser.java:439)
+	at sun.reflect.annotation.AnnotationParser.parseClassValue(AnnotationParser.java:420)
+	at sun.reflect.annotation.AnnotationParser.parseClassArray(AnnotationParser.java:724)
+	at sun.reflect.annotation.AnnotationParser.parseArray(AnnotationParser.java:531)
+	at sun.reflect.annotation.AnnotationParser.parseMemberValue(AnnotationParser.java:355)
+	at sun.reflect.annotation.AnnotationParser.parseAnnotation2(AnnotationParser.java:286)
+	at sun.reflect.annotation.AnnotationParser.parseAnnotations2(AnnotationParser.java:120)
+	at sun.reflect.annotation.AnnotationParser.parseAnnotations(AnnotationParser.java:72)
+	at java.lang.Class.createAnnotationData(Class.java:3521)
+	at java.lang.Class.annotationData(Class.java:3510)
+	at java.lang.Class.getAnnotation(Class.java:3415)
+	at org.apache.maven.surefire.common.junit4.JUnit4TestChecker.isValidJUnit4Test(JUnit4TestChecker.java:58)
+	at org.apache.maven.surefire.common.junit4.JUnit4TestChecker.accept(JUnit4TestChecker.java:48)
+	at org.apache.maven.surefire.api.util.DefaultScanResult.applyFilter(DefaultScanResult.java:87)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.scanClassPath(JUnit4Provider.java:272)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.setTestsToRun(JUnit4Provider.java:174)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:132)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+---- System Properties ---
+java.runtime.name=OpenJDK Runtime Environment
+sun.boot.library.path=/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64
+java.vm.version=25.392-b08
+java.vm.vendor=Private Build
+java.vendor.url=http://java.oracle.com/
+path.separator=:
+java.vm.name=OpenJDK 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.country=US
+sun.java.launcher=SUN_STANDARD
+sun.os.patch.level=unknown
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=/home/mopuser/workspace/asterisk-java
+java.runtime.version=1.8.0_392-8u392-ga-1~22.04-b08
+basedir=/home/mopuser/workspace/asterisk-java
+java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+java.endorsed.dirs=/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed
+os.arch=amd64
+surefire.real.class.path=/home/mopuser/workspace/asterisk-java/target/surefire/surefirebooter-20240408004635917_3.jar:/root/.m2/repository/siestamop-agent/siestamop-agent/1.0/siestamop-agent-1.0.jar
+java.io.tmpdir=/tmp
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+os.name=Linux
+sun.jnu.encoding=ANSI_X3.4-1968
+java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+surefire.test.class.path=/home/mopuser/workspace/asterisk-java/target/test-classes:/home/mopuser/workspace/asterisk-java/target/classes:/root/.m2/repository/com/google/guava/guava/32.1.3-jre/guava-32.1.3-jre.jar:/root/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/root/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/root/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/root/.m2/repository/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0.jar:/root/.m2/repository/com/google/errorprone/error_prone_annotations/2.21.1/error_prone_annotations-2.21.1.jar:/root/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/root/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-core/2.22.0/log4j-core-2.22.0.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-api/2.22.0/log4j-api-2.22.0.jar:/root/.m2/repository/org/reflections/reflections/0.10.2/reflections-0.10.2.jar:/root/.m2/repository/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/root/.m2/repository/org/assertj/assertj-core/3.24.2/assertj-core-3.24.2.jar:/root/.m2/repository/net/bytebuddy/byte-buddy/1.12.21/byte-buddy-1.12.21.jar:/root/.m2/repository/org/mockito/mockito-core/4.10.0/mockito-core-4.10.0.jar:/root/.m2/repository/net/bytebuddy/byte-buddy-agent/1.12.19/byte-buddy-agent-1.12.19.jar:/root/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/root/.m2/repository/ch/qos/logback/logback-classic/1.3.4/logback-classic-1.3.4.jar:/root/.m2/repository/ch/qos/logback/logback-core/1.3.4/logback-core-1.3.4.jar:/root/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar:/root/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+os.version=5.15.90.1-microsoft-standard-WSL2
+user.home=/root
+user.timezone=GMT
+java.awt.printerjob=sun.print.PSPrinterJob
+file.encoding=ANSI_X3.4-1968
+java.specification.version=1.8
+java.class.path=/home/mopuser/workspace/asterisk-java/target/test-classes:/home/mopuser/workspace/asterisk-java/target/classes:/root/.m2/repository/com/google/guava/guava/32.1.3-jre/guava-32.1.3-jre.jar:/root/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/root/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/root/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/root/.m2/repository/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0.jar:/root/.m2/repository/com/google/errorprone/error_prone_annotations/2.21.1/error_prone_annotations-2.21.1.jar:/root/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/root/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-core/2.22.0/log4j-core-2.22.0.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-api/2.22.0/log4j-api-2.22.0.jar:/root/.m2/repository/org/reflections/reflections/0.10.2/reflections-0.10.2.jar:/root/.m2/repository/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/root/.m2/repository/org/assertj/assertj-core/3.24.2/assertj-core-3.24.2.jar:/root/.m2/repository/net/bytebuddy/byte-buddy/1.12.21/byte-buddy-1.12.21.jar:/root/.m2/repository/org/mockito/mockito-core/4.10.0/mockito-core-4.10.0.jar:/root/.m2/repository/net/bytebuddy/byte-buddy-agent/1.12.19/byte-buddy-agent-1.12.19.jar:/root/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar:/root/.m2/repository/ch/qos/logback/logback-classic/1.3.4/logback-classic-1.3.4.jar:/root/.m2/repository/ch/qos/logback/logback-core/1.3.4/logback-core-1.3.4.jar:/root/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar:/root/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:
+user.name=root
+java.vm.specification.version=1.8
+sun.java.command=/home/mopuser/workspace/asterisk-java/target/surefire/surefirebooter-20240408004635917_3.jar /home/mopuser/workspace/asterisk-java/target/surefire 2024-04-08T00-46-35_764-jvmRun1 surefire-20240408004635917_1tmp surefire_0-20240408004635917_2tmp
+java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre
+sun.arch.data.model=64
+user.language=en
+java.specification.vendor=Oracle Corporation
+awt.toolkit=sun.awt.X11.XToolkit
+java.vm.info=mixed mode
+java.version=1.8.0_392
+java.ext.dirs=/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext
+sun.boot.class.path=/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes
+java.vendor=Private Build
+java.specification.maintenance.version=5
+localRepository=/root/.m2/repository
+file.separator=/
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+sun.io.unicode.encoding=UnicodeLittle
+sun.cpu.endian=little
+sun.cpu.isalist=
+---- Command Line ---
+Empty
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+Empty

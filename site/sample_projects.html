@@ -1,0 +1,358 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Exploring Defects: A Comparative Analysis in Open-Source Projects Using Siesta Specification</title>
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin-ext" rel="stylesheet">
+   
+
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/font-awesome.min.css" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet">
+    <script src="./css/w3data.js.download"></script>
+
+  </head>
+  <body style="font-family:verdana;">
+    <header>
+      <div class="top">
+		  <div class="container">
+		      <div class="row">
+		          <div class="col-sm-6">
+		              <p>Exploring Defects: A Comparative Analysis in Open-Source Projects Using Siesta Specification</p>
+		          </div>
+		      </div>
+		  </div>
+		</div>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="collapse navbar-collapse" id="bs-navbar-collapse">
+		    	<ul class="nav navbar-nav main-navbar-nav">
+		        	<li class="active"><a href="https://leosoftlima.github.io/siesta-violations-data-experiment/site/index.html" title="">Home</a></li>
+		        <!--	<li class="dropdown">
+		            	<a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Avaliação de Resultados <span class="caret"></span></a>
+		            	<ul class="dropdown-menu">
+                            <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq1-results.html" title="">PP1</a></li>
+                            <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq2-results.html" title="">PP2</a></li>
+                            <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq3-results.html" title="">PP3</a></li>
+                            <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq4-results.html" title="">PP4</a></li>
+                  <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq5-results.html" title="">PP5</a></li>
+		            	</ul>
+		        	</li>-->
+                    <li><a href="sample_projects.html" title="">Projects Selection</a></li>
+                   <!-- <li><a href="repoduction.html" title="">Reproduction and Validation</a></li>-->
+		    	</ul>                           
+			</div>        
+			</div>
+		</nav>
+    </header>
+    <div class="bread_area">
+      <div class="container">
+          <div class="row">
+              <div class="col-sm-12">
+                  <ol class="breadcrumb">
+                      <li><a href="index.html">Home</a></li>
+                      <li class="active">List of Projects</li>
+                  </ol>                    
+              </div>
+          </div>
+      </div>
+    </div>
+    <main class="site-main page-main">
+        <div class="container">
+            
+    <!-- ===================START OF PROJECTS========================  --> 
+
+	<div class="row">
+
+<section class="page col-sm-12">
+  <div class="page-header">
+    <h1>Projects</h1>
+    <p> We carefully selected the following 200 GitHub projects for an evaluation of the proposed study. </p>
+    <p> <a href="./projects.csv">
+       <button type="button" class="btn btn-success btn-sm"> <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download </button></a> CSV file for the following table. </p>
+  </div>
+
+      <table class="build_conflicts">
+
+    <tr class= firstline > 
+            <th>#</th>
+            <th>Project Name</th>
+            <th>Github URLs</th>
+            <th>SHA</th>
+	  </tr>
+
+        <tbody>
+	  <td class=cellinside>1</td><td>apache.ambari</td><td><a href=https://github.com/apache/ambari.git>https://github.com/apache/ambari.git</a></td><td>24dbed27b97f4c82835273758f0bceb3334b4ef2</td></tr>
+
+		<td class=cellinside>2</td><td>jbossas.jboss-dmr</td><td><a href=https://github.com/jbossas/jboss-dmr.git>https://github.com/jbossas/jboss-dmr.git</a></td><td>c7d7c1f1f116eb4107c13b98985eaffff5ecf99b</td></tr>
+		<td class=cellinside>3</td><td>avro</td><td><a href=https://github.com/apache/avro.git>https://github.com/apache/avro.git</a></td><td>408099a9f82c542caf397b96f4279a827774a1cb</td></tr>
+		<td class=cellinside>4</td><td>fasseg.exp4j</td><td><a href=https://github.com/fasseg/exp4j.git>https://github.com/fasseg/exp4j.git</a></td><td>2c7795f0ee55e1eae58784a09453018aaa316e2f</td></tr>
+		<td class=cellinside>5</td><td>apache.hive</td><td><a href=https://github.com/apache/hive.git>https://github.com/apache/hive.git</a></td><td>8f4f3b90fa5987e82025ecf81f8084c90130fd6b</td></tr>
+		<td class=cellinside>6</td><td>geosolutions-it.geoserver-manager</td><td><a href=https://github.com/geosolutions-it/geoserver-manager.git>https://github.com/geosolutions-it/geoserver-manager.git</a></td><td>a4268dda604fd34f331466845ebde3a989407bc4</td></tr>
+		<td class=cellinside>7</td><td>ptgoetz.storm-jms</td><td><a href=https://github.com/ptgoetz/storm-jms.git>https://github.com/ptgoetz/storm-jms.git</a></td><td>d152d72f3726f3ff40ba74dee0392f8764b43fd0</td></tr>
+		<td class=cellinside>8</td><td>lusis.zmq-appender</td><td><a href=https://github.com/lusis/zmq-appender.git>https://github.com/lusis/zmq-appender.git</a></td><td>d4ac192bf6ef677ad2b32eec9e81921ec51b08c9</td></tr>
+		<tr>
+		  <td>9</td>
+		  <td>ekuefler.gwt-supereventbus</td>
+		  <td> <a href="https://github.com/ekuefler/gwt-supereventbus.git" > https://github.com/ekuefler/gwt-supereventbus.git </a></td>
+		  <td>dad3ab7524b6c90e2db4c31a954b087bea961697</td>
+		</tr>
+
+		<tr>
+		  <td>10</td>
+		  <td>LogBlock.LogBlock-2</td>
+		  <td><a href="https://github.com/LogBlock/LogBlock-2.git"> https://github.com/LogBlock/LogBlock-2.git </a></td>
+		  <td>40548aad551c3ec59a72433937afeaa40a052cb4</td>
+		</tr>
+
+		<tr>
+		  <td>11</td>
+		  <td>brutall.brut.apktool.smali</td>
+		  <td><a href="https://github.com/brutall/brut.apktool.smali.git"> https://github.com/brutall/brut.apktool.smali.git</a></td>
+		  <td>d58ae3f347e46531960e209a7c5a7f002c7bee6c</td>
+		</tr>
+
+		<td class=cellinside>12</td><td>apache.gora</td><td><a href=https://github.com/apache/gora.git>https://github.com/apache/gora.git</a></td><td>bb09d8916736e3e572eef2cb5e79fe11c80ad1de</td></tr>
+		<td class=cellinside>13</td><td>threerings.playn</td><td><a href=https://github.com/threerings/playn.git>https://github.com/threerings/playn.git</a></td><td>c969160c3e473ae1c26776e0fbee009588a82346</td></tr>
+		<td class=cellinside>14</td><td>raml-org.raml-java-parser</td><td><a href=https://github.com/raml-org/raml-java-parser.git>https://github.com/raml-org/raml-java-parser.git</a></td><td>fd70fa27094a7be65d4a994555a6cedeba7dd79e</td></tr>
+		<td class=cellinside>15</td><td>juneau</td><td><a href=https://github.com/apache/juneau.git>https://github.com/apache/juneau.git</a></td><td>4651875093fc0b279a73364c5dbb6e1cf4246db1</td></tr>
+		<td class=cellinside>16</td><td>EsotericSoftware.yamlbeans</td><td><a href=https://github.com/EsotericSoftware/yamlbeans.git>https://github.com/EsotericSoftware/yamlbeans.git</a></td><td>2ccfbd9d57d21e821fcfa118c5ac197d5faab8df</td></tr>
+		<td class=cellinside>17</td><td>connector4java</td><td><a href=https://github.com/osiam/connector4java.git>https://github.com/osiam/connector4java.git</a></td><td>e90425192ca7b77c24f3568ec06a8ac824c83d81</td></tr>
+		<td class=cellinside>18</td><td>mqtt</td><td><a href=https://github.com/eclipse/paho.mqtt.java.git>https://github.com/eclipse/paho.mqtt.java.git</a></td><td>f43842538579aab345e6aadda9d081da615900d3</td></tr>
+		<td class=cellinside>19</td><td>logback-encoder</td><td><a href=https://github.com/logstash/logstash-logback-encoder.git>https://github.com/logstash/logstash-logback-encoder.git</a></td><td>287f1b77838d7fbf01080f691374ee68c7aed5e8</td></tr>
+		<td class=cellinside>20</td><td>zookeeper-utils</td><td><a href=https://github.com/Cue/greplin-zookeeper-utils.git>https://github.com/Cue/greplin-zookeeper-utils.git</a></td><td>a2b80474d1cd2e45ebbdc95dbb384bec03c21d96</td></tr>
+
+
+		<td class=cellinside>21</td><td>vidageek.crawler</td><td><a href=https://github.com/vidageek/crawler.git>https://github.com/vidageek/crawler.git</a></td><td>120883b672384225f7ad9fbf0b9126706a7c8f40</td></tr>
+		<td class=cellinside>22</td><td>sonatype.sisu-guice</td><td><a href=https://github.com/sonatype/sisu-guice.git>https://github.com/sonatype/sisu-guice.git</a></td><td>38ab8a4b6ffa73d473502cd2e90f6c2d2f246283</td></tr>
+		<td class=cellinside>23</td><td>wkennedy.swagger4spring-web</td><td><a href=https://github.com/wkennedy/swagger4spring-web.git>https://github.com/wkennedy/swagger4spring-web.git</a></td><td>b2bdeb3cd2ff245b7cca9aca790c726d103d35ff</td></tr>
+
+		<td class=cellinside>24</td><td>jnr.jnr-posix</td><td><a href=https://github.com/jnr/jnr-posix.git>https://github.com/jnr/jnr-posix.git</a></td><td>b2cc7b52a82b266c12db6f472ceb4c2360cda134</td></tr>
+
+		<tr>
+		  <td>25</td> 
+		  <td>ahmetaa.zemberek-nlp</td>
+		  <td><a href=https://github.com/ahmetaa/zemberek-nlp.git> https://github.com/ahmetaa/zemberek-nlp.git </a>
+		  </td><td>045f2c97d71a3bef3fcd34fef3553df8a180ffe2</td>
+		</tr>
+
+		<tr>
+		  <td>26</td>
+		  <td>androlog</td>
+		  <td><a href=https://github.com/akquinet/androlog.git > https://github.com/akquinet/androlog.git</a></td>
+		  <td>82fa81354c01c9b1d1928062b634ba21f14be560</td>
+		</tr>
+
+		<td class=cellinside>27</td><td>AlbinTheander.MeQanTT</td><td><a href=https://github.com/AlbinTheander/MeQanTT.git>https://github.com/AlbinTheander/MeQanTT.git</a></td><td>0670dd0bc1db53240c40992a441f7b81b9479e17</td></tr>
+		<td class=cellinside>28</td><td>alexruiz.fest-util</td><td><a href=https://github.com/alexruiz/fest-util.git>https://github.com/alexruiz/fest-util.git</a></td><td>6bca64f2673fbc255bab6c289dc65333f28734f6</td></tr>
+		<td class=cellinside>29</td><td>algesten.jsondiff</td><td><a href=https://github.com/algesten/jsondiff.git>https://github.com/algesten/jsondiff.git</a></td><td>e71b57939c9874f208971aa7fa4032be5664905a</td></tr>
+		<td class=cellinside>30</td><td>alibaba.cooma</td><td><a href=https://github.com/alibaba/cooma.git>https://github.com/alibaba/cooma.git</a></td><td>1847880ab3ff606a64d037b90b51f553058f3173</td></tr>
+		<td class=cellinside>31</td><td>alibaba.multi-thread-context</td><td><a href=https://github.com/alibaba/multi-thread-context.git>https://github.com/alibaba/multi-thread-context.git</a></td><td>8221c0003ea67f335748f616dbeb07aa9a0ba0c0</td></tr>
+		<td class=cellinside>32</td><td>apache.pdfbox</td><td><a href=https://github.com/apache/pdfbox.git>https://github.com/apache/pdfbox.git</a></td><td>3021ba305d21480cbc007b88503a527394cc7b2e</td></tr>
+		<td class=cellinside>33</td><td>anba.es6draft</td><td><a href=https://github.com/anba/es6draft.git>https://github.com/anba/es6draft.git</a></td><td>c62595806506ef2fe4c28793855ad6552f94ed8f</td></tr>
+		<td class=cellinside>34</td><td>andrerigon.jax-ws-client</td><td><a href=https://github.com/andrerigon/jax-ws-client.git>https://github.com/andrerigon/jax-ws-client.git</a></td><td>a9b40e4b89b4b1fcfabac7e7af8807125048915c</td></tr>
+		<td class=cellinside>35</td><td>antlr.antlrworks</td><td><a href=https://github.com/antlr/antlrworks.git>https://github.com/antlr/antlrworks.git</a></td><td>660ba1d3e3d5741213c3ca9f065dc6428ed424b1</td></tr>
+		<td class=cellinside>36</td><td>commons-cli</td><td><a href=https://github.com/apache/commons-cli.git>https://github.com/apache/commons-cli.git</a></td><td>a0dcd6a0aa75a79bf640485b69cf076fa86b850c</td></tr>
+		<td class=cellinside>37</td><td>apache.sanselan</td><td><a href=https://github.com/apache/sanselan.git>https://github.com/apache/sanselan.git</a></td><td>f33100d0a45df52b4bb39a05d2b0de8a1f889dc6</td></tr>
+		<td class=cellinside>38</td><td>apotapov.gdx-artemis</td><td><a href=https://github.com/apotapov/gdx-artemis.git>https://github.com/apotapov/gdx-artemis.git</a></td><td>1687eb83ca8f7602120df68d2224aa11b7d7bdd6</td></tr>
+		<td class=cellinside>39</td><td>aslakhellesoy.webbit-rest</td><td><a href=https://github.com/aslakhellesoy/webbit-rest.git>https://github.com/aslakhellesoy/webbit-rest.git</a></td><td>716a2a0ce1430b6e4dbb9779e19849687975f6c4</td></tr>
+		<td class=cellinside>40</td><td>atteo.evo-inflector</td><td><a href=https://github.com/atteo/evo-inflector.git>https://github.com/atteo/evo-inflector.git</a></td><td>2726279d86b105505782f57625005905f92835c9</td></tr>
+
+		<td class=cellinside>41</td><td>awhitford.lombok.maven</td><td><a href=https://github.com/awhitford/lombok.maven.git>https://github.com/awhitford/lombok.maven.git</a></td><td>233e61845a1bd95be1063487ce3e6570d6dde6a1</td></tr>
+		<td class=cellinside>42</td><td>beckchr.staxon</td><td><a href=https://github.com/beckchr/staxon.git>https://github.com/beckchr/staxon.git</a></td><td>58d107b8cc806642fee5c5b5cf78de4e25e4d8f5</td></tr>
+		<td class=cellinside>43</td><td>ranger</td><td><a href=https://github.com/apache/ranger.git>https://github.com/apache/ranger.git</a></td><td>25169a4eba018025e488cc272003bc3852dda835</td></tr>
+		<td class=cellinside>44</td><td>santuario-java</td><td><a href=https://github.com/apache/santuario-java.git>https://github.com/apache/santuario-java.git</a></td><td>83ea8fa047b709c123eb01bb4f4c867d203194ac</td></tr>
+		<td class=cellinside>45</td><td>bsnyder.spring-jms-examples</td><td><a href=https://github.com/bsnyder/spring-jms-examples.git>https://github.com/bsnyder/spring-jms-examples.git</a></td><td>d4e0d88b39f595110442c8735aa4fc35bf86bb52</td></tr>
+		<td class=cellinside>46</td><td>dropwizard-todo</td><td><a href=https://github.com/bucharest-jug/dropwizard-todo.git>https://github.com/bucharest-jug/dropwizard-todo.git</a></td><td>40746322b13335ef6db2d7ec37093c524102e04c</td></tr>
+		<td class=cellinside>47</td><td>BYVoid.TA-Lib</td><td><a href=https://github.com/BYVoid/TA-Lib.git>https://github.com/BYVoid/TA-Lib.git</a></td><td>82db647fa980ca51d8abc4c843ccaccfdff01a39</td></tr>
+		<td class=cellinside>48</td><td>caelum.vraptor-console</td><td><a href=https://github.com/caelum/vraptor-console.git>https://github.com/caelum/vraptor-console.git</a></td><td>dac4dc70b439ffd02bdc4132c9f06f292c7e2055</td></tr>
+		<td class=cellinside>49</td><td>caelum.vraptor-environment</td><td><a href=https://github.com/caelum/vraptor-environment.git>https://github.com/caelum/vraptor-environment.git</a></td><td>a09a3344309ba39b787e2bbf5aa72c22afa2de9b</td></tr>
+		<td class=cellinside>50</td><td>casmi.casmi</td><td><a href=https://github.com/casmi/casmi.git>https://github.com/casmi/casmi.git</a></td><td>90f6514a9cbce0685186e7a92beb69e22a3b11c4</td></tr>
+		<td class=cellinside>51</td><td>junit</td><td><a href=https://github.com/junit-team/junit.git>https://github.com/junit-team/junit.git</a></td><td>1d63100e6d69f448a3afb4571e9915cb9439fe1d</td></tr>
+		<td class=cellinside>52</td><td>codahale.og</td><td><a href=https://github.com/codahale/og.git>https://github.com/codahale/og.git</a></td><td>693c81154749c27dccb074073a0f0212fe5b481c</td></tr>
+		<td class=cellinside>53</td><td>code4craft.jsoup-learning</td><td><a href=https://github.com/code4craft/jsoup-learning.git>https://github.com/code4craft/jsoup-learning.git</a></td><td>2c0580fdd895cabedeb5eee14241bf511270dc61</td></tr>
+		<td class=cellinside>54</td><td>codedance.silken</td><td><a href=https://github.com/codedance/silken.git>https://github.com/codedance/silken.git</a></td><td>381532036e886220a7e9e2c5f47b9573fb5dd493</td></tr>
+		<td class=cellinside>55</td><td>Cognifide.Maven-CRX-Plugin</td><td><a href=https://github.com/Cognifide/Maven-CRX-Plugin.git>https://github.com/Cognifide/Maven-CRX-Plugin.git</a></td><td>288f738bf4b75a1d4c7d7c6aca77ba5193071ed6</td></tr>
+		<td class=cellinside>56</td><td>corley.aws-ant-task</td><td><a href=https://github.com/corley/aws-ant-task.git>https://github.com/corley/aws-ant-task.git</a></td><td>9f72d0d6d6c6504c856f6c6529b6a9a29656169f</td></tr>
+		<td class=cellinside>57</td><td>Cue.lucene-interval-fields</td><td><a href=https://github.com/Cue/lucene-interval-fields.git>https://github.com/Cue/lucene-interval-fields.git</a></td><td>8f8bff6d0011df7d6efad65e37d4b14ca9fea010</td></tr>
+		<td class=cellinside>58</td><td>culturegraph.metafacture-core</td><td><a href=https://github.com/culturegraph/metafacture-core.git>https://github.com/culturegraph/metafacture-core.git</a></td><td>314b65ff0826914264d396e6b60a59fa29d7b4d3</td></tr>
+		<td class=cellinside>59</td><td>dadoonet.dropbox</td><td><a href=https://github.com/dadoonet/dropbox.git>https://github.com/dadoonet/dropbox.git</a></td><td>789e295ddcd44e8bc0eef16f157826b5fdb19416</td></tr>
+
+		<td class=cellinside>60</td><td>dblevins.metatypes</td><td><a href=https://github.com/dblevins/metatypes.git>https://github.com/dblevins/metatypes.git</a></td><td>0421d28d7f64161509a045e52b25ed6df09f0db3</td></tr>
+		<td class=cellinside>61</td><td>apache.shiro</td><td><a href=https://github.com/apache/shiro.git>https://github.com/apache/shiro.git</a></td><td>97528963c98e834f5ae8f8fd966483a25c02e474</td></tr>
+		<td class=cellinside>62</td><td>eBay.cors-filter</td><td><a href=https://github.com/eBay/cors-filter.git>https://github.com/eBay/cors-filter.git</a></td><td>d86da0e71fbab6cbbc724539dc9b92899b7db32b</td></tr>
+		<td class=cellinside>63</td><td>edanuff.CassandraCompositeType</td><td><a href=https://github.com/edanuff/CassandraCompositeType.git>https://github.com/edanuff/CassandraCompositeType.git</a></td><td>6d09cceb93450dafab894b4a4bec17792d3bb0cb</td></tr>
+		<td class=cellinside>64</td><td>Esri.spatial-framework-for-hadoop</td><td><a href=https://github.com/Esri/spatial-framework-for-hadoop.git>https://github.com/Esri/spatial-framework-for-hadoop.git</a></td><td>c644814bc1702c4cd957a39fb9fa35308f5b24bf</td></tr>
+		<td class=cellinside>65</td><td>FasterXML.jackson-dataformat-yaml</td><td><a href=https://github.com/FasterXML/jackson-dataformat-yaml.git>https://github.com/FasterXML/jackson-dataformat-yaml.git</a></td><td>d2752c9606c339df7cfcbd6e8547f9b6e53119f9</td></tr>
+		<td class=cellinside>66</td><td>FasterXML.jackson-datatype-json-org</td><td><a href=https://github.com/FasterXML/jackson-datatype-json-org.git>https://github.com/FasterXML/jackson-datatype-json-org.git</a></td><td>14e0dd2f031c7c1788b995f3da142095ab328fb2</td></tr>
+		<td class=cellinside>67</td><td>scribe-java</td><td><a href=https://github.com/fernandezpablo85/scribe-java.git>https://github.com/fernandezpablo85/scribe-java.git</a></td><td>b88b9ddf805954be6abf3b0e4c0641a9f6edd803</td></tr>
+		<td class=cellinside>68</td><td>flow.flow-nbt</td><td><a href=https://github.com/flow/flow-nbt.git>https://github.com/flow/flow-nbt.git</a></td><td>1dc11f877a79345d425a62a350604d278548fd88</td></tr>
+		<td class=cellinside>69</td><td>Fruzenshtein.spr-mvc-hib</td><td><a href=https://github.com/Fruzenshtein/spr-mvc-hib.git>https://github.com/Fruzenshtein/spr-mvc-hib.git</a></td><td>402f6d6a5fde7087ff10c77986b89ee54c056fef</td></tr>
+		<td class=cellinside>70</td><td>fusesource.hawtjournal</td><td><a href=https://github.com/fusesource/hawtjournal.git>https://github.com/fusesource/hawtjournal.git</a></td><td>48aad0620a667d69a8fc22980916f94046a0658e</td></tr>	
+		<td class=cellinside>71</td><td>ganglia.jmxetric</td><td><a href=https://github.com/ganglia/jmxetric.git>https://github.com/ganglia/jmxetric.git</a></td><td>0b21edb9bd75e0b2df8370ad1c77a1ea47f502ca</td></tr>
+		<td class=cellinside>72</td><td>gatein.gatein-api-java</td><td><a href=https://github.com/gatein/gatein-api-java.git>https://github.com/gatein/gatein-api-java.git</a></td><td>c57c4614ac2f41ffcc015a3763245c29125c1904</td></tr>
+		<td class=cellinside>73</td><td>genthaler.jetty-jsp-unit-test-simple</td><td><a href=https://github.com/genthaler/jetty-jsp-unit-test-simple.git>https://github.com/genthaler/jetty-jsp-unit-test-simple.git</a></td><td>ace6273bb13ac4f565ae6728c7dc3c8b7e30db1a</td></tr>
+		<td class=cellinside>74</td><td>compile-testing</td><td><a href=https://github.com/google/compile-testing.git>https://github.com/google/compile-testing.git</a></td><td>db256e040bdc1dab480a9687f45efb30169ce9a0</td></tr>
+		<td class=cellinside>75</td><td>apache.stanbol</td><td><a href=https://github.com/apache/stanbol.git>https://github.com/apache/stanbol.git</a></td><td>2fcf471b467fb84e59491f4c54ba0a95924ab04a</td></tr>
+		<td class=cellinside>76</td><td>invokebinder</td><td><a href=https://github.com/headius/invokebinder.git>https://github.com/headius/invokebinder.git</a></td><td>b59f488b683b38726e8190ea0dfd9b2e6895a593</td></tr>
+		<td class=cellinside>77</td><td>hef.IRCTransport</td><td><a href=https://github.com/hef/IRCTransport.git>https://github.com/hef/IRCTransport.git</a></td><td>172f690a73fbef1fa7c98b52399700c4c5957172</td></tr>
+		<td class=cellinside>78</td><td>hoverruan.weiboclient4j</td><td><a href=https://github.com/hoverruan/weiboclient4j.git>https://github.com/hoverruan/weiboclient4j.git</a></td><td>6ca0c73f77f10d8ec1fed2c768c719dcf9ea7fc5</td></tr>
+		<td class=cellinside>79</td><td>hpehl.piriti</td><td><a href=https://github.com/hpehl/piriti.git>https://github.com/hpehl/piriti.git</a></td><td>a41ae3677d19a4b65b23ecd73b3f7326c7b03040</td></tr>
+		<td class=cellinside>80</td><td>ingenieux.beanstalker</td><td><a href=https://github.com/ingenieux/beanstalker.git>https://github.com/ingenieux/beanstalker.git</a></td><td>5d532a741110a57a295a324e1fbe8b8984b4e608</td></tr>
+		<td class=cellinside>81</td><td>intesar.GMailJava</td><td><a href=https://github.com/intesar/GMailJava.git>https://github.com/intesar/GMailJava.git</a></td><td>94b43633406837502f669f1ba38275f72a854541</td></tr>
+		<td class=cellinside>82</td><td>in-the-keyhole.khs-sherpa</td><td><a href=https://github.com/in-the-keyhole/khs-sherpa.git>https://github.com/in-the-keyhole/khs-sherpa.git</a></td><td>0fa1c014bab990131e11c03bd9d3d687b0956104</td></tr>
+		<td class=cellinside>83</td><td>iron9light.coffeescript-maven-plugin</td><td><a href=https://github.com/iron9light/coffeescript-maven-plugin.git>https://github.com/iron9light/coffeescript-maven-plugin.git</a></td><td>390a0ef0cd94ce67873061b1a9e1eb2d6d85e304</td></tr>
+		<td class=cellinside>84</td><td>IvanTrendafilov.Confucius</td><td><a href=https://github.com/IvanTrendafilov/Confucius.git>https://github.com/IvanTrendafilov/Confucius.git</a></td><td>2c3028782eaaf2337bde558b4a700210a10f543e</td></tr>
+		<td class=cellinside>85</td><td>JakeWharton.resourcefs</td><td><a href=https://github.com/JakeWharton/resourcefs.git>https://github.com/JakeWharton/resourcefs.git</a></td><td>4d98b4d12086901d707a6b6d9e38ce84b3bc09e1</td></tr>
+		<td class=cellinside>86</td><td>jcaddel.maven-s3-wagon</td><td><a href=https://github.com/jcaddel/maven-s3-wagon.git>https://github.com/jcaddel/maven-s3-wagon.git</a></td><td>d0ac0ff59ad50440878c263f8c0f5741ab1efb35</td></tr>
+		<td class=cellinside>87</td><td>jcustenborder.flume-ng-rabbitmq</td><td><a href=https://github.com/jcustenborder/flume-ng-rabbitmq.git>https://github.com/jcustenborder/flume-ng-rabbitmq.git</a></td><td>26b7ec3a9cb5c3a0110d7b9c0ebdcbd5ea2d6789</td></tr>
+		<td class=cellinside>88</td><td>jenkinsci.grails-plugin</td><td><a href=https://github.com/jenkinsci/grails-plugin.git>https://github.com/jenkinsci/grails-plugin.git</a></td><td>8e1aafa0482272d981f681e7eec8d82221ecfac0</td></tr>
+		<td class=cellinside>89</td><td>jetty-project.jetty-eventsource-servlet</td><td><a href=https://github.com/jetty-project/jetty-eventsource-servlet.git>https://github.com/jetty-project/jetty-eventsource-servlet.git</a></td><td>74b37934c8a9b9c450082d5b154d098eb162c281</td></tr>
+		<td class=cellinside>90</td><td>jpatterns</td><td><a href=https://github.com/jexp/jpatterns.git>https://github.com/jexp/jpatterns.git</a></td><td>14bb2740fde84b37d6f4a48f839c7a1eef194e97</td></tr>
+		<td class=cellinside>91</td><td>jmxtrans.embedded-jmxtrans</td><td><a href=https://github.com/jmxtrans/embedded-jmxtrans.git>https://github.com/jmxtrans/embedded-jmxtrans.git</a></td><td>4f1ce2ccce17189ec36aaded7f7c9162fdaf44e6</td></tr>
+		<td class=cellinside>92</td><td>JodaOrg.joda-time-i18n</td><td><a href=https://github.com/JodaOrg/joda-time-i18n.git>https://github.com/JodaOrg/joda-time-i18n.git</a></td><td>d28d988cd8fb466702ae2d49959803f0616b27db</td></tr>
+		<td class=cellinside>93</td><td>joelittlejohn.embedmongo-maven-plugin</td><td><a href=https://github.com/joelittlejohn/embedmongo-maven-plugin.git>https://github.com/joelittlejohn/embedmongo-maven-plugin.git</a></td><td>d596ee43d3f18a8b46fa38218a9d2592e606c265</td></tr>
+		<td class=cellinside>94</td><td>jpush.jpush-java-library</td><td><a href=https://github.com/jpush/jpush-java-library.git>https://github.com/jpush/jpush-java-library.git</a></td><td>66a9825ad3b913b98b0451831bedcb2e9a0cbbf6</td></tr>
+		<td class=cellinside>95</td><td>jscep.jscep</td><td><a href=https://github.com/jscep/jscep.git>https://github.com/jscep/jscep.git</a></td><td>a224cc25369831c26231b47767485af1abfbe270</td></tr>
+		<td class=cellinside>96</td><td>JSqlParser</td><td><a href=https://github.com/JSQLParser/JSqlParser.git>https://github.com/JSQLParser/JSqlParser.git</a></td><td>001d665d32c6df5a136b1955f4413e6648064811</td></tr>
+		<td class=cellinside>97</td><td>kamranzafar.jtar</td><td><a href=https://github.com/kamranzafar/jtar.git>https://github.com/kamranzafar/jtar.git</a></td><td>59e3f7a525ada0fc1e62e05de795e57762bcf5fb</td></tr>
+		<td class=cellinside>98</td><td>kohsuke.libpam4j</td><td><a href=https://github.com/kohsuke/libpam4j.git>https://github.com/kohsuke/libpam4j.git</a></td><td>38a1ba41c4bace68c9105ad5a1f87a5cce74c06c</td></tr>
+		<td class=cellinside>99</td><td>laforge49.JFile</td><td><a href=https://github.com/laforge49/JFile.git>https://github.com/laforge49/JFile.git</a></td><td>fd292da66a78dafc41ef408420b914b949c9a24d</td></tr>
+		<td class=cellinside>100</td><td>laforge49</td><td><a href=https://github.com/laforge49/JID.git>https://github.com/laforge49/JID.git</a></td><td>1dde11d72a17f3c3c3a690b8b17e3d27f3333e3a</td></tr>
+		<td class=cellinside>101</td><td>lastfm.musicbrainz-data</td><td><a href=https://github.com/lastfm/musicbrainz-data.git>https://github.com/lastfm/musicbrainz-data.git</a></td><td>072b1bf39ecb2623c40772ec5f1d6d51d998765c</td></tr>
+		<td class=cellinside>102</td><td>lukas-krecan.json2xml</td><td><a href=https://github.com/lukas-krecan/json2xml.git>https://github.com/lukas-krecan/json2xml.git</a></td><td>6cb8178002367a37c2da5889170617bbe8d4a997</td></tr>
+		<td class=cellinside>103</td><td>masukomi.aspirin</td><td><a href=https://github.com/masukomi/aspirin.git>https://github.com/masukomi/aspirin.git</a></td><td>da7f0593c83d2fb1536724fa7c6d7037f03fe14e</td></tr>
+		<td class=cellinside>104</td><td>mbolt35.coffee-graph</td><td><a href=https://github.com/mbolt35/coffee-graph.git>https://github.com/mbolt35/coffee-graph.git</a></td><td>b1489fa8770b5ae67996842db78153d0f82b32b9</td></tr>
+		<td class=cellinside>105</td><td>mduerig.json-jerk</td><td><a href=https://github.com/mduerig/json-jerk.git>https://github.com/mduerig/json-jerk.git</a></td><td>8b03195d0fe05ae9e46ab91c1e7ca82f64fe1e3d</td></tr>
+		<td class=cellinside>106</td><td>mguymon.model-citizen</td><td><a href=https://github.com/mguymon/model-citizen.git>https://github.com/mguymon/model-citizen.git</a></td><td>4eb31c3b02ebfd267d0e3dd70a34cb951e1535bd</td></tr>
+		<td class=cellinside>107</td><td>mikebrock.jboss-websockets</td><td><a href=https://github.com/mikebrock/jboss-websockets.git>https://github.com/mikebrock/jboss-websockets.git</a></td><td>fd03a4ef4033745ae5efc704fb123f1980c4056a</td></tr>
+		<td class=cellinside>108</td><td>mikera.swing-console</td><td><a href=https://github.com/mikera/swing-console.git>https://github.com/mikera/swing-console.git</a></td><td>f1a1244d133ba5c50370a00fca181740892ba74d</td></tr>
+		<td class=cellinside>109</td><td>mikereedell.sunrisesunsetlib-java</td><td><a href=https://github.com/mikereedell/sunrisesunsetlib-java.git>https://github.com/mikereedell/sunrisesunsetlib-java.git</a></td><td>c0bfdeb89c1e3fdaee4aeb879507341611cba4e1</td></tr>
+		<td class=cellinside>110</td><td>mpatric.mp3agic</td><td><a href=https://github.com/mpatric/mp3agic.git>https://github.com/mpatric/mp3agic.git</a></td><td>99fa154531f640975915024b814f380f3a6be2f1</td></tr>
+		<td class=cellinside>111</td><td>mrico.creole-parser</td><td><a href=https://github.com/mrico/creole-parser.git>https://github.com/mrico/creole-parser.git</a></td><td>5e1b9683700477ddc225cdbd11bd3afccdf391ea</td></tr>
+		<td class=cellinside>112</td><td>mwoodhouse.buster-maven-plugin</td><td><a href=https://github.com/mwoodhouse/buster-maven-plugin.git>https://github.com/mwoodhouse/buster-maven-plugin.git</a></td><td>2a8c9148f55c9ec606235620769bae91f8ee2936</td></tr>
+		<td class=cellinside>113</td><td>neosavvy.angular-phantom-renderer</td><td><a href=https://github.com/neosavvy/angular-phantom-renderer.git>https://github.com/neosavvy/angular-phantom-renderer.git</a></td><td>9229bf7f711b3e5b186483e7dfa63745e5068e43</td></tr>
+		<td class=cellinside>114</td><td>neothemachine.KineticGWT</td><td><a href=https://github.com/neothemachine/KineticGWT.git>https://github.com/neothemachine/KineticGWT.git</a></td><td>9fc13f94505f0b1abb40ae7b4e8b836d2510b696</td></tr>
+		<td class=cellinside>115</td><td>ning.org-json</td><td><a href=https://github.com/ning/org-json.git>https://github.com/ning/org-json.git</a></td><td>9be37018a33928d4458893998a89299b2991222d</td></tr>
+		<td class=cellinside>116</td><td>ning.tr13</td><td><a href=https://github.com/ning/tr13.git>https://github.com/ning/tr13.git</a></td><td>b727c26cfb9e6a8cb11e2f4ef4e9bbe549979390</td></tr>
+		<td class=cellinside>117</td><td>notnoop.java-mpns</td><td><a href=https://github.com/notnoop/java-mpns.git>https://github.com/notnoop/java-mpns.git</a></td><td>6762ba49fbcf639f6b93ec3950ad87907a4b00fc</td></tr>
+		<td class=cellinside>118</td><td>octo-technology.java-sql-dsl</td><td><a href=https://github.com/octo-technology/java-sql-dsl.git>https://github.com/octo-technology/java-sql-dsl.git</a></td><td>3a95880acb91ee2a97b6943331004e96bcb6ed3c</td></tr>
+		<td class=cellinside>119</td><td>paper2ebook</td><td><a href=https://github.com/ogrisel/paper2ebook.git>https://github.com/ogrisel/paper2ebook.git</a></td><td>e65778acc528a9ca95174ad02abcc52e56f57414</td></tr>
+		<td class=cellinside>120</td><td>ogrodnek.csv-serde</td><td><a href=https://github.com/ogrodnek/csv-serde.git>https://github.com/ogrodnek/csv-serde.git</a></td><td>f315c1ae4b21a8288eb939e7c10f3b29c1a854ef</td></tr>
+
+		<td class=cellinside>121</td><td>OlivierCroisier.seren</td><td><a href=https://github.com/OlivierCroisier/seren.git>https://github.com/OlivierCroisier/seren.git</a></td><td>3d498426c55a9dc626bb934c9b52c6e7bc0d3b63</td></tr>
+		<td class=cellinside>122</td><td>omry.banana</td><td><a href=https://github.com/omry/banana.git>https://github.com/omry/banana.git</a></td><td>1621638d6eb4db773045af66eac66be0fffa91fa</td></tr>
+		<td class=cellinside>123</td><td>OpenGamma.ElSql</td><td><a href=https://github.com/OpenGamma/ElSql.git>https://github.com/OpenGamma/ElSql.git</a></td><td>db6c6d0741499c55b7c457e5eb9cebbf2df24a98</td></tr>
+		<td class=cellinside>124</td><td>opsb.butler-io</td><td><a href=https://github.com/opsb/butler-io.git>https://github.com/opsb/butler-io.git</a></td><td>5f8e803b41d1487e088e4d854e3dc1d44da453b0</td></tr>
+		<td class=cellinside>125</td><td>Ovea.jetty-session-redis</td><td><a href=https://github.com/Ovea/jetty-session-redis.git>https://github.com/Ovea/jetty-session-redis.git</a></td><td>afb2b25b77d45e613fda1aac9bc72ddea9327b7a</td></tr>
+		<td class=cellinside>126</td><td>oxlade39.graphflow</td><td><a href=https://github.com/oxlade39/graphflow.git>https://github.com/oxlade39/graphflow.git</a></td><td>b0662fe6064001228b80f33a7f06bfd7e68a497f</td></tr>
+		<td class=cellinside>127</td><td>peterneubauer.sql-import</td><td><a href=https://github.com/peterneubauer/sql-import.git>https://github.com/peterneubauer/sql-import.git</a></td><td>e02e532bb0b85de6c969a926b8980915dd453d3d</td></tr>
+		<td class=cellinside>128</td><td>phunt.avro-maven-plugin</td><td><a href=https://github.com/phunt/avro-maven-plugin.git>https://github.com/phunt/avro-maven-plugin.git</a></td><td>ab70582ed10d1103e73205225dcdfdf09507875c</td></tr>
+		<td class=cellinside>129</td><td>RoboMWM.SampleJarProgram</td><td><a href=https://github.com/RoboMWM/SampleJarProgram.git>https://github.com/RoboMWM/SampleJarProgram.git</a></td><td>73bf38a668f724c15011be92b8bb1c23c0f32f68</td></tr>
+		<td class=cellinside>130</td><td>hideshis.robokindDemo</td><td><a href=https://github.com/hideshis/robokindDemo.git>https://github.com/hideshis/robokindDemo.git</a></td><td>2e8e0ebf90b812157a676179ad78eae061a46a5a</td></tr>
+		<td class=cellinside>131</td><td>pridkett.gitminer</td><td><a href=https://github.com/pridkett/gitminer.git>https://github.com/pridkett/gitminer.git</a></td><td>e0a3f3186a80a6b3c7d93cdc3cc7a01531f64eee</td></tr>
+		<td class=cellinside>132</td><td>purcell.jargs</td><td><a href=https://github.com/purcell/jargs.git>https://github.com/purcell/jargs.git</a></td><td>08866fda11dfcf02218978681174cfe3a89a60a5</td></tr>
+		<td class=cellinside>133</td><td>rcarz.jira-client</td><td><a href=https://github.com/rcarz/jira-client.git>https://github.com/rcarz/jira-client.git</a></td><td>b0ab042eebb974791d20caa0f0aef2d6c546e2c9</td></tr>
+		<td class=cellinside>134</td><td>rjenkins.ursus</td><td><a href=https://github.com/rjenkins/ursus.git>https://github.com/rjenkins/ursus.git</a></td><td>dc6824654f30c7044811dd9a98f4c3676004a0f3</td></tr>
+		<td class=cellinside>135</td><td>rmct.AutoReferee</td><td><a href=https://github.com/rmct/AutoReferee.git>https://github.com/rmct/AutoReferee.git</a></td><td>3af3c969fd9a7b6d0af4fbd07df6dd00d1bab613</td></tr>
+		<td class=cellinside>136</td><td>rmuller.infomas-asl</td><td><a href=https://github.com/rmuller/infomas-asl.git>https://github.com/rmuller/infomas-asl.git</a></td><td>1bd5653ae3b8f8246ec99babc8f7a7cb94d325ae</td></tr>
+		<td class=cellinside>137</td><td>rombert.desktop-maven-notifier</td><td><a href=https://github.com/rombert/desktop-maven-notifier.git>https://github.com/rombert/desktop-maven-notifier.git</a></td><td>3a5703824667b14e78d98467b58416092a13f292</td></tr>
+		<td class=cellinside>138</td><td>romix.java-concurrent-hash-trie-map</td><td><a href=https://github.com/romix/java-concurrent-hash-trie-map.git>https://github.com/romix/java-concurrent-hash-trie-map.git</a></td><td>1810db51acdb1c8b7048643b460c526933c95dae</td></tr>
+		<td class=cellinside>139</td><td>rschreijer.lutung</td><td><a href=https://github.com/rschreijer/lutung.git>https://github.com/rschreijer/lutung.git</a></td><td>02fe378ef719ee813e995bd6cda0741f5802eda7</td></tr>
+		<td class=cellinside>140</td><td>ryanbrainard.axiom</td><td><a href=https://github.com/ryanbrainard/axiom.git>https://github.com/ryanbrainard/axiom.git</a></td><td>04637dc76bd5630af334d650b6266f25cdd88212</td></tr>
+
+		<td class=cellinside>141</td><td>s7.scale7-core</td><td><a href=https://github.com/s7/scale7-core.git>https://github.com/s7/scale7-core.git</a></td><td>c8fe73821bc1fdfe7def02b2c1f1e35db685aa4b</td></tr>
+		<td class=cellinside>142</td><td>samskivert.pythagoras</td><td><a href=https://github.com/samskivert/pythagoras.git>https://github.com/samskivert/pythagoras.git</a></td><td>0447064ea9e68350738f44b27a83a91807027de6</td></tr>
+		<td class=cellinside>143</td><td>**sematext.SearchSchemer</td><td><a href=https://github.com/sematext/SearchSchemer.git>https://github.com/sematext/SearchSchemer.git</a></td><td>66b455ba78ee384ec4b8bb3c0ea1b3dd3f88b2cc</td></tr>
+		<td class=cellinside>144</td><td>sitespeedio.crawler</td><td><a href=https://github.com/sitespeedio/crawler.git>https://github.com/sitespeedio/crawler.git</a></td><td>715ee7f1454eec14bebcb6d12563dfc32d9bbf48</td></tr>
+		<td class=cellinside>145</td><td>slugify.slugify</td><td><a href=https://github.com/slugify/slugify.git>https://github.com/slugify/slugify.git</a></td><td>ec9b87eb33435846509417e4e287ad45fa5d45bf</td></tr>
+		<td class=cellinside>146</td><td>gentoo.java-ebuilder</td><td><a href=https://github.com/gentoo/java-ebuilder.git>https://github.com/gentoo/java-ebuilder.git</a></td><td>7f5126275eb7178328b1ff4bea732e062222746b</td></tr>
+		<td class=cellinside>147</td><td>sockeqwe.Vaadin-MVP-Lite</td><td><a href=https://github.com/sockeqwe/Vaadin-MVP-Lite.git>https://github.com/sockeqwe/Vaadin-MVP-Lite.git</a></td><td>44ec6b325d055b9d9cb075e63af28156ccb94bae</td></tr>
+		<td class=cellinside>148</td><td>sorcix.sIRC</td><td><a href=https://github.com/sorcix/sIRC.git>https://github.com/sorcix/sIRC.git</a></td><td>d9f2cf872968bdf438259a275c893edc0b416996</td></tr>
+		<td class=cellinside>149</td><td>spullara.cli-parser</td><td><a href=https://github.com/spullara/cli-parser.git>https://github.com/spullara/cli-parser.git</a></td><td>f4ad598c2a4ab421816f49dd9e02725e0f905bcb</td></tr>
+		<td class=cellinside>150</td><td>asterisk-java</td><td><a href=https://github.com/srt/asterisk-java.git>https://github.com/srt/asterisk-java.git</a></td><td>b07617fe185d57dd38980993e1934d68e7e6c0c6</td></tr>
+		<td class=cellinside>151</td><td>srt.asterisk-java-iax</td><td><a href=https://github.com/srt/asterisk-java-iax.git>https://github.com/srt/asterisk-java-iax.git</a></td><td>27b63e2b307262eecba7fe98c62a42def799c2c2</td></tr>
+		<td class=cellinside>152</td><td>SSilence.scotty</td><td><a href=https://github.com/SSilence/scotty.git>https://github.com/SSilence/scotty.git</a></td><td>24d0f6745a3ad96ec345169b9e6ad4101214897f</td></tr>
+		<td class=cellinside>153</td><td>stain.jai-imageio-core</td><td><a href=https://github.com/stain/jai-imageio-core.git>https://github.com/stain/jai-imageio-core.git</a></td><td>45da533fecd8f419fca107513092f4c74bfb7d65</td></tr>
+		<td class=cellinside>154</td><td>tatsuhiro-t.argparse4j</td><td><a href=https://github.com/tatsuhiro-t/argparse4j.git>https://github.com/tatsuhiro-t/argparse4j.git</a></td><td>c986cadacd19bf5325ff0baed5efccaeadd51e9c</td></tr>
+		<td class=cellinside>155</td><td>tbuktu.ntru</td><td><a href=https://github.com/tbuktu/ntru.git>https://github.com/tbuktu/ntru.git</a></td><td>8126929e32d00ed321e836e0792145dcbb6516df</td></tr>
+		<td class=cellinside>156</td><td>teamlazerbeez.simple-web-stack</td><td><a href=https://github.com/teamlazerbeez/simple-web-stack.git>https://github.com/teamlazerbeez/simple-web-stack.git</a></td><td>5dc64816a20e011976b09889389260f46d348b6e</td></tr>
+		<td class=cellinside>157</td><td>telly.wasp</td><td><a href=https://github.com/telly/wasp.git>https://github.com/telly/wasp.git</a></td><td>5f6724ac1d4f7e58c72757f528d5d1191a5b7d43</td></tr>
+		<td class=cellinside>158</td><td>tfnico.guava-examples</td><td><a href=https://github.com/tfnico/guava-examples.git>https://github.com/tfnico/guava-examples.git</a></td><td>d1a08d6e3442ac986ac511b905cb6a137d327e8c</td></tr>
+		<td class=cellinside>159</td><td>thiloplanz.jmockmongo</td><td><a href=https://github.com/thiloplanz/jmockmongo.git>https://github.com/thiloplanz/jmockmongo.git</a></td><td>de82269a777eb7c8218d2c0573f7384fc60b92fc</td></tr>
+		<td class=cellinside>160</td><td>Thomas-S-B.visualee</td><td><a href=https://github.com/Thomas-S-B/visualee.git>https://github.com/Thomas-S-B/visualee.git</a></td><td>410a80f0f4774b093c3689d0e0c75bc46c78688e</td></tr>
+
+
+		<td class=cellinside>161</td><td>threerings.getdown</td><td><a href=https://github.com/threerings/getdown.git>https://github.com/threerings/getdown.git</a></td><td>9fc06c1fcbc7f5024dac5e0fb6137b7a1581cdfe</td></tr>
+		<td class=cellinside>162</td><td>threerings.java-signals</td><td><a href=https://github.com/threerings/java-signals.git>https://github.com/threerings/java-signals.git</a></td><td>7770472755def0f5fae9e85699f2ff2fd8ea67aa</td></tr>
+		<td class=cellinside>163</td><td>timmolter.XChart</td><td><a href=https://github.com/timmolter/XChart.git>https://github.com/timmolter/XChart.git</a></td><td>349d341dadda1e3ba5d7ad7525d03ce1d135233a</td></tr>
+		<td class=cellinside>164</td><td>timmolter.Yank</td><td><a href=https://github.com/timmolter/Yank.git>https://github.com/timmolter/Yank.git</a></td><td>4d7dfd63e681fedc13def9201d6dfb28653ff373</td></tr>
+		<td class=cellinside>165</td><td>tnm.murmurhash-java</td><td><a href=https://github.com/tnm/murmurhash-java.git>https://github.com/tnm/murmurhash-java.git</a></td><td>482b824b1994a8e36a5311c53754a085cfdecb42</td></tr>
+		<td class=cellinside>166</td><td>tropo.tropo-webapi-java</td><td><a href=https://github.com/tropo/tropo-webapi-java.git>https://github.com/tropo/tropo-webapi-java.git</a></td><td>5e2b15da4414708da50351e966e743e1562a1884</td></tr>
+		<td class=cellinside>167</td><td>UnquietCode.JState</td><td><a href=https://github.com/UnquietCode/JState.git>https://github.com/UnquietCode/JState.git</a></td><td>16928306ea3e61c162ea4feffa568f030d678b85</td></tr>
+		<td class=cellinside>168</td><td>UrbanCode.terraform</td><td><a href=https://github.com/UrbanCode/terraform.git>https://github.com/UrbanCode/terraform.git</a></td><td>d67ac40cb3609173cdb369a0bb400d18d01797f2</td></tr>
+		<td class=cellinside>169</td><td>vbfischer.spring-social-dropbox</td><td><a href=https://github.com/vbfischer/spring-social-dropbox.git>https://github.com/vbfischer/spring-social-dropbox.git</a></td><td>2b79176875c78e9648b658f054929610b0617537</td></tr>
+		<td class=cellinside>170</td><td>vistarmedia.metrics-datadog</td><td><a href=https://github.com/vistarmedia/metrics-datadog.git>https://github.com/vistarmedia/metrics-datadog.git</a></td><td>638a75751a43bd2815a173787bc37ab17cf585c3</td></tr>
+		<td class=cellinside>171</td><td>AdamBien/vaadin-with-javaee-pom</td><td><a href=https://github.com/AdamBien/vaadin-with-javaee-pom.git>https://github.com/AdamBien/vaadin-with-javaee-pom.git</a></td><td>3427f68113e23ff4664a37ad4da6c0754dd3b740</td></tr>
+		<td class=cellinside>172</td><td>webbit.webbit-rest</td><td><a href=https://github.com/webbit/webbit-rest.git>https://github.com/webbit/webbit-rest.git</a></td><td>0cf8af7bbffb22511652bcc57680f6ef8eb54a0c</td></tr>
+		<td class=cellinside>173</td><td>wg.scrypt</td><td><a href=https://github.com/wg/scrypt.git>https://github.com/wg/scrypt.git</a></td><td>0675236370458e819ee21e4427c5f7f3f9485d33</td></tr>
+		<td class=cellinside>174</td><td>wildfly.jandex</td><td><a href=https://github.com/wildfly/jandex.git>https://github.com/wildfly/jandex.git</a></td><td>8b3847bf0d731cccea49ea8fa2a2f5d11780a997</td></tr>
+		<td class=cellinside>175</td><td>wouterla.GildedRose</td><td><a href=https://github.com/wouterla/GildedRose.git>https://github.com/wouterla/GildedRose.git</a></td><td>5d2a997a17e8ae1bd1a49bb86be73955021dab93</td></tr>
+		<td class=cellinside>176</td><td>wvengen.proguard-maven-plugin</td><td><a href=https://github.com/wvengen/proguard-maven-plugin.git>https://github.com/wvengen/proguard-maven-plugin.git</a></td><td>affa7f326bd987939b20ec763c1cfc5102c03438</td></tr>
+		<td class=cellinside>177</td><td>zhuoran.crawler4j</td><td><a href=https://github.com/zhuoran/crawler4j.git>https://github.com/zhuoran/crawler4j.git</a></td><td>348d9d5874d17456691b6ad4b4d43bf71f380018</td></tr>
+		<td class=cellinside>178</td><td>zznate.cassandra-stress</td><td><a href=https://github.com/zznate/cassandra-stress.git>https://github.com/zznate/cassandra-stress.git</a></td><td>f43d3008e77ffbfe43671a87494fa32c6ab1725a</td></tr>
+		<td class=cellinside>179</td><td>bcel</td><td><a href=https://github.com/apache/commons-bcel.git>https://github.com/apache/commons-bcel.git</a></td><td>24014e5eabb321adf276f90599bddedb018e88aa</td></tr>
+
+		<td class=cellinside>180</td><td>healthonnet.hon-lucene-synonyms</td><td><a href=https://github.com/healthonnet/hon-lucene-synonyms.git>https://github.com/healthonnet/hon-lucene-synonyms.git</a></td><td>55ba18f89dd130a6adb408e57435875016995de2</td></tr>
+		<td class=cellinside>181</td><td>laaglu.lib-gwt-svg</td><td><a href=https://github.com/laaglu/lib-gwt-svg.git>https://github.com/laaglu/lib-gwt-svg.git</a></td><td>09e0e0c39282d41b29616abc97ff9ed9b9be9bff</td></tr>
+		<td class=cellinside>182</td><td>joda-time</td><td><a href=https://github.com/JodaOrg/joda-time.git>https://github.com/JodaOrg/joda-time.git</a></td><td>cc35fb2e6e106031fdbf1d1c2be5da6a9eb67c38</td></tr>
+		<td class=cellinside>183</td><td>hamnis.json-collection</td><td><a href=https://github.com/hamnis/json-collection.git>https://github.com/hamnis/json-collection.git</a></td><td>b7ea4a958dec1ca14bce120da5a4020e9bcbf262</td></tr>
+		<td class=cellinside>184</td><td>cybergarage.CyberLink4Java</td><td><a href=https://github.com/cybergarage/CyberLink4Java.git>https://github.com/cybergarage/CyberLink4Java.git</a></td><td>9499b03f9cae05c04fce74e65af2730c11682d74</td></tr>
+		<td class=cellinside>185</td><td>bucchi.OAuth2.0ProviderForJava</td><td><a href=https://github.com/bucchi/OAuth2.0ProviderForJava.git>https://github.com/bucchi/OAuth2.0ProviderForJava.git</a></td><td>db5e1d06ddb51fe63dd30f17a4f1118e433d6b15</td></tr>
+		<td class=cellinside>186</td><td>chirino.hawtbuf</td><td><a href=https://github.com/chirino/hawtbuf.git>https://github.com/chirino/hawtbuf.git</a></td><td>ca06ee5faa424147b58cef6a1b2f1c2e752cfd60</td></tr>
+		<td class=cellinside>187</td><td>jeremyh.jBCrypt</td><td><a href=https://github.com/jeremyh/jBCrypt.git>https://github.com/jeremyh/jBCrypt.git</a></td><td>e015c2c110ab7cf544400893f3543b45f359ff58</td></tr>
+		<td class=cellinside>188</td><td>rystsov.mongodb-transaction-example</td><td><a href=https://github.com/rystsov/mongodb-transaction-example.git>https://github.com/rystsovp/mongodb-transaction-example.git</a></td><td>4facc70228b5b6e70cb7ace55d51aaac2efae2c6</td></tr>
+		<td class=cellinside>189</td><td>linux-china.weixin-robot-java</td><td><a href=https://github.com/linux-china/weixin-robot-java.git>https://github.com/linux-china/weixin-robot-java.git</a></td><td>985b1f68c3b21fb2ae3607aac2554dd6380848d0</td></tr>
+		<td class=cellinside>190</td><td>umermansoor.hadoop-java-example</td><td><a href=https://github.com/umermansoor/hadoop-java-example.git>https://github.com/umermansoor/hadoop-java-example.git</a></td><td>2f1b2a1f4d45e37fd28ad6faa701cf128c8f2e8b</td></tr>
+
+		<td class=cellinside>191</td><td>linsolas.casperjs-runner-maven-plugin</td><td><a href=https://github.com/linsolas/casperjs-runner-maven-plugin.git>https://github.com/linsolas/casperjs-runner-maven-plugin.git</a></td><td>ca9bc5ed66a21546802508c3d4337db6ec5ca1bc</td></tr>
+		<td class=cellinside>192</td><td>BrightcoveOS.metrics-graphite-pickle</td><td><a href=https://github.com/BrightcoveOS/metrics-graphite-pickle.git>https://github.com/BrightcoveOS/metrics-graphite-pickle.git</a></td><td>cc3443a7d3f8af1019945ee189ab40853dd35cf5</td></tr>
+		<td class=cellinside>193</td><td>FasterXML.jackson-module-mrbean</td><td><a href=https://github.com/FasterXML/jackson-module-mrbean.git>https://github.com/FasterXML/jackson-module-mrbean.git</a></td><td>9af7b8287872f79174e9ddf802fe1cefe6009961</td></tr>
+		<td class=cellinside>194</td><td>Frostman.dropbox4j</td><td><a href=https://github.com/Frostman/dropbox4j.git>https://github.com/Frostman/dropbox4j.git</a></td><td>774c817e5bf294d0139ecb5ac81399be50ada5e0</td></tr>
+		<td class=cellinside>195</td><td>javatuples.javatuples</td><td><a href=https://github.com/javatuples/javatuples.git>https://github.com/javatuples/javatuples.git</a></td><td>be0c0fb8d4c955ace7dfcbf0c5cf1bf525c2e57e</td></tr>
+		<td class=cellinside>196</td><td>mikera.enlight</td><td><a href=https://github.com/mikera/enlight.git>https://github.com/mikera/enlight.git</a></td><td>4ad461ca151e67af4607525f86abc133241c57b9</td></tr>
+		<td class=cellinside>197</td><td>jriecken.gae-java-mini-profiler</td><td><a href=https://github.com/jriecken/gae-java-mini-profiler.git>https://github.com/jriecken/gae-java-mini-profiler.git</a></td><td>80f3a59ebe7bfa02506ff53b63ebeaf63cfbf525</td></tr>
+		<td class=cellinside>198</td><td>groupon.locality-uuid.java</td><td><a href=https://github.com/groupon/locality-uuid.java.git>https://github.com/groupon/locality-uuid.java.git</a></td><td>d765e5418b8e9f96f90d494d28b35ea6c9f61bde</td></tr>
+		<td class=cellinside>199</td><td>jolira.wicket-stateless</td><td><a href=https://github.com/jolira/wicket-stateless.git>https://github.com/jolira/wicket-stateless.git</a></td><td>5c4e27c010c022b0086f685a7a110b00ece47b86</td></tr>
+		<td class=cellinside>200</td><td>pignlproc</td><td><a href=https://github.com/ogrisel/pignlproc.git>https://github.com/ogrisel/pignlproc.git</a></td><td>1a6099806af607c6ee541a19d1be2b68c04dca0f</td></tr>
+              </tbody>
+            </table>
+</section>
+	</div>
+
+            </div>
+        </div>
+    </main>
+    <footer>
+      <div class="container">
+        <div class="row">
+            
+        </div>
+        </div>
+      <div id="copyright">
+            <div class="container">
+                <div class="cen">
+                    <div class="col-md-8">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    </body>
+  </html>
