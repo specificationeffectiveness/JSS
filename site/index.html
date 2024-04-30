@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Exploring Defects: A Comparative Analysis in Open-Source Projects Using Siesta Specification</title>
+    <title>Exploring Defects: A Comparative Analysis in Open-Source Projects Using MSL Specification</title>
     
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin-ext" rel="stylesheet">
    
@@ -76,7 +76,7 @@
 		  <div class="container">
 		      <div class="row">
 		          <div class="col-sm-6">
-                    <p>Exploring Defects: A Comparative Analysis in Open-Source Projects Using Siesta Specification</p>
+                    <p>Assessing the Effectiveness of a Minimalist Specification Language for Java Runtime Behavior Verification</p>
 		          </div>
 		      </div>
 		  </div>
@@ -85,20 +85,22 @@
 			<div class="container">
 			<div class="collapse navbar-collapse" id="bs-navbar-collapse">
 		    	<ul class="nav navbar-nav main-navbar-nav">
-		        	<li class="active"><a href="index.html" title="">Home</a></li>
-		        	<li class="dropdown">
-		            <!--	<a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Results Evaluation<span class="caret"></span></a>-->
-		            <!--	<ul class="dropdown-menu">
-                            <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq1-results.html" title="">PP1</a></li>
-                            <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq2-results.html" title="">PP2</a></li>
-                            <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq3-results.html" title="">PP3</a></li>
-                            <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq4-results.html" title="">PP4</a></li>
-                  <li><a href="https://handler-insertionLevel-s3m-tool.github.io/experimentoInsertionLevel/rq5-results.html" title="">PP5</a></li>
-		            	</ul>-->
-		        	</li>
-                    <li><a href="sample_projects.html" title="">Projects Selection</a></li>
-                  <!--  <li><a href="repoduction.html" title="">Reproduction and Validation</a></li>-->
-		    	</ul>                           
+		        	<li class="active"><a href="main.html" title="">Home</a></li>
+                  <li><a href="create.html" title="">Creating Specification</a></li>
+                  <li><a href="index.html" title="">Executing Experiment</a></li>
+                  <li><a href="sample_projects.html" title="">Projects Selection</a></li>
+                  <li><a href="specifications.html" title="">Specifications</a></li>
+                  <li class="dropdown">
+                    <a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Results<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                              <li><a href="rq1-results.html" title="">RQ1</a></li>
+                              <li><a href="rq2-results.html" title="">RQ2</a></li>
+                              <li><a href="rq3-results.html" title="">RQ3</a></li>
+                              <li><a href="rq4-results.html" title="">RQ4</a></li>
+                    
+                    </ul>
+                </li>
+        </ul>                           
 			</div>        
 			</div>
 		</nav>
@@ -119,9 +121,9 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-12">
-                    <h1>Exploring Defects: A Comparative Analysis in Open-Source Projects Using Siesta Specification</h1>
+                    <h1>Assessing the Effectiveness of a Minimalist Specification Language for Java Runtime Behavior Verification</h1>
                 </br>
-                    <p>This study aims to introduce an approach called SIESTA (<strong>S</strong>imple <strong>I</strong>mperative <strong>S</strong>pecification <strong>L</strong>anguage). The SIESTA proposal aims to provide developers with a simple way to specify the semantics of the programming language they already master, aligning it directly and understandably with the semantics of the specification language. This provides a more minimalist integration between specification descriptions and the programming language used, simplifying the development process and promoting a clearer and more accessible understanding of code semantics.</p>
+                    <p>This study aims to introduce an approach called MSL (<strong>M</strong>inimalist <strong>S</strong>pecification <strong>L</strong>anguage). The MSL proposal aims to provide developers with a simple way to specify the semantics of the programming language they already master, aligning it directly and understandably with the semantics of the specification language. This provides a more minimalist integration between specification descriptions and the programming language used, simplifying the development process and promoting a clearer and more accessible understanding of code semantics.</p>
                    
                     <div id="outline-container-org6d139e5" class="outline-2">
                         <h2>1. Environment Setup</h2>
@@ -243,7 +245,7 @@ nothing to commit, working tree clean
 
 <p>Download the file patch for the greplin-zookeeper-utils project</p>
 <div class="org-src-container">
-        <pre class="src src-shell">wget https://gist.githubusercontent.com/leosoftlima/f29badae85e56574fccaf46c87190668/raw/671a0222ef123fe8d57959f7eafa86bd683185a4/zookeeper-maven-plugin.diff</pre>
+        <pre class="src src-shell">wget https://gist.githubusercontent.com/specificationeffectiveness/f29badae85e56574fccaf46c87190668/raw/671a0222ef123fe8d57959f7eafa86bd683185a4/zookeeper-maven-plugin.diff</pre>
 </div> 
     
 <p>Apply it to your local directory</p>
@@ -361,7 +363,7 @@ nothing to commit, working tree clean
 
  <div class="org-src-container">
     <pre class="src src-shell">
- wget https://gist.githubusercontent.com/leosoftlima/af47c024dcc8630323593752554ff3f9/raw/0ee9ae3c4e8b286f6df470211d45a6643e47d0c5/comentorTC.py
+ wget https://gist.githubusercontent.com/specificationeffectiveness/af47c024dcc8630323593752554ff3f9/raw/0ee9ae3c4e8b286f6df470211d45a6643e47d0c5/comentorTC.py
     </pre>
  </div>
 
@@ -374,7 +376,7 @@ nothing to commit, working tree clean
 
 <p>It is necessary to revert the pom.xml to its original version to prevent the automatic execution and generation of tests with Randoop. To achieve this, let's download the original pom.xml file. </p>
 <div class="org-src-container">
-    <pre class="src src-shell">wget -O pom.xml https://gist.githubusercontent.com/leosoftlima/d7193130f23db0317ecd0f8166b40134/raw/922bd24d42fb37f1f6876e79da2e57ae22e0516e/pom.xml
+    <pre class="src src-shell">wget -O pom.xml https://gist.githubusercontent.com/specificationeffectiveness/d7193130f23db0317ecd0f8166b40134/raw/922bd24d42fb37f1f6876e79da2e57ae22e0516e/pom.xml
 
     </pre>
 </div>
@@ -451,9 +453,9 @@ greplin-zookeeper-utils
                         <h2 id="orgc1a341c"><span class="section-number-2">3.</span>Runtime Verification of Specifications</h2>
                         <p>
                            
-Let's configure and run the SIESTA and JAVAMOP approaches, which aim to verify runtime violations in the project under analysis. For this purpose, we provide two Maven extension libraries for integration, enabling Maven to perform runtime analyses during test execution.  
+Let's configure and run the MSL and JAVAMOP approaches, which aim to verify runtime violations in the project under analysis. For this purpose, we provide two Maven extension libraries for integration, enabling Maven to perform runtime analyses during test execution.  
                         </p>
-                        <p>First, we'll set up and then run SIESTA. To begin, we'll transfer the siesta-mop-extension.jar file to the folder: '../..Maven.../lib/ext' 
+                        <p>First, we'll set up and then run MSL. To begin, we'll transfer the MSL-mop-extension.jar file to the folder: '../..Maven.../lib/ext' 
                         </p>
 
                         <div class="org-src-container">
@@ -463,7 +465,7 @@ Let's configure and run the SIESTA and JAVAMOP approaches, which aim to verify r
                         <p>After copying the library to the Maven environment, we need to update the pom.xml file with the dependencies required to execute the mop-extension.jar. This will ensure that Maven can find and utilize the newly added library during the project's build and execution process.                          
                         </p>
                         <div class="org-src-container">
-                            <pre>wget https://gist.githubusercontent.com/leosoftlima/e23b740f58ead19de34f7fcde0c8ed79/raw/78e72c6fb1ab0fe917975e118b8f34980f354f5c/pom-mop.diff
+                            <pre>wget https://gist.githubusercontent.com/specificationeffectiveness/e23b740f58ead19de34f7fcde0c8ed79/raw/78e72c6fb1ab0fe917975e118b8f34980f354f5c/pom-mop.diff
                             </pre>
                         </div>
                         <p>
@@ -475,11 +477,11 @@ Let's configure and run the SIESTA and JAVAMOP approaches, which aim to verify r
                             </pre>
                         </div>
                         <p>
-                            To execute the SIESTA approach, it's necessary to modify the content of the file "/home/mopuser/workspace/loadLibrary.csv" and replace the word "javamop" with "siestamop"To execute the SIESTA approach, it's necessary to modify the content of the file "/home/mopuser/workspace/loadLibrary.csv" and replace the word "javamop" with "siestamop"  
+                            To execute the MSL approach, it's necessary to modify the content of the file "/home/mopuser/workspace/loadLibrary.csv" and replace the word "javamop" with "MSLmop"To execute the MSL approach, it's necessary to modify the content of the file "/home/mopuser/workspace/loadLibrary.csv" and replace the word "javamop" with "MSLmop"  
                         </p>
                         <p>Afterwards, execute the command:</p>
                         <div class="org-src-container">
-                            <pre> mvn test -fn -e > vio-siesta.log
+                            <pre> mvn test -fn -e > vio-MSL.log
                             </pre>
                         </div>
                        
@@ -496,7 +498,7 @@ Let's configure and run the SIESTA and JAVAMOP approaches, which aim to verify r
                             <pre>cd ..
 obs.: go to workspace
 
-wget https://gist.githubusercontent.com/profleonardolima/d5371c95ce4378a5e7967402f7fd54aa/raw/231d516c20c287b425d994f2b73298e7a346b0fc/script.py
+wget https://gist.githubusercontent.com/specificationeffectiveness/d5371c95ce4378a5e7967402f7fd54aa/raw/231d516c20c287b425d994f2b73298e7a346b0fc/script.py
                             </pre>
                             </div>
                         <p>
@@ -509,7 +511,7 @@ wget https://gist.githubusercontent.com/profleonardolima/d5371c95ce4378a5e796740
                             </pre>
                             </div>   
                        </div>
-                       <p>Execute the command again for the SIESTA approach, replacing the filename and output directory.[python3.6 script.py ./greplin-zookeeper-utils/vio-siesta.log output_siesta/]</p>
+                       <p>Execute the command again for the MSL approach, replacing the filename and output directory.[python3.6 script.py ./greplin-zookeeper-utils/vio-MSL.log output_MSL/]</p>
                        <p>After running script.py, navigate to the 'output_javamop' folder. There, you will find the CSV files extracted from the vio-javamop.log file.</p>   
                        <div class="org-src-container">
                         <pre class="src src-shell">cd output
