@@ -28,7 +28,7 @@
 		      </div>
 		  </div>
 		</div>
-    <nav class="navbar navbar-default">
+		<nav class="navbar navbar-default">
 			<div class="container">
 			<div class="collapse navbar-collapse" id="bs-navbar-collapse">
 		    	<ul class="nav navbar-nav main-navbar-nav">
@@ -58,7 +58,7 @@
               <div class="col-sm-12">
                   <ol class="breadcrumb">
                       <li><a href="index.html">Home</a></li>
-                      <li class="active">List of Projects</li>
+                      <li class="active">Abstract</li>
                   </ol>                    
               </div>
           </div>
@@ -73,15 +73,26 @@
 
 <section class="page col-sm-12">
   <div class="page-header">
-    <h1>Specifications</h1>
-    <p> We carefully selected the following 107 GitHub projects for an evaluation of the proposed study. </p>
-    <p> <a href="./specifications.csv">
-       <button type="button" class="btn btn-success btn-sm"> <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download </button></a> CSV file for the following table. </p>
+    <h1>Abstract</h1>
+
     <p>
-      <img src="specifications.PNG">
+      Runtime Verification (RV) is a pivotal technique in software engineering
+for ensuring the correctness and reliability of software
+systems during execution. Despite being shown to be very effective
+for bug finding, RV is often hindered by complex formal languages.
+Recently, MSL was proposed as a minimalist specification language
+to alleviate the challenges of specifying properties for the purpose of
+RV. In this study we enhanced MSL with a semantics and conducted
+an evaluation to assess the effectiveness of MSL when compared
+with a JavaMOP, a state-of-the-art monitoring and specification
+language for RV Properties. We utilized 106 manually written specifications
+and applied them to a total of 107 open-source projects.
+Our results demonstrate that MSL effectively increases the number
+of detected violations. Our findings exhibit potential for future research
+on the development of lightweight, yet precise and reliable
+runtime verification tools.
+    </p>
 
-
-    </p>   
   </div>
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -107,7 +118,17 @@
 		  padding: 2px 3px 2px 3px;
 	  }
   </style>
+  <div class="ritz grid-container" dir="ltr">
 
+  
+    <h2>Methodology Overview</h2>
+    <img src = "processoMSL.svg" alt="processoMSL"/>
+  </div>
+  
+	</div>
+
+            </div>
+        </div>
     </main>
     <footer>
       <div class="container">
