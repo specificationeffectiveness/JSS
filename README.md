@@ -6,7 +6,8 @@ This repository is organized according to the following structure:
 
 - the [`property-db-msl`](property-db-msl) folder contains the dataset of properties from PropertyDB, the language specification document, the applied questionnaires, and students' responses;
 - the [`results`](results) folder contains the tool prototype for utilizing the language, as well as projects with their respective logs, and additional folders containing the data with the results collected in the experiment. 
-- the [`sample`](sample) folder contains a sample project already configured with the tool, specifying a particular property from our sample ([`StringBuilder_ThreadSafe`](https://github.com/runtimeverification/property-db/blob/master/annotated-java-api/java/lang/StringBuilder_ThreadSafe.mop)). 
+- the [`sample`](sample) folder contains a sample project already configured with the tool, specifying a particular property from our sample ([`StringBuilder_ThreadSafe`](https://github.com/runtimeverification/property-db/blob/master/annotated-java-api/java/lang/StringBuilder_ThreadSafe.mop)).
+- the [`site`](site) folder contains information about the overview experiments. You can find more details at this link:  https://specificationeffectiveness.github.io/SBES_2024/site/main.html
 
 ## Setup Instructions
 
