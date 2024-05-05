@@ -1,0 +1,543 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assessing the Effectiveness of a Minimalist Specification Language for Java Runtime Behavior Verification</title>
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin-ext" rel="stylesheet">
+   
+
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/font-awesome.min.css" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet">
+    <script src="./css/w3data.js.download"></script>
+    <style>
+            /* Estilo para texto vermelho */
+            .error {
+            color: #ff0000; /* Vermelho */
+        }
+
+        /* Estilo para texto azul */
+        .info {
+            color: #0000ff; /* Azul */
+        }
+                /* Linhas Adicionadas */
+                .added {
+            background-color: #d6ffd6; /* Verde claro */
+        }
+
+        /* Linhas Modificadas */
+        .modified {
+            background-color: #ccebff; /* Azul claro */
+        }
+
+        /* Outras Linhas */
+        .unchanged {
+            background-color: #ffffff; /* Branco */
+        }
+        pre {
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 5px;
+            display: block;
+            white-space: pre-wrap;
+            margin: 0;
+        }
+        .docker-info {
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 20px 0;
+        }
+
+        .docker-info h2 {
+            margin-top: 0;
+        }
+
+        .docker-info ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .docker-info li {
+            margin-bottom: 10px;
+        }
+    </style>
+  </head>
+  <body style="font-family:verdana;">
+    <header>
+      <div class="top">
+		  <div class="container">
+		      <div class="row">
+		          <div class="col-sm-6">
+                    <p>Assessing the Effectiveness of a Minimalist Specification Language for Java Runtime Behavior Verification</p>
+		          </div>
+		      </div>
+		  </div>
+		</div>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="collapse navbar-collapse" id="bs-navbar-collapse">
+		    	<ul class="nav navbar-nav main-navbar-nav">
+		        	<li class="active"><a href="main.html" title="">Home</a></li>
+                  <li><a href="create.html" title="">Creating Specification</a></li>
+                  <li><a href="index.html" title="">Executing Experiment</a></li>
+                  <li><a href="sample_projects.html" title="">Projects Selection</a></li>
+                  <li><a href="specifications.html" title="">Specifications</a></li>
+                  <li class="dropdown">
+                    <a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Results<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                              <li><a href="rq1-results.html" title="">RQ1</a></li>
+                              <li><a href="rq2-results.html" title="">RQ2</a></li>
+                              <li><a href="rq3-results.html" title="">RQ3</a></li>
+                              <li><a href="rq4-results.html" title="">RQ4</a></li>
+                    
+                    </ul>
+                </li>
+        </ul>                           
+			</div>        
+			</div>
+		</nav>
+    </header>
+    <div class="bread_area">
+      <div class="container">
+          <div class="row">
+              <div class="col-sm-12">
+                  <ol class="breadcrumb">
+                      <li><a href="index.html">Home</a></li>
+                      <li class="active">Creating Specification</li>
+                  </ol>                    
+              </div>
+          </div>
+      </div>
+    </div>
+    <main class="site-main page-main">
+        <div class="container">
+            <div class="row">
+                <section class="page col-sm-12">
+                    <h1>Assessing the Effectiveness of a Minimalist Specification Language for Java Runtime Behavior Verification</h1>
+                </br>
+                    <p>This study aims to introduce an approach called MSL (<strong>M</strong>inimalist <strong>S</strong>pecification <strong>L</strong>anguage). The MSL proposal aims to provide developers with a simple way to specify the semantics of the programming language they already master, aligning it directly and understandably with the semantics of the specification language. This provides a more minimalist integration between specification descriptions and the programming language used, simplifying the development process and promoting a clearer and more accessible understanding of code semantics.</p>
+                   
+                    <div id="outline-container-org6d139e5" class="outline-2">
+                        <h2>1. Environment Setup</h2>
+                        <p>The development environment configuration plays a crucial role, requiring considerable time and effort. Therefore, we have implemented a Docker environment to facilitate the efficient and consistent reproduction of our study. In this context, we chose to use a Linux environment embedded in a Docker image, in addition to integrating some essential tools and libraries.</p>
+                        <p>This approach not only simplifies the configuration process but also ensures that the replication of the environment is uniform, regardless of the machine or specific configuration.</p>
+                       
+                        <div class="outline-text-2" id="text-1">
+                            <p> Choosing Docker as the platform provides isolation and portability, making it easier to distribute and run the environment in different development environments. This strategy aims to optimize productivity and consistency during the study, contributing to more reliable and reproducible results.</p>
+                            <p>Now, open a terminal, and let's get started using the command line.</p>
+                            <p>
+                                # Verify if <a href="https://www.docker.com/">Docker</a> is installed
+                                <div class="org-src-container">
+                                    <pre class="src src-shell">docker -v</pre>
+                               </div>
+                            </p>
+                               <p>
+                                If it's already installed, you should see a greeting similar to this:
+                                <div class="docker-info">
+                                    <ul>
+                                        <li><strong>Versão do Docker:</strong> 24.0.7</li>
+                                        <li><strong>Informações de Build:</strong> afdd53b</li>
+                                        <!-- Adicione mais informações conforme necessário -->
+                                    </ul>
+                                </div>
+                               </p>
+                             
+                             <p>
+                                If you don&rsquo;t have Docker installed, please consult the <a href="https://docs.docker.com/get-docker/">docker documentation</a>.
+                                </p>
+                                <!--New Code-->
+                                <p>
+                                <span class="underline"><b><b># Note</b></b>: if you&rsquo;re using a Linux system, please review <a href="https://docs.docker.com/engine/install/linux-postinstall/"> Docker&rsquo;s post-installation steps for Linux</a>!</span>
+                                </p>
+                                
+                                <p>
+                                Now that docker is installed let&rsquo;s get down to business. <a href="https://hub.docker.com/">Docker Hub</a> is the platform where open-source Docker images are stored. To install our Docker image, simply run:
+                                </p>
+                                <div class="org-src-container">
+                                     <pre class="src src-shell">docker run leosoftlima/environment-mop-docker-image:latest</pre>
+                                </div>
+                                
+                                <p>If you&rsquo;ve followed all the steps in the previous section, you should already have our Docker container on your machine. 
+                                    If this is not the case, please revisit the previous section.
+                                </p>
+                                
+                                <p>
+                                Now lets enter our container
+                                </p>
+                                <div class="org-src-container">
+                                     <pre class="src src-shell">docker run -it leosoftlima/environment-mop-docker-image:latest</pre>
+                                </div>
+                            </br>
+                                <p>The provided Docker environment is already equipped with various essential tools to facilitate the development and execution of experiments. The main included tools are <strong>Maven, MOP Extension, Java, and GitHub</strong>. Additionally, the dependencies for <strong>Sieta, JavaMOP, and Randoop</strong> are properly configured in the <strong>home/mopuser/.m2</strong> directory. This pre-configuration aims to optimize the environment, enabling a more streamlined and efficient process during the experiment.</p>
+                        </div>
+                       
+                        <div id="outline-container-orgc1a341c" class="outline-2">
+                            <br>
+                            <h2 id="orgc1a341c"><span class="section-number-2">
+                                2.</span> Choose of Project</h2>
+                            <div class="outline-text-2" id="text-2">
+                                <p>The<a href="http://zookeeper.apache.org/"> Greplin Zookeeper Utilities</a> project was used as an example, but you can choose any Maven-based project. The choice of the zookeeper-utils project was guided by the findings presented in the article <strong>'How Good Are the Specs? A Study of the Bug-Finding Effectiveness of Existing Java API Specifications.'</strong> 
+                                    According to Table 1 in the paper, the project exhibits only 4 test cases. Consequently, in this experiment, 633 test cases were generated to enhance the test coverage of the project.</p>
+                            </div>
+                            <p>First, navigate to the workspace directory:</p>
+
+                            <div class="org-src-container">
+                                <pre class="src src-shell">cd /home/mopuser/workspace
+                                </pre>
+                            </div>
+                            <p>Next, clone the Greplin Zookeeper Utilities project repository</p>
+                                <div class="org-src-container">
+                                    <pre class="src src-shell">git clone https://github.com/Cue/greplin-zookeeper-utils.git</pre>
+                                </div>
+                            <p>Now, navigate to the projects directory.</p>
+                            <div class="org-src-container">
+                                <pre class="src src-shell">cd greplin-zookeeper-utils
+                                </pre>
+                            </div>
+                            <p>To ensure reproducibility, we will use a specific hash. However, the steps in this tutorial should be applicable to other hashes with minor adjustments if needed.</p>
+                            <div class="org-src-container">
+                                <pre class="src src-shell">git checkout a2b80474d1cd2e45ebbdc95dbb384bec03c21d96
+
+
+                                </pre>
+                            </div>  
+                            <p>
+                                The command "git log" allows you to check if the repository is at the correct hash commit. </p>
+                                <div class="org-src-container">
+                                    <pre class="src src-shell">git status
+
+<strong>Output:</strong>                                        
+<span style="color: red;">HEAD detached at</span> a2b8047
+nothing to commit, working tree clean        
+    
+                                    </pre>
+                                </div>    
+                           
+
+                           
+                       </div> 
+                       <div id="outline-container-orgc1a341c" class="outline-2">
+                        <br>
+                        <h2 id="orgc1a341c"><span class="section-number-2">
+                            3.</span> Automatically Generating Tests
+                        </h2>
+
+                        <p> The need to create efficient automated tests motivated the choice of Randoop as a test case generation tool. This tool, available on <a href="https://github.com/randoop/randoop"> GitHub </a>, provides powerful features for automated unit testing. To initiate the configuration process, I sought the latest version in the GitHub repository, ensuring access to the latest functionalities and fixes.
+                        </p>
+
+                        <p>  Next, I will detail the steps to configure and use Randoop, highlighting the importance of this tool in the context of my experiment and how it contributes to the effectiveness of automated tests.</p>
+<!--  <p>
+                                There is one last thing you should do before running any tests&#x2026; The struts repository has a few tests that hang, so the `mvn test` command would run indefinetely, in order to remove such tests copy and run the following command:
+                                </p>
+                                <div class="org-src-container">
+                                <pre class="src src-shell"><span style="color: #ECBE7B;">find</span> .  -name <span style="color: #98be65;">"RobustZooKeeperTest.java"</span> -o <span style="color: #98be65;">\</span> | xargs <span style="color: #ECBE7B;">rm</span> -f
+                                </pre>
+                                </div>
+-->
+
+<p>Download the file patch for the greplin-zookeeper-utils project</p>
+<div class="org-src-container">
+        <pre class="src src-shell">wget https://gist.githubusercontent.com/specificationeffectiveness/f29badae85e56574fccaf46c87190668/raw/671a0222ef123fe8d57959f7eafa86bd683185a4/zookeeper-maven-plugin.diff</pre>
+</div> 
+    
+<p>Apply it to your local directory</p>
+<div class="org-src-container">
+        <pre class="src src-shell">git apply zookeeper-maven-plugin.diff
+        </pre>
+</div>
+<!--Aqui para baixo..-->
+<p>
+    and to see the changes made by our diff run
+    </p>
+    <div class="org-src-container">
+    <pre class="src src-shell">git diff
+
+  <strong>Output:</strong> warning: 1 line adds whitespace errors.  
+
+        diff --git a/pom.xml b/pom.xml
+        index ff11266..7ff47ca 100755
+        --- a/pom.xml
+        +++ b/pom.xml
+        <span class="modified">@@ -39,9 +39,32 @@</span>
+                   &lt;suppressionsFileExpression&gt;checkstyle.suppressions.file&lt;/suppressionsFileExpression&gt;
+                 &lt;/configuration&gt;
+               &lt;/plugin&gt;
+        <span class="added">
+        +     
+        +        &lt;plugin&gt;
+        +            &lt;groupId&gt;randoop&lt;/groupId&gt;
+        +            &lt;artifactId&gt;randoop-maven-plugin&lt;/artifactId&gt;
+        +            &lt;version&gt;4.3.2&lt;/version&gt;
+        +            &lt;configuration&gt;
+        +                &lt;packageName&gt;com.greplin.zookeeper&lt;/packageName&gt;
+        +            &lt;/configuration&gt;
+        +            &lt;executions&gt;
+        +                &lt;execution&gt;
+        +                    &lt;id&gt;generate-tests&lt;/id&gt;
+        +                    &lt;goals&gt;
+        +                        &lt;goal&gt;gentests&lt;/goal&gt;
+        +                    &lt;/goals&gt;
+        +                    &lt;phase&gt;generate-test-sources&lt;/phase&gt;
+        +                &lt;/execution&gt;
+        +            &lt;/executions&gt;
+        +        &lt;/plugin&gt;
+        +</span>
+        
+             &lt;/plugins&gt;
+           &lt;/build&gt;
+        
+        +
+        +
+        +
+           &lt;dependencies&gt;
+        
+             &lt;dependency&gt;
+        <span class="modified">@@ -105,7 +128,12 @@</span>
+               &lt;version&gt;1.0.9&lt;/version&gt;
+               &lt;scope&gt;test&lt;/scope&gt;
+             &lt;/dependency&gt;
+<span style="color: red">        -</span>
+        +<span class="added">
+        +        &lt;dependency&gt;
+        +            &lt;groupId&gt;randoop&lt;/groupId&gt;
+        +            &lt;artifactId&gt;randoop-all&lt;/artifactId&gt;
+        +            &lt;version&gt;4.3.2&lt;/version&gt;
+        +            &lt;scope&gt;provided&lt;/scope&gt;
+        +        &lt;/dependency&gt;
+        +</span>
+    </pre>
+    </div>
+<p>
+    Now we are all set; simply run Randoop-maven-plugin to generate automated test cases:
+    </p>
+    <div class="org-src-container">
+    <pre class="src src-shell">mvn clean install
+
+<strong>Output:...</strong>
+
+[<span class="info">INFO</span>] Results:
+[<span class="info">INFO</span>]
+[<span class="error">ERROR</span>]<span class="error">  Failures:</span>
+[<span class="error">ERROR</span>]   RegressionTest0.test035:580 Expected exception of type java.net.BindException; message: Address already in use
+[<span class="error">ERROR</span>]   RegressionTest0.test088:1560 Expected exception of type java.net.BindException; message: Address already in use
+[<span class="error">ERROR</span>]   RegressionTest0.test107:1921 Expected exception of type java.net.BindException; message: Address already in use
+[<span class="error">ERROR</span>]   RegressionTest0.test122:2179 Expected exception of type java.net.BindException; message: Address already in use
+[<span class="error">ERROR</span>]   RegressionTest0.test165:2975 Expected exception of type java.net.BindException; message: Address already in use
+[<span class="error">ERROR</span>]   RegressionTest0.test225:4094 Expected exception of type java.net.BindException; message: Address already in use
+[<span class="error">ERROR</span>]   RegressionTest0.test256:4728 Expected exception of type java.net.BindException; message: Address already in use
+[<span class="error">ERROR</span>]   RegressionTest0.test340:6334 Expected exception of type java.net.BindException; message: Address already in use
+[<span class="error">ERROR</span>]<span class="error"> Errors:</span>
+[<span class="error">ERROR</span>]   RegressionTest0.test381:7191 ? NoNode KeeperErrorCode = NoNode for /_greplin_robustZK_
+[<span class="error">ERROR</span>]   RegressionTest0.test417:7915 ? NoNode KeeperErrorCode = NoNode for /_greplin_robustZK_
+[<span class="info">INFO</span>]
+[<span class="error">ERROR</span>]<span class="error"> Tests run:</span> 439, Failures: 8, Errors: 2, Skipped: 0
+[<span class="info">INFO</span>]
+[<span class="info">INFO</span>] ------------------------------------------------------------------------
+[<span class="info">INFO</span>] <span class="error">BUILD FAILURE</span>
+[<span class="info">INFO</span>] ------------------------------------------------------------------------
+[<span class="error">ERROR</span>] Failed to execute goal<span style="color: green"> org.apache.maven.plugins:maven-surefire-plugin:3.2.2:test </span> (default-test) on project<span class="info"> zookeeper-utils</span>:<span class="error"> There are test failures.</span>
+[<span class="error">ERROR</span>]
+[<span class="error">ERROR</span>] Please refer to /home/mopuser/workspace/greplin-zookeeper-utils/target/surefire-reports for the individual test results.
+[<span class="error">ERROR</span>] Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.
+    </pre>
+    </pre>
+    </div>
+<p><strong>Optional: </strong> If any problems occur during the Maven execution, you can use the following command to troubleshoot.</p>
+<div class="org-src-container">
+    <pre class="src src-shell">java -ea -classpath /home/mopuser/workspace/greplin-zookeeper-utils/target/classes/:/root/.m2/repository/org/apache/zookeeper/zookeeper/3.4.5/zookeeper-3.4.5.jar:/root/.m2/repository/jline/jline/0.9.94/jline-0.9.94.jar:/root/.m2/repository/org/jboss/netty/netty/3.2.2.Final/netty-3.2.2.Final.jar:/root/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar:/root/.m2/repository/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar:/root/.m2/repository/org/slf4j/slf4j-api/1.7.4/slf4j-api-1.7.4.jar:/root/.m2/repository/randoop/randoop-all/4.3.2/randoop-all-4.3.2.jar:/root/.m2/repository/randoop/randoop-maven-plugin/4.3.2/randoop-maven-plugin-4.3.2.jar randoop.main.Main gentests --time-limit=30 --debug-checks=true --junit-package-name=com.greplin.zookeeper --junit-output-dir=./src/test/java --testclass=com.greplin.zookeeper.RobustZooKeeper$1 --testclass=com.greplin.zookeeper.RobustZooKeeper$ConnectionWatcher --testclass=com.greplin.zookeeper.EmbeddedZookeeperServer --testclass=com.greplin.zookeeper.RobustZooKeeper$2 --testclass=com.greplin.zookeeper.RobustZooKeeper --testclass=com.greplin.zookeeper.EmbeddedZookeeperServer$1 --testclass=com.greplin.zookeeper.EmbeddedZookeeperServer$Builder
+    </pre>
+    </div>   
+    <!-- python3 comentorFailAssert.py /home/mopuser/workspace/greplin-zookeeper-utils/target/generated-test-sources/java/com/greplin/zookeeper/RegressionTest0.java -->
+
+<p> Obs.: The established condition involves ensuring that all tests are executed without monitoring and pass successfully. To meet this requirement, a custom script will be implemented to automatically remove tests that fail during execution. This approach aims to ensure that tests pass without monitoring intervention, providing a solid foundation for evaluating the experiment results.
+    
+ </p>
+
+ <div class="org-src-container">
+    <pre class="src src-shell">
+ wget https://gist.githubusercontent.com/specificationeffectiveness/af47c024dcc8630323593752554ff3f9/raw/0ee9ae3c4e8b286f6df470211d45a6643e47d0c5/comentorTC.py
+    </pre>
+ </div>
+
+
+ <p>  execute script ..................</p>
+ <div class="org-src-container">
+    <pre class="src src-shell">python3 comentorTC.py src/test/java/com/greplin/zookeeper/RegressionTest0.java test035 test088 test107 test122 test165 test226 test257 test341 test365 test381 test383 test395 test409 test411 test417 test420
+    </pre>
+ </div>
+
+<p>It is necessary to revert the pom.xml to its original version to prevent the automatic execution and generation of tests with Randoop. To achieve this, let's download the original pom.xml file. </p>
+<div class="org-src-container">
+    <pre class="src src-shell">wget -O pom.xml https://gist.githubusercontent.com/specificationeffectiveness/d7193130f23db0317ecd0f8166b40134/raw/922bd24d42fb37f1f6876e79da2e57ae22e0516e/pom.xml
+
+    </pre>
+</div>
+<p >
+    Let's clean, compile, and run the tests to ensure they all have a status of "passed".
+</p>
+ <div class="org-src-container">
+    <pre class="src src-shell">
+ mvn clean test  
+ 
+ <strong>Output: </strong> 
+[<span class="info">INFO</span>] <span style="color: green">Tests run: 429</span>, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.101 s -- in com.greplin.zookeeper.RegressionTest
+[<span class="info">INFO</span>]
+[<span class="info">INFO</span>] Results:
+[<span class="info">INFO</span>]
+[<span class="info">INFO</span>] <span style="color: green">Tests run: 433, Failures: 0, Errors: 0, Skipped: 0</span>
+[<span class="info">INFO</span>]
+[<span class="info">INFO</span>] ------------------------------------------------------------------------
+[<span class="info">INFO</span>] <span style="color: green">BUILD SUCCESS</span>
+[<span class="info">INFO</span>]------------------------------------------------------------------------
+[<span class="info">INFO</span>] Total time:  14.815 s
+[<span class="info">INFO</span>] Finished at: 2024-01-27T01:15:34Z
+[<span class="info">INFO</span>]------------------------------------------------------------------------
+</pre>
+</div>
+<p >
+    Here is the project structure with the tests generated by Randoop.
+  </p>
+   <div class="org-src-container">
+      <pre class="src src-shell">
+<strong>Output: after executed was created the folder target, where have the sub-folder created</strong>
+
+greplin-zookeeper-utils
+|-- src
+|   `--main
+|      `-- ...
+|   `--test
+|      `-- java
+|          `-- com
+|              `-- greplin
+|                  `-- zookeeper
+|         <strong>              `-- RegressionTest.java</strong>
+|         <strong>              `-- RegressionTest0.java</strong>
+|                       `-- RobustZooKeeperTest.java
+|
+|-- target
+|   |-- classes
+|   |   `-- com
+|   |       `-- greplin
+|   |           `-- zookeeper
+|   |               `-- RobustZooKeeper.class
+|   |-- test-sources
+|   |    `-- java
+|   |        `-- com
+|   |            `-- greplin
+|   |                `-- zookeeper
+|   |      <strong>              `-- RegressionTest.class</strong>
+|   |      <strong>              `-- RegressionTest0.class</strong>
+|   |                    `-- ...
+|-- .gitignore
+|-- pom.xml
+|-- README.md
+|-- LICENSE
+|-- ...
+    </pre>
+    </div> 
+<!--    <p>
+    
+    javac -cp /home/mopuser/workspace/greplin-zookeeper-utils/target/classes:/root/.m2/repository/org/apache/zookeeper/zookeeper/3.4.5/zookeeper-3.4.5.jar:/root/.m2/repository/junit/junit/4.12/junit-4.12.jar -d /home/mopuser/workspace/greplin-zookeeper-utils/target/test-classes /home/mopuser/workspace/greplin-zookeeper-utils/target/generated-test-sources/java/com/greplin/zookeeper/*.java 
+</p>-->   
+                       </div>   
+                       <div id="outline-container-orgc1a341c" class="outline-2">
+                        <br>
+                        <h2 id="orgc1a341c"><span class="section-number-2">3.</span>Runtime Verification of Specifications</h2>
+                        <p>
+                           
+Let's configure and run the MSL and JAVAMOP approaches, which aim to verify runtime violations in the project under analysis. For this purpose, we provide two Maven extension libraries for integration, enabling Maven to perform runtime analyses during test execution.  
+                        </p>
+                        <p>First, we'll set up and then run MSL. To begin, we'll transfer the MSL-mop-extension.jar file to the folder: '../..Maven.../lib/ext' 
+                        </p>
+
+                        <div class="org-src-container">
+                            <pre> cp /home/mopuser/mop-extension/target/mop-extension-1.0-SNAPSHOT.jar /home/mopuser/apache-maven-3.9.6/lib/ext/
+                            </pre>
+                        </div>
+                        <p>After copying the library to the Maven environment, we need to update the pom.xml file with the dependencies required to execute the mop-extension.jar. This will ensure that Maven can find and utilize the newly added library during the project's build and execution process.                          
+                        </p>
+                        <div class="org-src-container">
+                            <pre>wget https://gist.githubusercontent.com/specificationeffectiveness/e23b740f58ead19de34f7fcde0c8ed79/raw/78e72c6fb1ab0fe917975e118b8f34980f354f5c/pom-mop.diff
+                            </pre>
+                        </div>
+                        <p>
+                            Let's run the tests and automatically check for violations. If any are found, they will be saved in the log file.  
+                        </p>
+                        
+                        <div class="org-src-container">
+                            <pre>mvn test -fn -e > vio-javamop.log
+                            </pre>
+                        </div>
+                        <p>
+                            To execute the MSL approach, it's necessary to modify the content of the file "/home/mopuser/workspace/loadLibrary.csv" and replace the word "javamop" with "MSLmop"To execute the MSL approach, it's necessary to modify the content of the file "/home/mopuser/workspace/loadLibrary.csv" and replace the word "javamop" with "MSLmop"  
+                        </p>
+                        <p>Afterwards, execute the command:</p>
+                        <div class="org-src-container">
+                            <pre> mvn test -fn -e > vio-MSL.log
+                            </pre>
+                        </div>
+                       
+                       </div>
+                       <div id="outline-container-orgc1a341c" class="outline-2">
+                        <br>
+                        <h2 id="orgc1a341c"><span class="section-number-2">4.</span>Extraction Information Log</h2>
+                        <p>After completing the test execution, it is expected to identify some violations. If all steps were followed correctly, all violations should be recorded in the struts.log file
+                        </p>
+                        <p>Let's use a script to extract the generated violations, Now, let's download the script.py file and save it in the workspace directory. 
+                            Please navigate to this directory using the listed command, and then proceed to download the file</p>
+
+                        <div class="org-src-container">
+                            <pre>cd ..
+obs.: go to workspace
+
+wget https://gist.githubusercontent.com/specificationeffectiveness/d5371c95ce4378a5e7967402f7fd54aa/raw/231d516c20c287b425d994f2b73298e7a346b0fc/script.py
+                            </pre>
+                            </div>
+                        <p>
+                            Execute the following command in the workspace directory.
+                           
+                        </p> 
+                        <p>"Usage: python script.py &lt;log_file_path&gt; &lt;/output_directory&gt;"</p>
+                        <div class="org-src-container">
+                            <pre class="src src-shell">python3.6 script.py ./greplin-zookeeper-utils/vio-javamop.log output_javamop/
+                            </pre>
+                            </div>   
+                       </div>
+                       <p>Execute the command again for the MSL approach, replacing the filename and output directory.[python3.6 script.py ./greplin-zookeeper-utils/vio-MSL.log output_MSL/]</p>
+                       <p>After running script.py, navigate to the 'output_javamop' folder. There, you will find the CSV files extracted from the vio-javamop.log file.</p>   
+                       <div class="org-src-container">
+                        <pre class="src src-shell">cd output
+                        </pre>
+                        </div>  
+                        <p>For each violation, a file is created with its own name. Additionally, a 'results' file is generated, containing a summary of all violations found in the log file.</p>
+                    </div>            
+                </section>
+            </div>
+        </div>
+    </main>
+    <footer>
+      <div class="container">
+        <div class="row">
+            
+        </div>
+        </div>
+      <div id="copyright">
+            <div class="container">
+                <div class="cen">
+                    <div class="col-md-8">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    </body>
+  </html>
