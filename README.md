@@ -23,5 +23,5 @@ Considering the [`sample`](sample) project, given the requirements, you only nee
 > ant ajmlrac
 ```
 
-If you wish to test a different scenario where the property is not violated, you can change the [`main.class`](https://github.com/specificationeffectiveness/SBES_2024/blob/main/sample/StringBuilder%20Single%20Thread/build.xml#L38) property from the [`build.xml`](https://github.com/specificationeffectiveness/SBES_2024/blob/main/sample/StringBuilder%20Single%20Thread/build.xml) file in line 38 to `stringbuilderexample.StringBuilderSingleThreadDemo`.
+If you wish to test a different scenario where the property is not violated, you can change the [`main.class`](https://github.com/specificationeffectiveness/JSS/blob/main/sample/StringBuilder%20Single%20Thread/build.xml#L38) property from the [`build.xml`](https://github.com/specificationeffectiveness/JSS/blob/main/sample/StringBuilder%20Single%20Thread/build.xml) file in line 38 to `stringbuilderexample.StringBuilderSingleThreadDemo`.
 
