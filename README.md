@@ -1,31 +1,38 @@
-# MSL
+# Siesta
 
-MSL stands for Minimalist Specification Language, a concise language designed for expressing properties. It is built on top of Java, the programming language whose API properties we aim to specify, and one that many developers are familiar with. MSL includes only the essential features required to express various types of behavioral properties. Our focus is not on generality.
+**Siesta (Specification Implementation for Expressing Software Temporal Assertions)** é uma linguagem minimalista projetada para expressar propriedades de comportamento.  
+Ela é construída sobre **Java**, aproveitando a familiaridade que muitos desenvolvedores já têm.  
+O foco do Siesta é incluir apenas os elementos essenciais para expressar diferentes tipos de propriedades, priorizando a simplicidade em vez da generalidade.
 
-This repository is organized according to the following structure: 
+---
 
-- ## Replication Package
+## Replication Package
+
 Os resultados completos do artigo estão em [`results/`](./results), que serve como **Replication Package**.  
 Veja o sumário em [`results/REPLICATION_PACKAGE.md`](./results/REPLICATION_PACKAGE.md).
 
-- the [`property-db-msl`](property-db-msl) folder contains the dataset of properties from PropertyDB, the language specification document;
-- the [`results`](results) folder contains the tool prototype for utilizing the language, as well as projects with their respective logs, and additional folders containing the data with the results collected in the experiment. 
-- the [`sample`](sample) folder contains a sample project already configured with the tool, specifying a particular property from our sample ([`StringBuilder_ThreadSafe`](https://github.com/runtimeverification/property-db/blob/master/annotated-java-api/java/lang/StringBuilder_ThreadSafe.mop)).
-- the [`site`](site) folder contains information about the overview experiments. You can find more details at this link:  https://specificationeffectiveness.github.io/JSS/site/main.html
+---
+
+## Estrutura do Repositório
+
+- [`property-db-msl`](./property-db-msl): dataset de propriedades do **PropertyDB**, além do documento de especificação da linguagem.  
+- [`results`](./results): protótipo da ferramenta, projetos com seus respectivos logs e dados/resultados coletados no experimento.  
+- [`sample`](./sample): projeto de exemplo já configurado com a ferramenta, especificando uma propriedade de amostra ([`StringBuilder_ThreadSafe`](https://github.com/runtimeverification/property-db/blob/master/annotated-java-api/java/lang/StringBuilder_ThreadSafe.mop)).  
+- [`site`](./site): informações sobre os experimentos e visão geral. Detalhes disponíveis em:  
+  👉 [https://specificationeffectiveness.github.io/JSS/site/main.html](https://specificationeffectiveness.github.io/JSS/site/main.html)
+
+---
 
 ## Setup Instructions
 
 ### Requirements
 - Java 1.8
-- Apache Commons Lang 3-3.1
+- Apache Commons Lang 3.1
 
-### Executing MSL
+### Executando Siesta
 
-Considering the [`sample`](sample) project, given the requirements, you only need to execute two commands in the command line: 
-```
-> ant ajmlc
-> ant ajmlrac
-```
+Usando o projeto [`sample`](./sample), com os requisitos instalados, basta executar:
 
-If you wish to test a different scenario where the property is not violated, you can change the [`main.class`](https://github.com/specificationeffectiveness/JSS/blob/main/sample/StringBuilder%20Single%20Thread/build.xml#L38) property from the [`build.xml`](https://github.com/specificationeffectiveness/JSS/blob/main/sample/StringBuilder%20Single%20Thread/build.xml) file in line 38 to `stringbuilderexample.StringBuilderSingleThreadDemo`.
-
+```bash
+ant ajmlc
+ant ajmlrac
