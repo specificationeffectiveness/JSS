@@ -1,24 +1,24 @@
 # Siesta
 
-**Siesta (Specification Implementation for Expressing Software Temporal Assertions)** é uma linguagem minimalista projetada para expressar propriedades de comportamento.  
-Ela é construída sobre **Java**, aproveitando a familiaridade que muitos desenvolvedores já têm.  
-O foco do Siesta é incluir apenas os elementos essenciais para expressar diferentes tipos de propriedades, priorizando a simplicidade em vez da generalidade.
+**Siesta (Specification Implementation for Expressing Software Temporal Assertions)** is a minimalist language designed for expressing behavioral properties.  
+It is built on top of **Java**, leveraging the familiarity many developers already have with the language.  
+Siesta focuses on including only the essential elements required to express different types of properties, prioritizing simplicity over generality.
 
 ---
 
 ## Replication Package
 
-Os resultados completos do artigo estão em [`results/`](./results), que serve como **Replication Package**.  
-Veja o sumário em [`results/REPLICATION_PACKAGE.md`](./results/REPLICATION_PACKAGE.md).
+The complete results of the article are available in [`results/`](./results), which serves as the **Replication Package**.  
+See the summary in [`results/REPLICATION_PACKAGE.md`](./results/REPLICATION_PACKAGE.md).
 
 ---
 
-## Estrutura do Repositório
+## Repository Structure
 
-- [`property-db-msl`](./property-db-msl): dataset de propriedades do **PropertyDB**, além do documento de especificação da linguagem.  
-- [`results`](./results): protótipo da ferramenta, projetos com seus respectivos logs e dados/resultados coletados no experimento.  
-- [`sample`](./sample): projeto de exemplo já configurado com a ferramenta, especificando uma propriedade de amostra ([`StringBuilder_ThreadSafe`](https://github.com/runtimeverification/property-db/blob/master/annotated-java-api/java/lang/StringBuilder_ThreadSafe.mop)).  
-- [`site`](./site): informações sobre os experimentos e visão geral. Detalhes disponíveis em:  
+- [`property-db-msl`](./property-db-msl): dataset of properties from **PropertyDB**, along with the language specification document.  
+- [`results`](./results): tool prototype, projects with their respective logs, and additional data/results collected during the experiment.  
+- [`sample`](./sample): a sample project already configured with the tool, specifying one example property ([`StringBuilder_ThreadSafe`](https://github.com/runtimeverification/property-db/blob/master/annotated-java-api/java/lang/StringBuilder_ThreadSafe.mop)).  
+- [`site`](./site): information and overview of the experiments. More details can be found at:  
   👉 [https://specificationeffectiveness.github.io/JSS/site/main.html](https://specificationeffectiveness.github.io/JSS/site/main.html)
 
 ---
@@ -29,9 +29,9 @@ Veja o sumário em [`results/REPLICATION_PACKAGE.md`](./results/REPLICATION_PACK
 - Java 1.8
 - Apache Commons Lang 3.1
 
-### Executando Siesta
+### Running Siesta
 
-Usando o projeto [`sample`](./sample), com os requisitos instalados, basta executar:
+Using the [`sample`](./sample) project, given the requirements, you only need to run the following commands:
 
 ```bash
 ant ajmlc
