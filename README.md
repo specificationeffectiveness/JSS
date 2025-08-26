@@ -4,6 +4,10 @@ MSL stands for Minimalist Specification Language, a concise language designed fo
 
 This repository is organized according to the following structure: 
 
+- ## Replication Package
+Os resultados completos do artigo estão em [`results/`](./results), que serve como **Replication Package**.  
+Veja o sumário em [`results/REPLICATION_PACKAGE.md`](./results/REPLICATION_PACKAGE.md).
+
 - the [`property-db-msl`](property-db-msl) folder contains the dataset of properties from PropertyDB, the language specification document;
 - the [`results`](results) folder contains the tool prototype for utilizing the language, as well as projects with their respective logs, and additional folders containing the data with the results collected in the experiment. 
 - the [`sample`](sample) folder contains a sample project already configured with the tool, specifying a particular property from our sample ([`StringBuilder_ThreadSafe`](https://github.com/runtimeverification/property-db/blob/master/annotated-java-api/java/lang/StringBuilder_ThreadSafe.mop)).
