@@ -15,8 +15,7 @@ See the summary in [`results/REPLICATION_PACKAGE.md`](./results/REPLICATION_PACK
 
 ## Repository Structure
 
-- [`property-db-msl`](./property-db-msl): dataset of properties from **PropertyDB**, along with the language specification document.  
-- [`results`](./results): tool prototype, projects with their respective logs, and additional data/results collected during the experiment.  
+- [`property-db-siesta`](./property-db-siesta): dataset of properties from **PropertyDB**, along with the language specification document.  
 - [`sample`](./sample): a sample project already configured with the tool, specifying one example property ([`StringBuilder_ThreadSafe`](https://github.com/runtimeverification/property-db/blob/master/annotated-java-api/java/lang/StringBuilder_ThreadSafe.mop)).  
 - [`site`](./site): information and overview of the experiments. More details can be found at:  
   👉 [https://specificationeffectiveness.github.io/JSS/site/main.html](https://specificationeffectiveness.github.io/JSS/site/main.html)

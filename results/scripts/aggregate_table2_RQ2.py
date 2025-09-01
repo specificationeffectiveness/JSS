@@ -5,8 +5,8 @@ import pandas as pd
 
 # === CONFIG ===
 BASE = Path("C:/UFPE/Siesta/rep/JSS/results/data")  # <- ajuste se quiser
-F_MSL   = BASE / "inspections-msl.csv"
-F_JMOP  = BASE / "inspections-javamop.csv"
+F_MSL   = BASE / "violation_siesta.csv"
+F_JMOP  = BASE / "violation_javamop.csv"
 F_FMT   = BASE / "table2_tb_fa_by_project_formatted.csv"   # gerado se não existir
 F_OUT   = BASE / "table2_tb_fa_by_project.csv"      # saída final (ordenada)
 

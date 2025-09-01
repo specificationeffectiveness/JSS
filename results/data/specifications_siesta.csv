@@ -1,0 +1,183 @@
+Specification,Package,Status,Link
+Appendable_ThreadSafe.mop,Lang,Not Implemented,
+Boolean_StaticFactory.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Boolean_StaticFactoryHandler.java
+Byte_BadDecodeArg.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Byte_BadDecodeArgHandler.java
+Byte_BadParsingArgs.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Byte_BadParsingArgsHandler.java
+Byte_StaticFactory.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Byte_StaticFactoryHandler.java
+CharSequence_NotInMap.mop,Lang,Not Implemented,
+CharSequence_NotInSet.mop,Lang,Not Implemented,
+CharSequence_UndefinedHashCode.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/CharSequence_UndefinedHashCodeHandler.java
+Character_StaticFactory.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Character_StaticFactoryHandler.java
+Character_ValidateChar.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Character_ValidateCharHandler.java
+ClassLoader_UnsafeClassDefinition.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/ClassLoader_UnsafeClassDefinitionHandler.java
+Comparable_CompareToNull.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Comparable_CompareToNullHandler.java
+Comparable_CompareToNullException.mop,Lang,Not Implemented,
+Double_StaticFactory.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Double_StaticFactoryHandler.java
+Enum_NoExtraWhiteSpace.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Enum_NoExtraWhiteSpaceHandler.java
+Enum_NoOrdinal.mop,Lang,Defected,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Enum_NoOrdinalHandler.java
+Enum_UserFriendlyName.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Enum_UserFriendlyNameHandler.java
+Float_StaticFactory.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Float_StaticFactoryHandler.java
+Integer_BadDecodeArg.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Integer_BadDecodeArgHandler.java
+Integer_StaticFactory.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Integer_StaticFactoryHandler.java
+Long_BadDecodeArg.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Long_BadDecodeArgHandler.java
+Long_BadParsingArgs.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Long_BadParsingArgsHandler.java
+Long_StaticFactory.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Long_StaticFactoryHandler.java
+Math_ContendedRandom.mop,Lang,Not Implemented,
+Object_MonitorOwner.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Object_MonitorOwnerHandler.java
+Object_NoClone.mop,Lang,Not Implemented,
+ProcessBuilder_NullKeyOrValue.mop,Lang,Not Implemented,
+ProcessBuilder_ThreadSafe.mop,Lang,Not Implemented,
+Runnable_OverrideRun.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Runnable_OverrideRunHandler.java
+RuntimePermission_NullAction.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/RuntimePermission_NullActionHandler.java
+RuntimePermission_PermName.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/RuntimePermission_PermNameHandler.java
+SecurityManager_Permission.mop,Lang,Not Implemented,
+Short_BadDecodeArg.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Short_BadDecodeArgHandler.java
+Short_BadParsingArgs.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Short_BadParsingArgsHandler.java
+Short_StaticFactory.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/Short_StaticFactoryHandler.java
+ShutdownHook_LateRegister.mop,Lang,Not Implemented,
+ShutdownHook_PrematureStart.mop,Lang,Not Implemented,
+ShutdownHook_SystemExit.mop,Lang,Not Implemented,
+ShutdownHook_UnsafeAWTCall.mop,Lang,Not Implemented,
+ShutdownHook_UnsafeSwingCall.mop,Lang,Not Implemented,
+StrictMath_ContendedRandom.mop,Lang,Not Implemented,
+StringBuffer_SingleThreadUsage.mop,Lang,Not Implemented,
+StringBuilder_ThreadSafe.mop,Lang,Not Implemented,
+String_UseStringBuilder.mop,Lang,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/String_UseStringBuilderHandler.java
+System_NullArrayCopy.mop,Lang,Defected,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/lang/System_NullArrayCopyHandler.java
+System_WrongKeyOrValue.mop,Lang,Not Implemented,
+Thread_SetDaemonBeforeStart.mop,Lang,Not Implemented,
+Thread_StartOnce.mop,Lang,Not Implemented,
+Throwable_InitCauseOnce.mop,Lang,Not Implemented,
+BufferedInputStream_SynchronizedFill.mop,io,Not Implemented,
+ByteArrayOutputStream_FlushBeforeRetrieve.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/ByteArrayOutputStream_FlushBeforeRetrieveHandler.java
+Closeable_MeaninglessClose.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Closeable_MeaninglessCloseHandler.java
+Closeable_MultipleClose.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Closeable_MultipleCloseHandler.java
+Console_CloseReader.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Console_CloseReaderHandler.java
+Console_CloseWriter.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Console_CloseWriterHandler.java
+Console_FillZeroPassword.mop,io,Not Implemented,
+File_DeleteTempFile.mop,io,Not Implemented,
+File_LengthOnDirectory.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/File_LengthOnDirectoryHandler.java
+InputStream_ManipulateAfterClose.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/InputStream_ManipulateAfterCloseHandler.java
+InputStream_MarkAfterClose.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/InputStream_MarkAfterCloseHandler.java
+InputStream_MarkReset.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/InputStream_MarkResetHandler.java
+InputStream_ReadAheadLimit.mop,io,Not Implemented,
+InputStream_UnmarkedReset.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/InputStream_UnmarkedResetHandler.java
+ObjectInput_Close.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/ObjectInput_CloseHandler.java
+ObjectOutput_Close.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/ObjectOutput_CloseHandler.java
+ObjectStreamClass_Initialize.mop,io,Not Implemented,
+OutputStream_ManipulateAfterClose.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/OutputStream_ManipulateAfterCloseHandler.java
+PipedInputStream_UnconnectedRead.mop,io,Not Implemented,
+PipedOutputStream_UnconnectedWrite.mop,io,Not Implemented,
+PipedStream_SingleThread.mop,io,Not Implemented,
+PushbackInputStream_UnreadAheadLimit.mop,io,Not Implemented,
+RandomAccessFile_ManipulateAfterClose.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/RandomAccessFile_ManipulateAfterCloseHandler.java
+Reader_ManipulateAfterClose.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Reader_ManipulateAfterCloseHandler.java
+Reader_MarkReset.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Reader_MarkResetHandler.java
+Reader_ReadAheadLimit.mop,io,Not Implemented,
+Reader_UnmarkedReset.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Reader_UnmarkedResetHandler.java
+Serializable_NoArgConstructor.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Serializable_NoArgConstructorHandler.java
+Serializable_UID.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Serializable_UIDHandler.java
+StreamTokenizer_AccessInvalidField.mop,io,Not Implemented,
+Writer_ManipulateAfterClose.mop,io,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/io/Writer_ManipulateAfterCloseHandler.java
+ArrayDeque_NonNull.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/ArrayDeque_NonNullHandler.java
+ArrayDeque_UnsafeIterator.mop,Util,Not Implemented,
+Arrays_Comparable.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Arrays_ComparableHandler.java
+Arrays_DeepHashCode.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Arrays_DeepHashCodeHandler.java
+Arrays_MutuallyComparable.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Arrays_MutuallyComparableHandler.java
+Arrays_SortBeforeBinarySearch.mop,Util,Not Implemented,
+Collection_HashCode.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Collection_HashCodeHandler.java
+Collection_StandardConstructors.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Collection_StandardConstructorsHandler.java
+Collection_UnsafeIterator.mop,Util,Not Implemented,
+Collection_UnsynchronizedAddAll.mop,Util,Not Implemented,
+Collections_Comparable.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Collections_ComparableHandler.java
+Collections_CopySize.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Collections_CopySizeHandler.java
+Collections_ImplementComparable.mop,Util,Defected,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Collections_ImplementComparableHandler.java
+Collections_NewSetFromMap.mop,Util,Not Implemented,
+Collections_SortBeforeBinarySearch.mop,Util,Not Implemented,
+Collections_SynchronizedCollection.mop,Util,Not Implemented,
+Collections_SynchronizedMap.mop,Util,Not Implemented,
+Collections_UnnecessaryNewSetFromMap.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Collections_UnnecessaryNewSetFromMapHandler.java
+Deque_OfferRatherThanAdd.mop,Util,Not Implemented,
+Dictionary_NullKeyOrValue.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Dictionary_NullKeyOrValueHandler.java
+Dictionary_Obsolete.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Dictionary_ObsoleteHandler.java
+EnumMap_NonNull.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/EnumMap_NonNullHandler.java
+EnumSet_NonNull.mop,Util,Not Implemented,
+Enumeration_Obsolete.mop,Util,Not Implemented,
+InvalidPropertiesFormatException_NonSerializable.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/InvalidPropertiesFormatException_NonSerializableHandler.java
+Iterator_HasNext.mop,Util,Not Implemented,
+Iterator_RemoveOnce.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Iterator_RemoveOnceHandler.java
+ListIterator_RemoveOnce.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/ListIterator_RemoveOnceHandler.java
+ListIterator_Set.mop,Util,Not Implemented,
+ListIterator_hasNextPrevious.mop,Util,Not Implemented,
+List_UnsafeListIterator.mop,Util,Not Implemented,
+List_UnsynchronizedSubList.mop,Util,Not Implemented,
+Map_CollectionViewAdd.mop,Util,Not Implemented,
+Map_ItselfAsKey.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Map_ItselfAsKeyHandler.java
+Map_ItselfAsValue.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Map_ItselfAsValueHandler.java
+Map_StandardConstructors.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Map_StandardConstructorsHandler.java
+Map_UnsafeIterator.mop,Util,Not Implemented,
+Map_UnsynchronizedAddAll.mop,Util,Not Implemented,
+NavigableMap_Modification.mop,Util,Not Implemented,
+NavigableMap_UnsafeIterator.mop,Util,Not Implemented,
+NavigableSet_Modification.mop,Util,Not Implemented,
+PriorityQueue_NonComparable.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/PriorityQueue_NonComparableHandler.java
+PriorityQueue_NonNull.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/PriorityQueue_NonNullHandler.java
+Properties_ManipulateAfterLoad.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Properties_ManipulateAfterLoadHandler.java
+Random_OverrideNext.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Random_OverrideNextHandler.java
+ResourceBundleControl_MutateFormatList.mop,Util,Not Implemented,
+Scanner_ManipulateAfterClose.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Scanner_ManipulateAfterCloseHandler.java
+Scanner_SearchAfterClose.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/Scanner_SearchAfterCloseHandler.java
+ServiceLoaderIterator_Remove.mop,Util,Not Implemented,
+ServiceLoader_MultipleConcurrentThreads.mop,Util,Not Implemented,
+Set_ItselfAsElement.mop,Util,Not Implemented,
+SortedMap_StandardConstructors.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/SortedMap_StandardConstructorsHandler.java
+SortedSet_Comparable.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/SortedSet_ComparableHandler.java
+SortedSet_StandardConstructors.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/SortedSet_StandardConstructorsHandler.java
+StringTokenizer_HasMoreElements.mop,Util,Not Implemented,
+TreeMap_Comparable.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/TreeMap_ComparableHandler.java
+TreeSet_Comparable.mop,Util,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/util/TreeSet_ComparableHandler.java
+Vector_InsertIndex.mop,Util,Not Implemented,
+Authenticator_OverrideGetPasswordAuthentication.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/Authenticator_OverrideGetPasswordAuthenticationHandler.java
+ContentHandler_GetContent.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/ContentHandler_GetContentHandler.java
+DatagramPacket_Length.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/DatagramPacket_LengthHandler.java
+DatagramPacket_SetLength.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/DatagramPacket_SetLengthHandler.java
+DatagramSocket_Port.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/DatagramSocket_PortHandler.java
+DatagramSocket_SoTimeout.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/DatagramSocket_SoTimeoutHandler.java
+DatagramSocket_TrafficClass.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/DatagramSocket_TrafficClassHandler.java
+HttpCookie_Domain.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/HttpCookie_DomainHandler.java
+HttpCookie_Name.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/HttpCookie_NameHandler.java
+HttpURLConnection_SetBeforeConnect.mop,Net,Not Implemented,
+IDN_ToAscii.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/IDN_ToAsciiHandler.java
+InetAddress_IsReachable.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/InetAddress_IsReachableHandler.java
+InetSocketAddress_Port.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/InetSocketAddress_PortHandler.java
+MulticastSocket_TTL.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/MulticastSocket_TTLHandler.java
+NetPermission_Actions.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/NetPermission_ActionsHandler.java
+NetPermission_Name.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/NetPermission_NameHandler.java
+PasswordAuthentication_FillZeroPassword.mop,Net,Not Implemented,
+ServerSocket_Backlog.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/ServerSocket_BacklogHandler.java
+ServerSocket_LargeReceiveBuffer.mop,Net,Not Implemented,
+ServerSocket_PerformancePreferences.mop,Net,Not Implemented,
+ServerSocket_Port.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/ServerSocket_PortHandler.java
+ServerSocket_ReuseAddress.mop,Net,Not Implemented,
+ServerSocket_SetTimeoutBeforeBlocking.mop,Net,Not Implemented,
+ServerSocket_Timeout.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/ServerSocket_TimeoutHandler.java
+SocketImpl_CloseOutput.mop,Net,Not Implemented,
+SocketPermission_Actions.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/SocketPermission_ActionsHandler.java
+Socket_CloseInput.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/Socket_CloseInputHandler.java
+Socket_CloseOutput.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/Socket_CloseOutputHandler.java
+Socket_InputStreamUnavailable.mop,Net,Not Implemented,
+Socket_LargeReceiveBuffer.mop,Net,Not Implemented,
+Socket_OutputStreamUnavailable.mop,Net,Not Implemented,
+Socket_PerformancePreferences.mop,Net,Not Implemented,
+Socket_ReuseAddress.mop,Net,Not Implemented,
+Socket_ReuseSocket.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/Socket_ReuseSocketHandler.java
+Socket_SetTimeoutBeforeBlockingInput.mop,Net,Not Implemented,
+Socket_SetTimeoutBeforeBlockingOutput.mop,Net,Not Implemented,
+Socket_Timeout.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/Socket_TimeoutHandler.java
+Socket_TrafficClass.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/Socket_TrafficClassHandler.java
+URLConnection_Connect.mop,Net,Not Implemented,
+URLConnection_OverrideGetPermission.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/URLConnection_OverrideGetPermissionHandler.java
+URLConnection_SetBeforeConnect.mop,Net,Not Implemented,
+URLDecoder_DecodeUTF8.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/URLDecoder_DecodeUTF8Handler.java
+URLEncoder_EncodeUTF8.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/URLEncoder_EncodeUTF8Handler.java
+URL_SetURLStreamHandlerFactory.mop,Net,Implemented,https://github.com/specificationeffectiveness/JSS/blob/main/property-db-siesta/java-api/net/URL_SetURLStreamHandlerFactoryHandler.java

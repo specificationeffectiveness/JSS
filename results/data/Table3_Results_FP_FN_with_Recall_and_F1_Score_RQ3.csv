@@ -1,0 +1,6 @@
+Metric,JavaMOP,SIESTA
+False Positive (FP),71,124
+False Negative (FN),80,13
+Recall,47.02%,91.33%
+F1-Score,48.46%,66.67%
+Total,151,137

@@ -23,6 +23,3 @@ PID,Projects ,SHA,LOC,TCs,Auto TCs,Violations,,JavaMOP,,MSL,,JavaMOP,,MSL,
 PWI,33 - Projects with issue,diverses,,,,,,,,,,,,,
 PNV,54 - Projects no violations,diverses,,,,,,,,,,,,,
 ,,TOTAL,1.088.128,16.840,194.180,162,283,71,91,137,146,71,80,124,13
-,,AVG,54.406,"842,00",11.422,"8,10","14,15",,,,,,,,
-,,MIN,928,1,753,0,1,,,,,,,,
-,,MAX,384.500,10.370,39.707,79,63,,,,,,,,
