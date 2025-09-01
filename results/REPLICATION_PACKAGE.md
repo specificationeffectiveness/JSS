@@ -37,10 +37,11 @@ This replication package is structured as follows:
 ```
 /
 .
-|--- data/                The final datasets used in the study (per-project results, runtime samples).
-|--- scripts/             Python scripts for computing totals, differences, and plots.
-|--- figures/             Output figures generated from the scripts.
-|--- intermediate/        Optional intermediate artifacts not directly used in the paper.
+├── data/           → Final CSV datasets used in the study
+├── scripts/        → Python scripts for analysis and plotting
+├── figures/        → Plots and images generated from the study
+├── agent/          → Java agent used for runtime instrumentation
+├── logs/           → Output logs and regression test files for each project
 ```
 
 Each of the folders listed above is described in detail in the remainder of this README.
@@ -51,11 +52,21 @@ Each of the folders listed above is described in detail in the remainder of this
 
 **data/**
 
-```
-|--- inspections-javamop.csv        Per-project inspection results for JavaMOP.
-|--- inspections-msl.csv            Per-project inspection results for SIESTA/MSL.
-|--- runtime_samples_median_based.csv  Example dataset for generating runtime boxplots.
-```
+| File Name | Description |
+|-----------|-------------|
+| `distinct_violations_RQ1.csv` | Violation count comparison between Siesta and JavaMOP (used in RQ1) |
+| `table2_tb_fa_by_project_RQ2.csv` | True Bugs and False Alarms per project (used in RQ2) |
+| `data_false_negative.csv` | False negatives found per property or project |
+| `data_false_positive.csv` | False positives generated during validation |
+| `Table3_Results_FP_FN_with_Recall_and_F1_Score_RQ3.csv` | Recall, Precision, and F1 Score results for RQ3 |
+| `time_overhead_by_project_rq5.csv` | Runtime overhead values grouped by project (RQ5) |
+| `violation_javamop.csv` | Raw violations detected by JavaMOP |
+| `violation_siesta.csv` | Raw violations detected by Siesta |
+| `projects.csv` | Metadata for each analyzed project |
+| `specifications_siesta.csv` | Siesta specifications and implementation status |
+| `Specifications.csv` | Raw version of specifications list |
+| `specifications_organizadas.csv` | classified list of specifications |
+"""
 
 These CSV files contain the core quantitative evidence used in RQ1 and RQ2. Columns `TB`, `HTI`, and `FA` denote **True Bug**, **Hard-to-Inspect**, and **False Alarm** respectively.
 
@@ -65,53 +76,49 @@ These CSV files contain the core quantitative evidence used in RQ1 and RQ2. Colu
 
 **scripts/**
 
-```
-|--- compute_violations_diff.py     Computes total violations per approach and differences per project.
-|--- aggregate_table2.py            Generates Table 2 spreadsheets with counts of True Bugs and False Alarms per project.
-|--- mensure_date_table3.py         Produces Table 3 with evaluation metrics: F1-score, Precision, and Recall.
-|--- make_boxplot.py                Creates the runtime boxplot based on median-based samples.
-|--- requirements.txt               List of Python dependencies required to run the scripts.
-```
+| Script Name | Purpose |
+|-------------|---------|
+| `violations_diff_RQ1.py` | Computes the number of total and varying violations between Siesta and JavaMOP (RQ1), and generates a bar plot summarizing this difference. |
+| `aggregate_table2_RQ2.py` | Aggregates True Bugs (TB) and False Alarms (FA) per project to produce the data for Table 2 (RQ2). |
+| `aggregate_table3_RQ3.py` | Computes Recall, Precision, and F1 Score for Table 3 based on False Positives and False Negatives (RQ3). |
+| `time_overhead_by_project_rq5.py` | Calculates runtime statistics per project (mean, median, std. deviation, normality) for RQ5. |
+| `generate_grafic_boxplot_time_over_rq5.py` | Produces a boxplot (log-scale) comparing execution times for Base, JavaMOP, and Siesta across projects (RQ5). |
+"""
 
 The scripts are written in Python (≥3.9). To reproduce the results:
 
-```bash
-cd results
-python -m venv .venv && source .venv/bin/activate
-pip install -r scripts/requirements.txt
-
-# Compute totals and differences
-python scripts/compute_violations_diff.py \
-  --msl data/inspections-msl.csv \
-  --javamop data/inspections-javamop.csv
-
-# Generate boxplot
-python scripts/make_boxplot.py \
-  --input data/runtime_samples_median_based.csv \
-  --out figures/boxplot_runtime.png
-```
-
----
 
 ## Figures
 
 **figures/**
 
 ```
-|--- fig1_osmac_javamop.png          Example JavaMOP specification (RQ1 context).
-|--- fig2_osmac_siesta.png           Example SIESTA specification (RQ1 context).
-|--- fig3_flushbeforeretrieve.png    Example monitored property FlushBeforeRetrieve.
-|--- fig4_methodology_overview.png   Overview of the methodology and workflow.
-|--- rq1_distinct_violations.png     Results for RQ1 (distinct violations).
-|--- rq2_false_alarm_example.png     Example of false alarm (RQ2).
-|--- rq2_false_alarm_spec.png        Specification excerpt related to false alarm (RQ2).
-|--- rq5_overhead_boxplot.png        Runtime overhead comparison (RQ5).
+- **fig1_osmac_javamop.png.PNG**: Figure 1: Specification Example: The OSMAC JavaMOP property and a related bug
+- **fig2_osmac_siesta.PNG**: Figure 2: Example: OutputStream_ManipulateAfterClose using SIESTA
+- **fig3_flushbeforeretrieve.PNG**: Figure 3: ByteArrayOutputStream_FlushBeforeRetrieve property written in SIESTA
+- **fig4_methodology_overview.png**: Figure 4: Methodology overview used in our experimental evaluation
+- **rq1_violations_summary_grafic.png**: Figure 5: Violation Distribution - Total vs Varying Behavior
+- **rq2_false_alarm_example.png.PNG**: Figure 6: Example Project JBoss-dmr for False Alarms from the Closeable_MultipleClose Specification
+- **rq2_false_alarm_spec.png.PNG**: Figure 7: False alarms from Closeable_MultipleClose Specification
+- **rq5_overhead_boxplot.png**: Figure 8: Execution time overhead comparison using log scale
 
 ```
 
+
 All figures used in the paper can be reproduced using the provided datasets and scripts.
 
+## logs
+** logs/
+
+This folder includes execution logs for each benchmarked project. For each project:
+
 ---
+logs/<project_name>/
+├── javamop.log          ← JavaMOP results
+├── siestag              ← Siesta results
+├── RegressionTest*.java ← Generated tests
+├── *.properties         ← Config files
+
 
 ## License
 
