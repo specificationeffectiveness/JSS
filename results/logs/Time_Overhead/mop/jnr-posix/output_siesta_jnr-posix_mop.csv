@@ -1,0 +1,181 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_jnr-posix,null,2,0,0,0,9.709,SUCCESS
+siesta_jnr-posix,null,5,0,0,0,11.058,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,1.435,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,9.393,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,4.089,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,8.052,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,9.555,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,7.174,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,6.189,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,1.171,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,6.636,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,3.182,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,7.031,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,5.791,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,1.299,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,46.547,SUCCESS
+Sum: 138.311
+--------------------Execution: 2 -----------------------------------
+siesta_jnr-posix,null,2,0,0,0,7.576,SUCCESS
+siesta_jnr-posix,null,5,0,0,0,7.615,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,1.493,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,6.815,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,2.911,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,7.885,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,9.054,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,7.144,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,6.978,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,1.151,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,6.03,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,4.176,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,7.003,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,7.947,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,1.195,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,45.931,SUCCESS
+Sum: 130.904
+--------------------Execution: 3 -----------------------------------
+siesta_jnr-posix,null,5,0,0,0,8.485,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,8.91,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,1.805,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,9.49,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,3.738,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,9.703,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,11.37,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,8.736,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,9.327,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,1.44,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,8.461,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,4.735,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,8.348,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,7.133,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,2.077,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,58.57,SUCCESS
+Sum: 162.32799999999997
+--------------------Execution: 4 -----------------------------------
+siesta_jnr-posix,null,2,0,0,0,11.158,SUCCESS
+siesta_jnr-posix,null,5,0,0,0,10.408,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,2.65,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,10.043,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,4.599,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,10.454,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,13.63,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,8.035,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,9.789,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,9.196,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,1.462,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,5.921,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,9.353,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,8.395,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,7.31,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,71.344,SUCCESS
+Sum: 193.747
+--------------------Execution: 5 -----------------------------------
+siesta_jnr-posix,null,2,0,0,0,9.682,SUCCESS
+siesta_jnr-posix,null,5,0,0,0,9.946,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,2.684,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,10.782,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,4.464,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,13.029,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,13.287,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,8.791,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,10.583,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,1.61,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,8.485,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,4.218,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,8.334,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,8.536,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,1.879,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,63.715,SUCCESS
+Sum: 180.02500000000003
+--------------------Execution: 6 -----------------------------------
+siesta_jnr-posix,null,5,0,0,0,7.716,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,7.843,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,1.539,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,7.123,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,3.117,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,8.323,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,10.054,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,7.948,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,7.921,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,1.166,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,7.135,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,3.236,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,5.943,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,6.545,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,1.515,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,46.844,SUCCESS
+Sum: 133.96800000000002
+--------------------Execution: 7 -----------------------------------
+siesta_jnr-posix,null,5,0,0,0,7.697,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,8.518,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,1.806,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,7.877,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,3.298,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,7.455,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,10.511,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,7.708,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,6.976,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,7.327,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,0.985,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,4.421,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,8.105,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,6.573,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,1.532,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,48.753,SUCCESS
+Sum: 139.542
+--------------------Execution: 8 -----------------------------------
+siesta_jnr-posix,null,2,0,0,0,7.916,SUCCESS
+siesta_jnr-posix,null,5,0,0,0,8.076,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,1.605,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,8.064,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,3.074,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,8.55,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,10.056,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,8.521,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,9.323,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,1.303,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,6.603,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,3.701,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,7.449,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,5.733,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,1.41,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,50.972,SUCCESS
+Sum: 142.356
+--------------------Execution: 9 -----------------------------------
+siesta_jnr-posix,null,2,0,0,0,8.337,SUCCESS
+siesta_jnr-posix,null,5,0,0,0,8.682,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,1.371,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,6.981,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,3.351,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,7.677,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,9.976,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,8.265,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,8.497,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,1.497,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,6.857,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,3.191,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,7.987,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,6.342,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,1.503,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,51.775,SUCCESS
+Sum: 142.289
+--------------------Execution: 10 -----------------------------------
+siesta_jnr-posix,null,2,0,0,0,8.119,SUCCESS
+siesta_jnr-posix,null,5,0,0,0,8.519,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,1.526,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,7.365,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,3.444,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,9.078,SUCCESS
+siesta_jnr-posix,null,9,0,0,0,10.271,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,8.375,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,7.903,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,1.215,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,7.56,SUCCESS
+siesta_jnr-posix,null,1,0,0,0,4.249,SUCCESS
+siesta_jnr-posix,null,2,0,0,0,5.037,SUCCESS
+siesta_jnr-posix,null,3,0,0,0,4.862,SUCCESS
+siesta_jnr-posix,null,4,0,0,0,1.188,SUCCESS
+siesta_jnr-posix,null,6262,0,0,0,44.145,SUCCESS
+Sum: 132.856

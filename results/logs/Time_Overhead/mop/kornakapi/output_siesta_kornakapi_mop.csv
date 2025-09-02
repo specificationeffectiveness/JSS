@@ -1,0 +1,131 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,25.14,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.003,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.015,SUCCESS
+Sum: 25.167
+--------------------Execution: 2 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,18.3,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.014,SUCCESS
+Sum: 18.320000000000007
+--------------------Execution: 3 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,14.61,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.012,SUCCESS
+Sum: 14.631
+--------------------Execution: 4 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,15.15,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.013,SUCCESS
+Sum: 15.168999999999997
+--------------------Execution: 5 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,16.29,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.013,SUCCESS
+Sum: 16.31000000000001
+--------------------Execution: 6 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,16.29,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.019,SUCCESS
+Sum: 16.315000000000005
+--------------------Execution: 7 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,17.89,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.017,SUCCESS
+Sum: 17.916000000000007
+--------------------Execution: 8 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,18.53,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.016,SUCCESS
+Sum: 18.557000000000002
+--------------------Execution: 9 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,18.02,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.0,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.015,SUCCESS
+Sum: 18.046000000000003
+--------------------Execution: 10 -----------------------------------
+siesta_kornakapi,null,39707,12,9,0,17.83,FAILURE
+siesta_kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.002,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+siesta_kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.014,SUCCESS
+Sum: 17.854000000000006

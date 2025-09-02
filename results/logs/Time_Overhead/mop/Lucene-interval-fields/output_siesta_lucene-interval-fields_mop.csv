@@ -1,0 +1,71 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.239,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,2.503,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.002,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.664,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.973,SUCCESS
+Sum: 6.381
+--------------------Execution: 2 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.246,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,2.661,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.596,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.924,SUCCESS
+Sum: 6.428
+--------------------Execution: 3 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.01,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.015,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.002,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.441,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.765,SUCCESS
+Sum: 3.233
+--------------------Execution: 4 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.247,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,2.821,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.005,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.656,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,3.021,SUCCESS
+Sum: 6.75
+--------------------Execution: 5 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.219,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,2.685,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.667,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,3.243,SUCCESS
+Sum: 6.8149999999999995
+--------------------Execution: 6 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.266,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,2.918,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.784,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,3.085,SUCCESS
+Sum: 7.054
+--------------------Execution: 7 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.275,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,3.011,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.644,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,3.349,SUCCESS
+Sum: 7.28
+--------------------Execution: 8 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.231,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,3.273,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.006,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.771,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,3.757,SUCCESS
+Sum: 8.038
+--------------------Execution: 9 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.425,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,4.074,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,1.095,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,4.431,SUCCESS
+Sum: 10.026
+--------------------Execution: 10 -----------------------------------
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.496,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,4.077,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.006,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,1.555,SUCCESS
+siesta_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,4.079,SUCCESS
+Sum: 10.213000000000001

@@ -1,0 +1,81 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.05,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.007,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.203,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.013,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,3.126,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 3.4
+--------------------Execution: 2 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.109,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.027,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.331,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.023,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,5.754,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 6.245
+--------------------Execution: 3 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.044,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.008,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.188,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.009,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,3.284,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 3.534
+--------------------Execution: 4 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.056,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.007,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.26,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.015,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,4.45,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 4.789000000000001
+--------------------Execution: 5 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.067,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.01,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.319,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.015,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,4.667,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 5.079
+--------------------Execution: 6 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.058,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.015,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.279,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.025,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,4.75,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 5.128
+--------------------Execution: 7 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.083,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.019,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.282,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.007,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,4.639,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 5.031000000000001
+--------------------Execution: 8 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.077,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.016,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.323,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.011,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,4.51,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 4.938
+--------------------Execution: 9 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.065,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.013,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.321,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.014,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,4.654,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 5.0680000000000005
+--------------------Execution: 10 -----------------------------------
+jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.111,SUCCESS
+jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.013,SUCCESS
+jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,0.325,SUCCESS
+jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.011,SUCCESS
+jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,4.741,SUCCESS
+jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.001,SUCCESS
+Sum: 5.202

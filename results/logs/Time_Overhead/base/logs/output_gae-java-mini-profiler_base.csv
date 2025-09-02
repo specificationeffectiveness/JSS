@@ -1,0 +1,51 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,1.303,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.001,SUCCESS
+Sum: 1.3049999999999997
+--------------------Execution: 2 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,1.902,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.0,SUCCESS
+Sum: 1.9029999999999998
+--------------------Execution: 3 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,2.508,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.001,SUCCESS
+Sum: 2.51
+--------------------Execution: 4 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,2.413,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.011,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.0,SUCCESS
+Sum: 2.424
+--------------------Execution: 5 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,2.465,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.0,SUCCESS
+Sum: 2.4659999999999997
+--------------------Execution: 6 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,2.513,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.002,SUCCESS
+Sum: 2.5159999999999996
+--------------------Execution: 7 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,2.636,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.001,SUCCESS
+Sum: 2.638
+--------------------Execution: 8 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,2.565,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.002,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.001,SUCCESS
+Sum: 2.5679999999999996
+--------------------Execution: 9 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,2.38,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.001,SUCCESS
+Sum: 2.3819999999999997
+--------------------Execution: 10 -----------------------------------
+gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,3.084,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.002,SUCCESS
+gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.0,SUCCESS
+Sum: 3.086

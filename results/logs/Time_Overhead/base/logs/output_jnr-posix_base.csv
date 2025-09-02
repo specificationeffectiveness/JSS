@@ -1,0 +1,181 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+jnr-posix,null,5,0,0,0,0.538,SUCCESS
+jnr-posix,null,2,0,0,0,0.58,SUCCESS
+jnr-posix,null,1,0,0,0,0.032,SUCCESS
+jnr-posix,null,4,0,0,0,0.114,SUCCESS
+jnr-posix,null,1,0,0,0,0.325,SUCCESS
+jnr-posix,null,1,0,0,0,0.369,SUCCESS
+jnr-posix,null,3,0,0,0,0.283,SUCCESS
+jnr-posix,null,2,0,0,0,0.279,SUCCESS
+jnr-posix,null,1,0,0,0,0.348,SUCCESS
+jnr-posix,null,2,0,0,0,0.02,SUCCESS
+jnr-posix,null,9,0,0,0,2.389,SUCCESS
+jnr-posix,null,1,0,0,0,0.113,SUCCESS
+jnr-posix,null,2,0,0,0,0.958,SUCCESS
+jnr-posix,null,3,0,0,0,0.96,SUCCESS
+jnr-posix,null,4,0,0,0,0.288,SUCCESS
+jnr-posix,null,6262,0,0,0,7.58,SUCCESS
+Sum: 15.176
+--------------------Execution: 2 -----------------------------------
+jnr-posix,null,2,0,0,0,1.769,SUCCESS
+jnr-posix,null,5,0,0,0,1.775,SUCCESS
+jnr-posix,null,1,0,0,0,0.095,SUCCESS
+jnr-posix,null,4,0,0,0,0.31,SUCCESS
+jnr-posix,null,1,0,0,0,0.847,SUCCESS
+jnr-posix,null,1,0,0,0,0.838,SUCCESS
+jnr-posix,null,3,0,0,0,0.712,SUCCESS
+jnr-posix,null,2,0,0,0,0.533,SUCCESS
+jnr-posix,null,9,0,0,0,2.868,SUCCESS
+jnr-posix,null,2,0,0,0,0.066,SUCCESS
+jnr-posix,null,1,0,0,0,0.608,SUCCESS
+jnr-posix,null,1,0,0,0,0.17,SUCCESS
+jnr-posix,null,2,0,0,0,0.749,SUCCESS
+jnr-posix,null,3,0,0,0,1.368,SUCCESS
+jnr-posix,null,4,0,0,0,0.545,SUCCESS
+jnr-posix,null,6262,0,0,0,11.84,SUCCESS
+Sum: 25.093000000000004
+--------------------Execution: 3 -----------------------------------
+jnr-posix,null,5,0,0,0,0.878,SUCCESS
+jnr-posix,null,2,0,0,0,0.957,SUCCESS
+jnr-posix,null,1,0,0,0,0.073,SUCCESS
+jnr-posix,null,1,0,0,0,0.684,SUCCESS
+jnr-posix,null,4,0,0,0,0.2,SUCCESS
+jnr-posix,null,1,0,0,0,0.623,SUCCESS
+jnr-posix,null,3,0,0,0,0.512,SUCCESS
+jnr-posix,null,2,0,0,0,0.444,SUCCESS
+jnr-posix,null,1,0,0,0,0.421,SUCCESS
+jnr-posix,null,9,0,0,0,2.631,SUCCESS
+jnr-posix,null,2,0,0,0,0.042,SUCCESS
+jnr-posix,null,1,0,0,0,0.156,SUCCESS
+jnr-posix,null,2,0,0,0,0.599,SUCCESS
+jnr-posix,null,3,0,0,0,0.788,SUCCESS
+jnr-posix,null,4,0,0,0,0.573,SUCCESS
+jnr-posix,null,6262,0,0,0,10.822,SUCCESS
+Sum: 20.403
+--------------------Execution: 4 -----------------------------------
+jnr-posix,null,5,0,0,0,0.936,SUCCESS
+jnr-posix,null,2,0,0,0,1.046,SUCCESS
+jnr-posix,null,1,0,0,0,0.068,SUCCESS
+jnr-posix,null,4,0,0,0,0.306,SUCCESS
+jnr-posix,null,1,0,0,0,0.758,SUCCESS
+jnr-posix,null,1,0,0,0,0.793,SUCCESS
+jnr-posix,null,3,0,0,0,0.599,SUCCESS
+jnr-posix,null,2,0,0,0,0.619,SUCCESS
+jnr-posix,null,9,0,0,0,2.802,SUCCESS
+jnr-posix,null,2,0,0,0,0.071,SUCCESS
+jnr-posix,null,1,0,0,0,0.75,SUCCESS
+jnr-posix,null,1,0,0,0,0.179,SUCCESS
+jnr-posix,null,2,0,0,0,0.716,SUCCESS
+jnr-posix,null,3,0,0,0,1.327,SUCCESS
+jnr-posix,null,4,0,0,0,0.676,SUCCESS
+jnr-posix,null,6262,0,0,0,11.646,SUCCESS
+Sum: 23.292
+--------------------Execution: 5 -----------------------------------
+jnr-posix,null,5,0,0,0,1.112,SUCCESS
+jnr-posix,null,2,0,0,0,1.124,SUCCESS
+jnr-posix,null,1,0,0,0,0.059,SUCCESS
+jnr-posix,null,1,0,0,0,0.579,SUCCESS
+jnr-posix,null,4,0,0,0,0.205,SUCCESS
+jnr-posix,null,1,0,0,0,0.496,SUCCESS
+jnr-posix,null,3,0,0,0,0.517,SUCCESS
+jnr-posix,null,2,0,0,0,0.475,SUCCESS
+jnr-posix,null,1,0,0,0,0.448,SUCCESS
+jnr-posix,null,9,0,0,0,2.546,SUCCESS
+jnr-posix,null,2,0,0,0,0.044,SUCCESS
+jnr-posix,null,1,0,0,0,0.152,SUCCESS
+jnr-posix,null,2,0,0,0,0.63,SUCCESS
+jnr-posix,null,3,0,0,0,1.27,SUCCESS
+jnr-posix,null,4,0,0,0,0.564,SUCCESS
+jnr-posix,null,6262,0,0,0,10.874,SUCCESS
+Sum: 21.095
+--------------------Execution: 6 -----------------------------------
+jnr-posix,null,2,0,0,0,1.002,SUCCESS
+jnr-posix,null,5,0,0,0,1.026,SUCCESS
+jnr-posix,null,1,0,0,0,0.065,SUCCESS
+jnr-posix,null,4,0,0,0,0.303,SUCCESS
+jnr-posix,null,1,0,0,0,0.775,SUCCESS
+jnr-posix,null,1,0,0,0,0.797,SUCCESS
+jnr-posix,null,3,0,0,0,0.662,SUCCESS
+jnr-posix,null,2,0,0,0,0.679,SUCCESS
+jnr-posix,null,9,0,0,0,2.841,SUCCESS
+jnr-posix,null,2,0,0,0,0.057,SUCCESS
+jnr-posix,null,1,0,0,0,0.681,SUCCESS
+jnr-posix,null,1,0,0,0,0.224,SUCCESS
+jnr-posix,null,2,0,0,0,0.902,SUCCESS
+jnr-posix,null,3,0,0,0,1.629,SUCCESS
+jnr-posix,null,4,0,0,0,0.444,SUCCESS
+jnr-posix,null,6262,0,0,0,12.395,SUCCESS
+Sum: 24.482
+--------------------Execution: 7 -----------------------------------
+jnr-posix,null,5,0,0,0,0.842,SUCCESS
+jnr-posix,null,2,0,0,0,0.877,SUCCESS
+jnr-posix,null,1,0,0,0,0.058,SUCCESS
+jnr-posix,null,4,0,0,0,0.208,SUCCESS
+jnr-posix,null,1,0,0,0,0.628,SUCCESS
+jnr-posix,null,1,0,0,0,0.676,SUCCESS
+jnr-posix,null,3,0,0,0,0.574,SUCCESS
+jnr-posix,null,2,0,0,0,0.526,SUCCESS
+jnr-posix,null,9,0,0,0,2.716,SUCCESS
+jnr-posix,null,1,0,0,0,0.511,SUCCESS
+jnr-posix,null,2,0,0,0,0.053,SUCCESS
+jnr-posix,null,1,0,0,0,0.163,SUCCESS
+jnr-posix,null,2,0,0,0,0.624,SUCCESS
+jnr-posix,null,3,0,0,0,1.221,SUCCESS
+jnr-posix,null,4,0,0,0,0.554,SUCCESS
+jnr-posix,null,6262,0,0,0,11.437,SUCCESS
+Sum: 21.668
+--------------------Execution: 8 -----------------------------------
+jnr-posix,null,5,0,0,0,0.848,SUCCESS
+jnr-posix,null,2,0,0,0,0.941,SUCCESS
+jnr-posix,null,1,0,0,0,0.059,SUCCESS
+jnr-posix,null,4,0,0,0,0.198,SUCCESS
+jnr-posix,null,1,0,0,0,0.607,SUCCESS
+jnr-posix,null,1,0,0,0,0.664,SUCCESS
+jnr-posix,null,3,0,0,0,0.657,SUCCESS
+jnr-posix,null,2,0,0,0,0.513,SUCCESS
+jnr-posix,null,9,0,0,0,2.705,SUCCESS
+jnr-posix,null,1,0,0,0,0.502,SUCCESS
+jnr-posix,null,2,0,0,0,0.043,SUCCESS
+jnr-posix,null,1,0,0,0,0.168,SUCCESS
+jnr-posix,null,2,0,0,0,0.607,SUCCESS
+jnr-posix,null,3,0,0,0,1.118,SUCCESS
+jnr-posix,null,4,0,0,0,0.655,SUCCESS
+jnr-posix,null,6262,0,0,0,12.071,SUCCESS
+Sum: 22.356
+--------------------Execution: 9 -----------------------------------
+jnr-posix,null,5,0,0,0,1.173,SUCCESS
+jnr-posix,null,2,0,0,0,1.212,SUCCESS
+jnr-posix,null,1,0,0,0,0.068,SUCCESS
+jnr-posix,null,4,0,0,0,0.314,SUCCESS
+jnr-posix,null,1,0,0,0,0.82,SUCCESS
+jnr-posix,null,1,0,0,0,0.855,SUCCESS
+jnr-posix,null,3,0,0,0,0.677,SUCCESS
+jnr-posix,null,2,0,0,0,0.709,SUCCESS
+jnr-posix,null,9,0,0,0,2.872,SUCCESS
+jnr-posix,null,2,0,0,0,0.081,SUCCESS
+jnr-posix,null,1,0,0,0,0.821,SUCCESS
+jnr-posix,null,1,0,0,0,0.26,SUCCESS
+jnr-posix,null,2,0,0,0,0.9,SUCCESS
+jnr-posix,null,3,0,0,0,1.737,SUCCESS
+jnr-posix,null,4,0,0,0,0.618,SUCCESS
+jnr-posix,null,6262,0,0,0,12.846,SUCCESS
+Sum: 25.963
+--------------------Execution: 10 -----------------------------------
+jnr-posix,null,5,0,0,0,0.855,SUCCESS
+jnr-posix,null,2,0,0,0,0.945,SUCCESS
+jnr-posix,null,1,0,0,0,0.075,SUCCESS
+jnr-posix,null,4,0,0,0,0.243,SUCCESS
+jnr-posix,null,1,0,0,0,0.752,SUCCESS
+jnr-posix,null,1,0,0,0,0.791,SUCCESS
+jnr-posix,null,3,0,0,0,0.661,SUCCESS
+jnr-posix,null,2,0,0,0,0.688,SUCCESS
+jnr-posix,null,9,0,0,0,2.873,SUCCESS
+jnr-posix,null,2,0,0,0,0.062,SUCCESS
+jnr-posix,null,1,0,0,0,0.671,SUCCESS
+jnr-posix,null,1,0,0,0,0.206,SUCCESS
+jnr-posix,null,2,0,0,0,0.819,SUCCESS
+jnr-posix,null,3,0,0,0,1.299,SUCCESS
+jnr-posix,null,4,0,0,0,0.669,SUCCESS
+jnr-posix,null,6262,0,0,0,12.972,SUCCESS
+Sum: 24.580999999999996

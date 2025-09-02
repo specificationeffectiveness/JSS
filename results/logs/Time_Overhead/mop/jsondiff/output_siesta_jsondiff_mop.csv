@@ -1,0 +1,81 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.393,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.034,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,1.475,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.015,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,7.983,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.27,SUCCESS
+Sum: 10.17
+--------------------Execution: 2 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.409,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.051,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,1.962,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.039,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,7.923,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.272,SUCCESS
+Sum: 10.656
+--------------------Execution: 3 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.396,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.032,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,1.531,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.026,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,7.043,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.279,SUCCESS
+Sum: 9.307
+--------------------Execution: 4 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.349,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.021,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,1.454,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.017,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,7.145,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.265,SUCCESS
+Sum: 9.251
+--------------------Execution: 5 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.509,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.078,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,1.907,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.024,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,7.994,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.264,SUCCESS
+Sum: 10.776
+--------------------Execution: 6 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.48,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.057,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,1.728,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.015,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.243,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.268,SUCCESS
+Sum: 10.791
+--------------------Execution: 7 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.441,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.059,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,1.935,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.023,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.239,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.31,SUCCESS
+Sum: 11.007000000000001
+--------------------Execution: 8 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.563,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.088,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,2.029,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.02,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,7.995,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.279,SUCCESS
+Sum: 10.974
+--------------------Execution: 9 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.441,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.03,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,2.057,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.021,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.589,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.278,SUCCESS
+Sum: 11.416
+--------------------Execution: 10 -----------------------------------
+siesta_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,0.379,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.023,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,1.598,SUCCESS
+siesta_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.011,SUCCESS
+siesta_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,7.514,SUCCESS
+siesta_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.284,SUCCESS
+Sum: 9.809000000000001

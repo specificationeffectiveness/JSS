@@ -1,0 +1,141 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,32.59,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 32.59499999999999
+--------------------Execution: 2 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,31.19,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.002,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 31.195000000000004
+--------------------Execution: 3 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,23.71,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 23.715000000000007
+--------------------Execution: 4 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,28.32,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 28.326000000000008
+--------------------Execution: 5 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,29.39,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 29.395000000000007
+--------------------Execution: 6 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,29.71,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.001,SUCCESS
+Sum: 29.716000000000008
+--------------------Execution: 7 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,27.86,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.001,SUCCESS
+Sum: 27.866000000000007
+--------------------Execution: 8 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,29.45,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 29.455000000000005
+--------------------Execution: 9 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,27.38,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 27.384000000000004
+--------------------Execution: 10 -----------------------------------
+javamop_MeQanTT_mop,org.meqantt.RegressionTest,17841,0,0,0,29.5,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PublishMessageTest,2,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+javamop_MeQanTT_mop,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 29.505000000000006

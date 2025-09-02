@@ -1,0 +1,171 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.634,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.086,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.046,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.058,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,15.52,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.099,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.018,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.749,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.009,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.053,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.088,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.278,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.337,SUCCESS
+Sum: 25.976000000000003
+--------------------Execution: 2 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.566,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.088,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.045,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.071,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,17.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.173,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.022,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.862,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.135,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.053,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.31,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.336,SUCCESS
+Sum: 27.663000000000004
+--------------------Execution: 3 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.787,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.121,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.081,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.048,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,20.21,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.144,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.021,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.967,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.526,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.053,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.314,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.351,SUCCESS
+Sum: 31.624
+--------------------Execution: 4 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.525,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.082,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.047,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.045,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,14.02,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.079,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.011,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.518,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.802,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.058,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.219,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.334,SUCCESS
+Sum: 23.741
+--------------------Execution: 5 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.567,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.09,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.052,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.049,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,14.57,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.083,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.016,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.573,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.003,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.964,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.068,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.251,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.334,SUCCESS
+Sum: 24.621000000000002
+--------------------Execution: 6 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.551,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.069,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.04,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.033,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,12.33,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.094,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.014,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.558,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.84,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.058,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.203,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.334,SUCCESS
+Sum: 22.124999999999996
+--------------------Execution: 7 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.506,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.098,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.046,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.045,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,13.58,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.058,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.01,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.586,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.777,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.046,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.221,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.337,SUCCESS
+Sum: 23.312
+--------------------Execution: 8 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.567,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.108,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.05,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.04,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,13.88,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.112,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.015,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.765,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.864,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.045,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.263,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.342,SUCCESS
+Sum: 24.052000000000007
+--------------------Execution: 9 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.543,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.123,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.031,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.06,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,15.39,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.078,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.015,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.573,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.133,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.046,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.271,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.336,SUCCESS
+Sum: 25.601000000000006
+--------------------Execution: 10 -----------------------------------
+javamop_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.533,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.093,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.057,SUCCESS
+javamop_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.044,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,16.08,SUCCESS
+javamop_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.094,SUCCESS
+javamop_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.016,SUCCESS
+javamop_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.734,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+javamop_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.059,SUCCESS
+javamop_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.036,SUCCESS
+javamop_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.329,SUCCESS
+javamop_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+javamop_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.342,SUCCESS
+Sum: 26.418

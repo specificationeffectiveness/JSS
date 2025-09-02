@@ -1,0 +1,81 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,4.322,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.117,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,13.55,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.025,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,7.181,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.221,SUCCESS
+Sum: 25.416
+--------------------Execution: 2 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,4.771,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.141,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,14.37,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.03,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.127,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.221,SUCCESS
+Sum: 27.66
+--------------------Execution: 3 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,4.839,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.108,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,14.28,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.034,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.204,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.226,SUCCESS
+Sum: 27.691
+--------------------Execution: 4 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,5.29,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.131,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,15.27,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.035,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.932,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.308,SUCCESS
+Sum: 29.966
+--------------------Execution: 5 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,4.696,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.125,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,14.26,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.034,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.351,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.236,SUCCESS
+Sum: 27.702
+--------------------Execution: 6 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,4.791,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.129,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,14.84,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.036,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.636,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.19,SUCCESS
+Sum: 28.622
+--------------------Execution: 7 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,5.214,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.12,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,14.27,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.034,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.201,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.232,SUCCESS
+Sum: 28.070999999999998
+--------------------Execution: 8 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,4.072,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.091,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,13.12,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.025,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,6.929,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.195,SUCCESS
+Sum: 24.432000000000002
+--------------------Execution: 9 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,4.79,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.098,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,14.27,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.031,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.068,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.245,SUCCESS
+Sum: 27.502
+--------------------Execution: 10 -----------------------------------
+javamop_jsondiff,foodev.jsondiff.GsonVisitorTest,2,0,0,0,5.076,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonPatchTest,33,0,0,0,0.129,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonDiffTest,64,0,0,0,15.27,SUCCESS
+javamop_jsondiff,foodev.jsondiff.JacksonPatchTest,33,0,0,0,0.034,SUCCESS
+javamop_jsondiff,foodev.jsondiff.RegressionTest,20291,0,0,0,8.193,SUCCESS
+javamop_jsondiff,foodev.jsondiff.GsonDiffTest,64,0,0,0,0.237,SUCCESS
+Sum: 28.938999999999997

@@ -1,0 +1,41 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.08,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,1.151,SUCCESS
+Sum: 1.231
+--------------------Execution: 2 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.14,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,1.624,SUCCESS
+Sum: 1.7640000000000002
+--------------------Execution: 3 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.128,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,1.831,SUCCESS
+Sum: 1.959
+--------------------Execution: 4 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.174,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,1.745,SUCCESS
+Sum: 1.919
+--------------------Execution: 5 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.165,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,1.829,SUCCESS
+Sum: 1.994
+--------------------Execution: 6 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.137,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,1.898,SUCCESS
+Sum: 2.035
+--------------------Execution: 7 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.138,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,1.584,SUCCESS
+Sum: 1.722
+--------------------Execution: 8 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.182,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,1.953,SUCCESS
+Sum: 2.1350000000000002
+--------------------Execution: 9 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.158,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,1.905,SUCCESS
+Sum: 2.063
+--------------------Execution: 10 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.224,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,2.651,SUCCESS
+Sum: 2.875

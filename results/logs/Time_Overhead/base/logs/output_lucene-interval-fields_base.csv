@@ -1,0 +1,71 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.031,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.176,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.052,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,0.935,SUCCESS
+Sum: 1.195
+--------------------Execution: 2 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.036,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.239,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.002,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.091,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,1.484,SUCCESS
+Sum: 1.8519999999999999
+--------------------Execution: 3 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.046,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.265,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.008,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.113,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,1.836,SUCCESS
+Sum: 2.2680000000000002
+--------------------Execution: 4 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.062,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.236,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.129,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,1.662,SUCCESS
+Sum: 2.09
+--------------------Execution: 5 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.103,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.377,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.011,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.128,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.901,SUCCESS
+Sum: 3.5199999999999996
+--------------------Execution: 6 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.056,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.286,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.0,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.134,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,1.886,SUCCESS
+Sum: 2.362
+--------------------Execution: 7 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.057,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.294,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.115,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.201,SUCCESS
+Sum: 2.668
+--------------------Execution: 8 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.051,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.248,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.11,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,1.706,SUCCESS
+Sum: 2.116
+--------------------Execution: 9 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.05,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.306,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.152,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,1.823,SUCCESS
+Sum: 2.332
+--------------------Execution: 10 -----------------------------------
+lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,0.077,SUCCESS
+lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,4,0,0,0,0.778,SUCCESS
+lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.0,SUCCESS
+lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,2,0,0,0,0.164,SUCCESS
+lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,3.392,SUCCESS
+Sum: 4.411

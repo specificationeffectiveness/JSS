@@ -1,0 +1,71 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_gora,null,2,0,0,0,1.116,SUCCESS
+siesta_gora,null,1,0,0,0,0.433,SUCCESS
+siesta_gora,null,1,0,0,0,1.016,SUCCESS
+siesta_gora,null,6,0,0,0,5.373,SUCCESS
+siesta_gora,null,2,0,0,0,4.985,SUCCESS
+Sum: 12.923000000000002
+--------------------Execution: 2 -----------------------------------
+siesta_gora,null,2,0,0,0,1.381,SUCCESS
+siesta_gora,null,1,0,0,0,0.523,SUCCESS
+siesta_gora,null,1,0,0,0,1.503,SUCCESS
+siesta_gora,null,6,0,0,0,6.154,SUCCESS
+siesta_gora,null,2,0,0,0,4.501,SUCCESS
+Sum: 14.062000000000001
+--------------------Execution: 3 -----------------------------------
+siesta_gora,null,2,0,0,0,3.58,SUCCESS
+siesta_gora,null,1,0,0,0,1.654,SUCCESS
+siesta_gora,null,1,0,0,0,3.701,SUCCESS
+siesta_gora,null,6,0,0,0,10.454,SUCCESS
+siesta_gora,null,2,0,0,0,10.157,SUCCESS
+Sum: 29.546000000000003
+--------------------Execution: 4 -----------------------------------
+siesta_gora,null,2,0,0,0,4.937,SUCCESS
+siesta_gora,null,1,0,0,0,2.426,SUCCESS
+siesta_gora,null,1,0,0,0,5.272,SUCCESS
+siesta_gora,null,6,0,0,0,16.324,SUCCESS
+siesta_gora,null,2,0,0,0,12.791,SUCCESS
+Sum: 41.75
+--------------------Execution: 5 -----------------------------------
+siesta_gora,null,2,0,0,0,6.561,SUCCESS
+siesta_gora,null,1,0,0,0,2.76,SUCCESS
+siesta_gora,null,1,0,0,0,5.585,SUCCESS
+siesta_gora,null,6,0,0,0,17.815,SUCCESS
+siesta_gora,null,2,0,0,0,20.867,SUCCESS
+Sum: 53.58800000000001
+--------------------Execution: 6 -----------------------------------
+siesta_gora,null,2,0,0,0,5.821,SUCCESS
+siesta_gora,null,1,0,0,0,2.554,SUCCESS
+siesta_gora,null,1,0,0,0,9.525,SUCCESS
+siesta_gora,null,6,0,0,0,24.201,SUCCESS
+siesta_gora,null,2,0,0,0,18.291,SUCCESS
+Sum: 60.391999999999996
+--------------------Execution: 7 -----------------------------------
+siesta_gora,null,2,0,0,0,7.632,SUCCESS
+siesta_gora,null,1,0,0,0,2.915,SUCCESS
+siesta_gora,null,1,0,0,0,5.937,SUCCESS
+siesta_gora,null,6,0,0,0,28.425,SUCCESS
+siesta_gora,null,2,0,0,0,19.111,SUCCESS
+Sum: 64.02000000000001
+--------------------Execution: 8 -----------------------------------
+siesta_gora,null,2,0,0,0,6.151,SUCCESS
+siesta_gora,null,1,0,0,0,2.632,SUCCESS
+siesta_gora,null,1,0,0,0,7.054,SUCCESS
+siesta_gora,null,6,0,0,0,20.758,SUCCESS
+siesta_gora,null,2,0,0,0,21.787,SUCCESS
+Sum: 58.382
+--------------------Execution: 9 -----------------------------------
+siesta_gora,null,2,0,0,0,9.882,SUCCESS
+siesta_gora,null,1,0,0,0,4.551,SUCCESS
+siesta_gora,null,1,0,0,0,10.672,SUCCESS
+siesta_gora,null,6,0,0,0,32.812,SUCCESS
+siesta_gora,null,2,0,0,0,23.013,SUCCESS
+Sum: 80.93
+--------------------Execution: 10 -----------------------------------
+siesta_gora,null,2,0,0,0,11.24,SUCCESS
+siesta_gora,null,1,0,0,0,4.433,SUCCESS
+siesta_gora,null,1,0,0,0,8.307,SUCCESS
+siesta_gora,null,6,0,0,0,33.235,SUCCESS
+siesta_gora,null,2,0,0,0,28.695,SUCCESS
+Sum: 85.91

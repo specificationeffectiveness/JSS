@@ -1,0 +1,171 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.173,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.002,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.007,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.958,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.01,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.007,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.189,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.997,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.209,SUCCESS
+Sum: 11.556000000000001
+--------------------Execution: 2 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.156,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.824,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.003,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.005,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.218,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.927,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.227,SUCCESS
+Sum: 11.365
+--------------------Execution: 3 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.256,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.002,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.002,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.002,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,3.77,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.018,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.429,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.074,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.157,SUCCESS
+Sum: 12.713
+--------------------Execution: 4 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.207,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.003,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.003,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.822,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.002,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.014,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.176,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.094,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.212,SUCCESS
+Sum: 11.535
+--------------------Execution: 5 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.189,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.005,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.016,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.842,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.007,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.008,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.222,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.142,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.004,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.103,SUCCESS
+Sum: 11.541
+--------------------Execution: 6 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.207,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.031,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.002,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,3.048,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.003,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.011,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.2,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.004,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.05,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.185,SUCCESS
+Sum: 11.745000000000001
+--------------------Execution: 7 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.261,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.018,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.004,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,3.2,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.002,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.015,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.174,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.959,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.228,SUCCESS
+Sum: 11.865000000000002
+--------------------Execution: 8 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.319,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.002,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.02,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,3.018,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.01,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.006,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.214,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.07,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.004,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.081,SUCCESS
+Sum: 11.748000000000001
+--------------------Execution: 9 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.196,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.012,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.507,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.005,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.006,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.161,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.754,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.234,SUCCESS
+Sum: 10.879000000000001
+--------------------Execution: 10 -----------------------------------
+siesta_crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.124,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.004,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.264,SUCCESS
+siesta_crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.01,SUCCESS
+siesta_crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.012,SUCCESS
+siesta_crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.17,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.84,SUCCESS
+siesta_crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+siesta_crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.245,SUCCESS
+Sum: 10.671

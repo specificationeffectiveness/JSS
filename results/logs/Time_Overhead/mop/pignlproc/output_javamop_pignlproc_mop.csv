@@ -1,0 +1,151 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,71.79,SUCCESS
+javamop_pignlproc,null,2,0,2,0,4.604,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,4.507,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.085,ERROR
+javamop_pignlproc,null,2,0,1,0,21.48,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.031,ERROR
+javamop_pignlproc,null,2,0,2,0,0.09,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.056,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.031,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.58,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,1.047,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.356,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,24.69,SUCCESS
+Sum: 137.637
+--------------------Execution: 2 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,61.83,SUCCESS
+javamop_pignlproc,null,2,0,2,0,4.27,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,4.224,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.043,ERROR
+javamop_pignlproc,null,2,0,1,0,20.02,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.024,ERROR
+javamop_pignlproc,null,2,0,2,0,0.08,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.049,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.030,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.48,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.675,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.166,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,19.59,SUCCESS
+Sum: 120.11099999999999
+--------------------Execution: 3 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,72.58,SUCCESS
+javamop_pignlproc,null,2,0,2,0,4.433,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,4.383,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.044,ERROR
+javamop_pignlproc,null,2,0,1,0,21.25,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.050,ERROR
+javamop_pignlproc,null,2,0,2,0,0.238,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.140,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.098,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.73,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.853,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.351,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,21.92,SUCCESS
+Sum: 135.35500000000002
+--------------------Execution: 4 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,63.14,SUCCESS
+javamop_pignlproc,null,2,0,2,0,4.292,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,4.239,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.040,ERROR
+javamop_pignlproc,null,2,0,1,0,20.15,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.025,ERROR
+javamop_pignlproc,null,2,0,2,0,0.091,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.057,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.032,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.36,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.826,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.324,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,20.75,SUCCESS
+Sum: 122.93299999999998
+--------------------Execution: 5 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,71.92,SUCCESS
+javamop_pignlproc,null,2,0,2,0,4.447,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,4.394,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.046,ERROR
+javamop_pignlproc,null,2,0,1,0,21.01,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.033,ERROR
+javamop_pignlproc,null,2,0,2,0,0.131,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.083,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.047,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.91,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,1.166,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.651,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,23.45,SUCCESS
+Sum: 136.685
+--------------------Execution: 6 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,89.02,SUCCESS
+javamop_pignlproc,null,2,0,2,0,5.866,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,5.789,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.064,ERROR
+javamop_pignlproc,null,2,0,1,0,28.08,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.062,ERROR
+javamop_pignlproc,null,2,0,2,0,0.174,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.098,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.067,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,13.53,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,1.538,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.736,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,30.15,SUCCESS
+Sum: 170.094
+--------------------Execution: 7 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,101.5,SUCCESS
+javamop_pignlproc,null,2,0,2,0,4.761,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,4.658,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.085,ERROR
+javamop_pignlproc,null,2,0,1,0,21.42,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.046,ERROR
+javamop_pignlproc,null,2,0,2,0,0.127,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.076,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.050,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.74,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,1.266,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.407,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,23.64,SUCCESS
+Sum: 166.861
+--------------------Execution: 8 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,61.47,SUCCESS
+javamop_pignlproc,null,2,0,2,0,4.132,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,4.081,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.046,ERROR
+javamop_pignlproc,null,2,0,1,0,19.68,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.023,ERROR
+javamop_pignlproc,null,2,0,2,0,0.079,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.049,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.029,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.27,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.731,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.186,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,20.17,SUCCESS
+Sum: 119.718
+--------------------Execution: 9 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,68.43,SUCCESS
+javamop_pignlproc,null,2,0,2,0,4.353,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,4.307,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.040,ERROR
+javamop_pignlproc,null,2,0,1,0,21.78,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.036,ERROR
+javamop_pignlproc,null,2,0,2,0,0.115,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.074,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.040,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.57,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.893,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.263,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,21.69,SUCCESS
+Sum: 131.094
+--------------------Execution: 10 -----------------------------------
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,72.64,SUCCESS
+javamop_pignlproc,null,2,0,2,0,4.718,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,4.663,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,0.050,ERROR
+javamop_pignlproc,null,2,0,1,0,21.25,FAILURE
+javamop_pignlproc,pignlproc.storage.TestWikipediaLoader,N/A,N/A,1,N/A,0.036,ERROR
+javamop_pignlproc,null,2,0,2,0,0.106,FAILURE
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.064,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,0.040,ERROR
+javamop_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.82,SUCCESS
+javamop_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.863,SUCCESS
+javamop_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,1.344,SUCCESS
+javamop_pignlproc,pignlproc.RegressionTest,5826,0,0,0,22.92,SUCCESS
+Sum: 136.661

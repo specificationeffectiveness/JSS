@@ -1,0 +1,141 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,16.78,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.25,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.119,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.127,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,12.0,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.05,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,5.961,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.085,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,11.87,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.106,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.07,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,14.12,SUCCESS
+Sum: 79.246
+--------------------Execution: 2 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,18.68,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.72,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.475,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.235,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,12.43,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.46,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.244,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.219,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.15,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.18,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.107,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,17.21,SUCCESS
+Sum: 85.93700000000001
+--------------------Execution: 3 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,17.11,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.62,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.515,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.106,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,12.13,SUCCESS
+siesta_pignlproc,null,2,0,2,0,11.91,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,5.938,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,5.974,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,11.93,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.111,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.077,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,14.87,SUCCESS
+Sum: 80.758
+--------------------Execution: 4 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,17.81,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.62,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.463,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.160,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,12.26,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.29,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.172,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.115,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.22,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.126,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.09,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,16.17,SUCCESS
+Sum: 83.58600000000001
+--------------------Execution: 5 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,17.31,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.46,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.345,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.117,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,12.33,SUCCESS
+siesta_pignlproc,null,2,0,2,0,11.96,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,5.976,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,5.983,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.04,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.11,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.077,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,15.49,SUCCESS
+Sum: 81.77699999999999
+--------------------Execution: 6 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,17.24,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.81,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.830,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,5.979,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,11.97,SUCCESS
+siesta_pignlproc,null,2,0,2,0,11.96,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.018,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,5.945,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,11.9,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.096,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.057,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,14.07,SUCCESS
+Sum: 80.10300000000001
+--------------------Execution: 7 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,17.13,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.34,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.229,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.110,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,12.25,SUCCESS
+siesta_pignlproc,null,2,0,2,0,11.99,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,5.972,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.014,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.34,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.131,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.078,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,18.79,SUCCESS
+Sum: 85.049
+--------------------Execution: 8 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,18.44,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.76,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.577,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.176,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,12.39,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.32,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.181,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.136,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.85,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.244,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.163,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,18.69,SUCCESS
+Sum: 87.857
+--------------------Execution: 9 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,18.88,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.63,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.411,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.217,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,12.66,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.17,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.115,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,6.055,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,12.64,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.261,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.138,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,20.95,SUCCESS
+Sum: 90.32900000000001
+--------------------Execution: 10 -----------------------------------
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesLoader,2,0,0,0,15.52,SUCCESS
+siesta_pignlproc,null,2,0,2,0,12.19,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,6.206,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesStorer,N/A,N/A,1,N/A,5.979,ERROR
+siesta_pignlproc,pignlproc.storage.TestWikipediaLoader,2,0,0,0,11.98,SUCCESS
+siesta_pignlproc,null,2,0,2,0,11.87,FAILURE
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,5.942,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriStringLiteralNTriplesStorer,N/A,N/A,1,N/A,5.929,ERROR
+siesta_pignlproc,pignlproc.storage.TestUriUriNTriplesLoader,2,0,0,0,11.84,SUCCESS
+siesta_pignlproc,pignlproc.format.TestWikipediaParsing,2,0,0,0,0.1,SUCCESS
+siesta_pignlproc,pignlproc.evaluation.TestEvalFunctions,7,0,0,0,0.09,SUCCESS
+siesta_pignlproc,pignlproc.RegressionTest,5826,0,0,0,13.35,SUCCESS
+Sum: 76.94

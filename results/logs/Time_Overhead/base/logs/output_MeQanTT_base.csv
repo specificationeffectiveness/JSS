@@ -1,0 +1,141 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,11.25,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 11.253999999999998
+--------------------Execution: 2 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,15.81,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 15.814999999999998
+--------------------Execution: 3 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,17.59,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.002,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 17.599000000000007
+--------------------Execution: 4 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,17.29,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.001,SUCCESS
+Sum: 17.294000000000004
+--------------------Execution: 5 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,23.3,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 23.303000000000004
+--------------------Execution: 6 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,23.0,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.001,SUCCESS
+Sum: 23.00700000000001
+--------------------Execution: 7 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,25.83,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 25.837000000000007
+--------------------Execution: 8 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,24.09,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.001,SUCCESS
+Sum: 24.09700000000001
+--------------------Execution: 9 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,25.56,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.003,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.004,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.0,SUCCESS
+Sum: 25.572000000000006
+--------------------Execution: 10 -----------------------------------
+MeQanTT,org.meqantt.RegressionTest,17841,0,0,0,21.03,SUCCESS
+MeQanTT,org.meqantt.message.PingRespMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ConnectMessageTest,9,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PublishMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubAckMessageTest,2,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.ScratchTests,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.SubscribeMessageTest,1,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.PingReqMessageTest,4,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.ConnAckMessageTest,6,0,0,0,0.0,SUCCESS
+MeQanTT,org.meqantt.message.UnsubscribeMessageTest,1,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.MessageTest,5,0,0,0,0.001,SUCCESS
+MeQanTT,org.meqantt.message.DisconnectMessageTest,4,0,0,0,0.001,SUCCESS
+Sum: 21.03700000000001

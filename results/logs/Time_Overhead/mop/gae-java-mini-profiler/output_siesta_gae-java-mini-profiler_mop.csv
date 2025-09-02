@@ -1,0 +1,51 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,62.06,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.025,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,1.175,SUCCESS
+Sum: 63.26
+--------------------Execution: 2 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,61.47,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.51,SUCCESS
+Sum: 61.980999999999995
+--------------------Execution: 3 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,54.28,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.02,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.556,SUCCESS
+Sum: 54.856
+--------------------Execution: 4 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,58.9,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.549,SUCCESS
+Sum: 59.449999999999996
+--------------------Execution: 5 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,43.04,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.004,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.47,SUCCESS
+Sum: 43.513999999999996
+--------------------Execution: 6 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,44.49,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.429,SUCCESS
+Sum: 44.92
+--------------------Execution: 7 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,45.4,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.535,SUCCESS
+Sum: 45.93599999999999
+--------------------Execution: 8 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,42.37,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.334,SUCCESS
+Sum: 42.705
+--------------------Execution: 9 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,44.83,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.002,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.365,SUCCESS
+Sum: 45.197
+--------------------Execution: 10 -----------------------------------
+siesta_gae-java-mini-profiler,ca.jimr.gae.RegressionTest,8512,0,0,0,41.66,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerTest,3,0,0,0,0.001,SUCCESS
+siesta_gae-java-mini-profiler,ca.jimr.gae.profiler.MiniProfilerFilterTest,5,0,0,0,0.621,SUCCESS
+Sum: 42.282

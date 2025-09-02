@@ -1,0 +1,131 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+kornakapi,null,39707,12,9,0,6.854,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.000,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.001,SUCCESS
+Sum: 6.855
+--------------------Execution: 2 -----------------------------------
+kornakapi,null,39707,12,9,0,8.597,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.000,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.012,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.001,SUCCESS
+Sum: 8.597999999999999
+--------------------Execution: 3 -----------------------------------
+kornakapi,null,39707,12,9,0,8.814,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.003,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.000,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.000,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.012,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.002,SUCCESS
+Sum: 8.816
+--------------------Execution: 4 -----------------------------------
+kornakapi,null,39707,12,9,0,7.513,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.000,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.000,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.000,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.001,SUCCESS
+Sum: 7.514
+--------------------Execution: 5 -----------------------------------
+kornakapi,null,39707,12,9,0,8.256,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.004,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.001,SUCCESS
+Sum: 8.257
+--------------------Execution: 6 -----------------------------------
+kornakapi,null,39707,12,9,0,8.201,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.003,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.003,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.0,SUCCESS
+Sum: 8.201
+--------------------Execution: 7 -----------------------------------
+kornakapi,null,39707,12,9,0,9.236,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.003,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.011,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.004,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.001,SUCCESS
+Sum: 9.237
+--------------------Execution: 8 -----------------------------------
+kornakapi,null,39707,12,9,0,8.695,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.008,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.007,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.006,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.001,SUCCESS
+Sum: 8.696
+--------------------Execution: 9 -----------------------------------
+kornakapi,null,39707,12,9,0,9.144,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.001,SUCCESS
+Sum: 9.145
+--------------------Execution: 10 -----------------------------------
+kornakapi,null,39707,12,9,0,13.94,FAILURE
+kornakapi,org.plista.kornakapi.RegressionTest9,N/A,N/A,1,N/A,0.000,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest13,N/A,N/A,1,N/A,0.003,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest16,N/A,N/A,1,N/A,0.003,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest20,N/A,N/A,1,N/A,0.030,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest26,N/A,N/A,1,N/A,0.002,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest33,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest45,N/A,N/A,1,N/A,0.010,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest57,N/A,N/A,1,N/A,0.013,ERROR
+kornakapi,org.plista.kornakapi.RegressionTest66,N/A,N/A,1,N/A,0.001,ERROR
+kornakapi,org.plista.kornakapi.core.config.ConfigurationTest,2,0,0,0,0.001,SUCCESS
+Sum: 13.940999999999999

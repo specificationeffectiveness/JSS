@@ -1,0 +1,41 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,23.03,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,4.438,SUCCESS
+Sum: 27.468
+--------------------Execution: 2 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,21.4,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,4.505,SUCCESS
+Sum: 25.904999999999998
+--------------------Execution: 3 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,20.09,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,5.062,SUCCESS
+Sum: 25.152
+--------------------Execution: 4 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,22.02,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,4.614,SUCCESS
+Sum: 26.634
+--------------------Execution: 5 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,23.46,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,4.872,SUCCESS
+Sum: 28.332
+--------------------Execution: 6 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,22.6,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,4.679,SUCCESS
+Sum: 27.279000000000003
+--------------------Execution: 7 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,23.58,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,4.47,SUCCESS
+Sum: 28.049999999999997
+--------------------Execution: 8 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,19.97,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,4.708,SUCCESS
+Sum: 24.677999999999997
+--------------------Execution: 9 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,21.0,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,4.886,SUCCESS
+Sum: 25.886
+--------------------Execution: 10 -----------------------------------
+greplin-zookeeper-utils,com.greplin.zookeeper.RegressionTest,749,0,0,0,21.47,SUCCESS
+greplin-zookeeper-utils,com.greplin.zookeeper.RobustZooKeeperTest,4,0,0,0,4.84,SUCCESS
+Sum: 26.31

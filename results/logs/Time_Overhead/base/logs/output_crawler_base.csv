@@ -1,0 +1,171 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.029,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,1.42,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.005,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.006,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.028,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.19,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.2,SUCCESS
+Sum: 8.884
+--------------------Execution: 2 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.08,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.469,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.047,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.504,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.137,SUCCESS
+Sum: 10.242999999999999
+--------------------Execution: 3 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.034,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.464,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.005,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.022,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,0.87,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.297,SUCCESS
+Sum: 9.698
+--------------------Execution: 4 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.041,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.009,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,1.255,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.011,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.012,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.044,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,0.985,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.04,SUCCESS
+Sum: 8.406
+--------------------Execution: 5 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.089,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,1.271,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.025,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.819,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.164,SUCCESS
+Sum: 9.378
+--------------------Execution: 6 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.082,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,1.348,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.034,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.101,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.113,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.392,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.132,SUCCESS
+Sum: 9.208
+--------------------Execution: 7 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.046,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.364,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.026,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.163,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.271,SUCCESS
+Sum: 9.88
+--------------------Execution: 8 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.047,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.003,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,1.385,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.009,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.047,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.199,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.288,SUCCESS
+Sum: 8.984
+--------------------Execution: 9 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.063,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.004,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,2.163,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.002,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.027,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,1.31,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,4.264,SUCCESS
+Sum: 9.840000000000002
+--------------------Execution: 10 -----------------------------------
+crawler,net.vidageek.crawler.visitor.DomainVisitorTest,3,0,0,0,0.075,SUCCESS
+crawler,net.vidageek.crawler.link.DefaultLinkFinderTest,4,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.FrameLinkFinderTestTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.link.IframeLinkFinderTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.component.WebDownloaderTest,2,0,0,0,1.6,SUCCESS
+crawler,net.vidageek.crawler.component.UrlUtilsTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.DefaultLinkNormalizerTest,10,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.PageCrawlerTest,6,0,0,0,2.036,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationTest,5,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.config.CrawlerConfigurationBuilderTest,2,0,0,0,0.003,SUCCESS
+crawler,net.vidageek.crawler.RegressionTest,2568,0,0,0,2.035,SUCCESS
+crawler,net.vidageek.crawler.page.DefaultPageFactoryTest,3,0,0,0,0.001,SUCCESS
+crawler,net.vidageek.crawler.OkPageTest,5,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.StatusTest,1,0,0,0,0.0,SUCCESS
+crawler,net.vidageek.crawler.queue.DelayedBlockingQueueTest,4,0,0,0,3.824,SUCCESS
+Sum: 9.579

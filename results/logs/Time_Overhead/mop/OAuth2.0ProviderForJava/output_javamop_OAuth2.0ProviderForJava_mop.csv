@@ -1,0 +1,71 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.022,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,2.893,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.528,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,7.324,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 13.767999999999999
+--------------------Execution: 2 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.598,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,2.804,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.386,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,6.825,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 13.613999999999999
+--------------------Execution: 3 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.417,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,2.977,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.466,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,6.87,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 13.731
+--------------------Execution: 4 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.507,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,3.13,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.459,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,6.328,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 13.424999999999999
+--------------------Execution: 5 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.226,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,2.784,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.393,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,5.563,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 11.966999999999999
+--------------------Execution: 6 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.323,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,2.624,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.383,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,5.65,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 11.981
+--------------------Execution: 7 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.173,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,2.577,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.438,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,6.424,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 12.613
+--------------------Execution: 8 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.629,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,3.157,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.536,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,6.578,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 13.900999999999998
+--------------------Execution: 9 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.277,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,2.423,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.382,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,5.317,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 11.4
+--------------------Execution: 10 -----------------------------------
+javamop_OAuth2.0ProviderForJava,null,2470,0,0,0,3.033,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,2.968,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.393,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,5.377,SUCCESS
+javamop_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.001,SUCCESS
+Sum: 11.771999999999998

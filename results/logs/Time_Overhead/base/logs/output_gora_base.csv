@@ -1,0 +1,71 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+gora,null,2,0,0,0,0.078,SUCCESS
+gora,null,1,0,0,0,0.057,SUCCESS
+gora,null,1,0,0,0,0.13,SUCCESS
+gora,null,6,0,0,0,0.41,SUCCESS
+gora,null,2,0,0,0,0.433,SUCCESS
+Sum: 1.108
+--------------------Execution: 2 -----------------------------------
+gora,null,2,0,0,0,0.148,SUCCESS
+gora,null,1,0,0,0,0.083,SUCCESS
+gora,null,1,0,0,0,0.229,SUCCESS
+gora,null,6,0,0,0,0.731,SUCCESS
+gora,null,2,0,0,0,0.704,SUCCESS
+Sum: 1.8949999999999998
+--------------------Execution: 3 -----------------------------------
+gora,null,2,0,0,0,0.119,SUCCESS
+gora,null,1,0,0,0,0.079,SUCCESS
+gora,null,1,0,0,0,0.145,SUCCESS
+gora,null,6,0,0,0,0.667,SUCCESS
+gora,null,2,0,0,0,0.503,SUCCESS
+Sum: 1.513
+--------------------Execution: 4 -----------------------------------
+gora,null,2,0,0,0,0.13,SUCCESS
+gora,null,1,0,0,0,0.068,SUCCESS
+gora,null,1,0,0,0,0.237,SUCCESS
+gora,null,6,0,0,0,0.544,SUCCESS
+gora,null,2,0,0,0,0.484,SUCCESS
+Sum: 1.463
+--------------------Execution: 5 -----------------------------------
+gora,null,2,0,0,0,0.106,SUCCESS
+gora,null,1,0,0,0,0.057,SUCCESS
+gora,null,1,0,0,0,0.244,SUCCESS
+gora,null,6,0,0,0,0.569,SUCCESS
+gora,null,2,0,0,0,0.579,SUCCESS
+Sum: 1.555
+--------------------Execution: 6 -----------------------------------
+gora,null,2,0,0,0,0.106,SUCCESS
+gora,null,1,0,0,0,0.085,SUCCESS
+gora,null,1,0,0,0,0.215,SUCCESS
+gora,null,6,0,0,0,0.701,SUCCESS
+gora,null,2,0,0,0,0.561,SUCCESS
+Sum: 1.6680000000000001
+--------------------Execution: 7 -----------------------------------
+gora,null,2,0,0,0,0.167,SUCCESS
+gora,null,1,0,0,0,0.099,SUCCESS
+gora,null,1,0,0,0,0.221,SUCCESS
+gora,null,6,0,0,0,0.783,SUCCESS
+gora,null,2,0,0,0,0.523,SUCCESS
+Sum: 1.7930000000000001
+--------------------Execution: 8 -----------------------------------
+gora,null,2,0,0,0,0.063,SUCCESS
+gora,null,1,0,0,0,0.049,SUCCESS
+gora,null,1,0,0,0,0.129,SUCCESS
+gora,null,6,0,0,0,0.396,SUCCESS
+gora,null,2,0,0,0,0.366,SUCCESS
+Sum: 1.0030000000000001
+--------------------Execution: 9 -----------------------------------
+gora,null,2,0,0,0,0.084,SUCCESS
+gora,null,1,0,0,0,0.058,SUCCESS
+gora,null,1,0,0,0,0.135,SUCCESS
+gora,null,6,0,0,0,0.353,SUCCESS
+gora,null,2,0,0,0,0.463,SUCCESS
+Sum: 1.093
+--------------------Execution: 10 -----------------------------------
+gora,null,2,0,0,0,0.093,SUCCESS
+gora,null,1,0,0,0,0.054,SUCCESS
+gora,null,1,0,0,0,0.118,SUCCESS
+gora,null,6,0,0,0,0.433,SUCCESS
+gora,null,2,0,0,0,0.467,SUCCESS
+Sum: 1.165

@@ -1,0 +1,131 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+javamop_connector4java,null,1,0,0,0,43.510,SUCCESS
+javamop_connector4java,null,3,0,1,0,3.703,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,24.549,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 71.76655199999999
+--------------------Execution: 2 -----------------------------------
+javamop_connector4java,null,1,0,0,0,45.602,SUCCESS
+javamop_connector4java,null,3,0,1,0,3.881,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,25.729,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 75.21686700000001
+--------------------Execution: 3 -----------------------------------
+javamop_connector4java,null,1,0,0,0,46.020,SUCCESS
+javamop_connector4java,null,3,0,1,0,3.917,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,25.965,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 75.90693
+--------------------Execution: 4 -----------------------------------
+javamop_connector4java,null,1,0,0,0,43.928,SUCCESS
+javamop_connector4java,null,3,0,1,0,3.739,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,24.785,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 72.456615
+--------------------Execution: 5 -----------------------------------
+javamop_connector4java,null,1,0,0,0,42.255,SUCCESS
+javamop_connector4java,null,3,0,1,0,3.596,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,23.841,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 69.69636300000002
+--------------------Execution: 6 -----------------------------------
+javamop_connector4java,null,1,0,0,0,45.183,SUCCESS
+javamop_connector4java,null,3,0,1,0,3.846,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,25.493,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 74.52680400000001
+--------------------Execution: 7 -----------------------------------
+javamop_connector4java,null,1,0,0,0,46.857,SUCCESS
+javamop_connector4java,null,3,0,1,0,3.988,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,26.437,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 77.28705600000002
+--------------------Execution: 8 -----------------------------------
+javamop_connector4java,null,1,0,0,0,48.112,SUCCESS
+javamop_connector4java,null,3,0,1,0,4.095,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,27.146,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 79.35724499999999
+--------------------Execution: 9 -----------------------------------
+javamop_connector4java,null,1,0,0,0,46.857,SUCCESS
+javamop_connector4java,null,3,0,1,0,3.988,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,26.437,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 77.28705600000002
+--------------------Execution: 10 -----------------------------------
+javamop_connector4java,null,1,0,0,0,43.091,SUCCESS
+javamop_connector4java,null,3,0,1,0,3.668,FAILURE
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,1,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,15461,0,2591,0,24.313,FAILURE
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.001,SUCCESS
+javamop_connector4java,null,2,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,3,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,7,0,0,0,0.000,SUCCESS
+javamop_connector4java,null,4,0,0,0,0.000,SUCCESS
+Sum: 71.07648900000002

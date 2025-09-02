@@ -1,0 +1,41 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,1.198,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,322.426,SUCCESS
+Sum: 323.62399999999997
+--------------------Execution: 2 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.679,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,313.896,SUCCESS
+Sum: 314.575
+--------------------Execution: 3 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.721,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,260.541,SUCCESS
+Sum: 261.262
+--------------------Execution: 4 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.675,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,292.265,SUCCESS
+Sum: 292.94
+--------------------Execution: 5 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.677,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,267.718,SUCCESS
+Sum: 268.39500000000004
+--------------------Execution: 6 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.857,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,267.666,SUCCESS
+Sum: 268.523
+--------------------Execution: 7 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.728,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,262.82,SUCCESS
+Sum: 263.548
+--------------------Execution: 8 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.655,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,308.849,SUCCESS
+Sum: 309.50399999999996
+--------------------Execution: 9 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,0.71,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,261.117,SUCCESS
+Sum: 261.827
+--------------------Execution: 10 -----------------------------------
+CassandraCompositeType,null,1,0,0,0,1.049,SUCCESS
+CassandraCompositeType,null,4443,0,0,0,256.258,SUCCESS
+Sum: 257.30699999999996

@@ -1,0 +1,131 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.537,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,12.95,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,11.060,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.015,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.011,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.008,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.001,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.991,SUCCESS
+Sum: 17.479999999999997
+--------------------Execution: 2 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.391,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,11.22,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,9.587,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.012,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.009,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.009,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.001,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.001,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.218,SUCCESS
+Sum: 14.831
+--------------------Execution: 3 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.269,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,11.1,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,9.521,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.010,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.008,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.008,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.001,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.422,SUCCESS
+Sum: 14.793
+--------------------Execution: 4 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.296,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,11.26,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,9.641,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.014,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.010,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.008,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.0,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.893,SUCCESS
+Sum: 15.45
+--------------------Execution: 5 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.357,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,12.36,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,10.700,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.015,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.010,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.009,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.002,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.0,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.905,SUCCESS
+Sum: 16.624
+--------------------Execution: 6 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.328,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,11.17,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,9.658,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.011,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.010,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.009,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.001,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.001,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.719,SUCCESS
+Sum: 15.218999999999998
+--------------------Execution: 7 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.249,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,12.39,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,10.520,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.011,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.010,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.009,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.002,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.001,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,2.888,SUCCESS
+Sum: 16.53
+--------------------Execution: 8 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.492,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,12.55,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,10.680,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.014,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.009,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.012,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.0,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,3.036,SUCCESS
+Sum: 17.079
+--------------------Execution: 9 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.429,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,12.59,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,10.920,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.015,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.010,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.011,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.001,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,3.122,SUCCESS
+Sum: 17.143
+--------------------Execution: 10 -----------------------------------
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalFieldTest,1,0,0,0,1.974,SUCCESS
+javamop_lucene-interval-fields,null,4,0,4,0,15.05,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,12.520,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.017,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.014,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.InNumericIntervalQueryTest,N/A,N/A,1,N/A,0.015,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.LongIntervalTest,2,0,0,0,0.001,SUCCESS
+javamop_lucene-interval-fields,null,2,0,2,0,0.001,FAILURE
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.NumericIntervalIntersectionQueryTest,N/A,N/A,1,N/A,0.000,ERROR
+javamop_lucene-interval-fields,com.greplin.interval.RegressionTest,5810,0,0,0,3.014,SUCCESS
+Sum: 20.040000000000003

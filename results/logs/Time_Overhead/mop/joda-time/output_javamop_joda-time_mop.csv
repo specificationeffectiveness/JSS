@@ -1,0 +1,31 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,22.55,SUCCESS
+Sum: 22.55
+--------------------Execution: 2 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,24.437,SUCCESS
+Sum: 24.437
+--------------------Execution: 3 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,15.969,SUCCESS
+Sum: 15.969
+--------------------Execution: 4 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,16.105,SUCCESS
+Sum: 16.105
+--------------------Execution: 5 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,16.321,SUCCESS
+Sum: 16.321
+--------------------Execution: 6 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,13.837,SUCCESS
+Sum: 13.837
+--------------------Execution: 7 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,13.79,SUCCESS
+Sum: 13.79
+--------------------Execution: 8 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,14.065,SUCCESS
+Sum: 14.065
+--------------------Execution: 9 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,14.424,SUCCESS
+Sum: 14.424
+--------------------Execution: 10 -----------------------------------
+javamop_joda-time,null,4157,0,0,0,15.602,SUCCESS
+Sum: 15.602

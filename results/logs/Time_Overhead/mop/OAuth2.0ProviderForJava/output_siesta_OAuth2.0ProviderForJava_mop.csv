@@ -1,0 +1,71 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,3.262,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.188,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.064,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,1.803,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.004,SUCCESS
+Sum: 5.321
+--------------------Execution: 2 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,4.324,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.28,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.03,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,1.859,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.003,SUCCESS
+Sum: 6.496
+--------------------Execution: 3 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,3.617,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.198,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.051,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,1.607,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.003,SUCCESS
+Sum: 5.476
+--------------------Execution: 4 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,3.167,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.19,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.048,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,1.597,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.003,SUCCESS
+Sum: 5.005
+--------------------Execution: 5 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,3.446,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.196,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.036,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,1.597,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.003,SUCCESS
+Sum: 5.2780000000000005
+--------------------Execution: 6 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,3.626,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.185,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.058,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,2.032,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.004,SUCCESS
+Sum: 5.904999999999999
+--------------------Execution: 7 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,3.497,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.16,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.043,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,1.621,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.002,SUCCESS
+Sum: 5.3229999999999995
+--------------------Execution: 8 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,4.498,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.273,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.067,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,2.076,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.003,SUCCESS
+Sum: 6.917
+--------------------Execution: 9 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,3.444,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.18,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.026,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,1.671,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.003,SUCCESS
+Sum: 5.324
+--------------------Execution: 10 -----------------------------------
+siesta_OAuth2.0ProviderForJava,null,2470,0,0,0,3.029,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2MessageTest,2,0,0,0,0.177,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2ValidatorTest,16,0,0,0,0.037,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.server.OAuth2ServletTest,6,0,0,0,1.54,SUCCESS
+siesta_OAuth2.0ProviderForJava,net.oauth.v2.OAuth2Test,6,0,0,0,0.003,SUCCESS
+Sum: 4.786

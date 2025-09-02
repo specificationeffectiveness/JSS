@@ -1,0 +1,31 @@
+Project,Class Path,Tests Run,Failures,Errors,Skipped,Time Elapsed (sec),Status
+--------------------Execution: 1 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,18.237,SUCCESS
+Sum: 18.237
+--------------------Execution: 2 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,17.719,SUCCESS
+Sum: 17.719
+--------------------Execution: 3 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,23.758,SUCCESS
+Sum: 23.758
+--------------------Execution: 4 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,17.775,SUCCESS
+Sum: 17.775
+--------------------Execution: 5 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,17.732,SUCCESS
+Sum: 17.732
+--------------------Execution: 6 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,17.831,SUCCESS
+Sum: 17.831
+--------------------Execution: 7 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,18.044,SUCCESS
+Sum: 18.044
+--------------------Execution: 8 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,18.846,SUCCESS
+Sum: 18.846
+--------------------Execution: 9 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,18.055,SUCCESS
+Sum: 18.055
+--------------------Execution: 10 -----------------------------------
+siesta_joda-time,null,4157,0,0,0,18.493,SUCCESS
+Sum: 18.493
