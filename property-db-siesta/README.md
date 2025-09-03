@@ -1,2 +1,2 @@
-# property-db-msl
-Annotated msl is a language based on AspectJML and serves as a tool for generating documentation enriched with Java API properties.
+# property-db-siesta
+This dataset contains the Siesta property database, a collection of Java API specifications annotated using Siesta. The specifications are organized into categories (e.g., Lang, IO, Util, Net) and cover common usage patterns of the Java standard library. The goal of this dataset is to provide a structured resource for documentation and experimentation in runtime verification studies, as part of the replication package.
