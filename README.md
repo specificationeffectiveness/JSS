@@ -1,6 +1,6 @@
 # Siesta
 
-**Siesta (Specification Implementation for Expressing Software Temporal Assertions)** is a minimalist language designed for expressing behavioral properties.  
+**Siesta (Simple ImperativE SpecificaTion lAnguage)** is a minimalist language designed for expressing behavioral properties.  
 It is built on top of **Java**, leveraging the familiarity many developers already have with the language.  
 Siesta focuses on including only the essential elements required to express different types of properties, prioritizing simplicity over generality.
 
