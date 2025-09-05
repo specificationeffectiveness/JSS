@@ -1,8 +1,16 @@
-# Siesta
+# Siesta (Simple ImperativE SpecificaTion lAnguage)
 
-**Siesta (Simple ImperativE SpecificaTion lAnguage)** is a minimalist language designed for expressing behavioral properties.  
-It is built on top of **Java**, leveraging the familiarity many developers already have with the language.  
-Siesta focuses on including only the essential elements required to express different types of properties, prioritizing simplicity over generality.
+**Siesta** is a minimalist specification language designed to express behavioral properties of programs.
+
+It is built on top of **Java**, leveraging the familiarity that many developers already have with the language and its ecosystem.
+
+Siesta focuses on **simplicity**:
+- Includes only the minimal set of features required to express different kinds of behavioral properties.  
+- Does not aim for generality, but instead prioritizes clarity and essential expressiveness.  
+- Maintains close alignment with Java syntax, making it easy for developers to adopt.  
+
+The goal of Siesta is to provide a straightforward and efficient approach to runtime verification, reducing complexity while preserving the expressive power necessary to specify meaningful properties.
+
 
 ---
 
