@@ -1,7 +1,7 @@
 
-# JSS – Replication Package
+# IST – Replication Package
 
-Replication package of the paper titled *"Assessing the Effectiveness of a Minimalist Specification Language for Java Runtime Behavior Verification"* submitted to the **Journal of Systems and Software (JSS)**.
+Replication package of the paper titled *"Assessing the Effectiveness of a Minimalist Specification Language for Java Runtime Behavior Verification"* submitted to the **Information and Software Technology (IST)**.
 
 This study has been designed, developed, and reported by the following investigators:
 
@@ -19,13 +19,13 @@ For any information, interested researchers can contact us by opening an issue i
 If this work or the dataset is helping your research, please consider citing it as follows:
 
 ```bibtex
-@article{Lima2025_MSL_JSS_Preprint,
+@article{Lima2025_SIESTA_IST_Preprint,
   title   = {Assessing the Effectiveness of a Minimalist Specification Language for Java Runtime Behavior Verification},
   author  = {Leonardo de Souza Lima and Breno Miranda and Leopoldo Teixeira and Marcelo d'Amorim},
   journal = {Journal of Systems and Software},
   year    = {2025},
   note    = {Preprint. Under review.},
-  url     = {https://github.com/specificationeffectiveness/JSS},
+  url     = {https://github.com/specificationeffectiveness/IST},
 }
 ```
 
